@@ -12,5 +12,6 @@
 - Learning to Skim Text [[arXiv](https://arxiv.org/abs/1704.06877.pdf)]
 
 #### ICLR-17
+- AN ACTOR-CRITIC ALGORITHM FOR SEQUENCE PREDICTION [[arXiv](https://arxiv.org/abs/1607.07086.pdf)]
 - LEARNING TO REMEMBER RARE EVENTS
 - INTROSPECTION:ACCELERATING NEURAL NETWORK TRAINING BY LEARNING WEIGHT EVOLUTION [[arXiv](https://arxiv.org/abs/1704.04959.pdf)]
