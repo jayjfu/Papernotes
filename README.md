@@ -4,6 +4,7 @@
 
 #### 2017-10
 - Dynamic Routing Between Capsules [[arXiv](https://arxiv.org/abs/1710.09829v1.pdf)]
+- Unsupervised Neural Machine Translation [[arXiv](https://arxiv.org/abs/1710.11041v1)]
 
 #### 2017-06
 - A simple neural network module for relational reasoning [[arXiv](https://arxiv.org/abs/1706.01427)]
