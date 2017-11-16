@@ -14,6 +14,9 @@
 #### 2017-06
 - A simple neural network module for relational reasoning [[arXiv](https://arxiv.org/abs/1706.01427)]
 
+#### ICML-17
+- Toward Controlled Generation of Text [[arXiv](https://arxiv.org/abs/1703.00955.pdf)]
+
 #### 2017-04
 - Learning to Skim Text [[arXiv](https://arxiv.org/abs/1704.06877.pdf)]
 
