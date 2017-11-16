@@ -1,11 +1,11 @@
 # papernotes
 #### ICLR-18
-- NON-AUTOREGRESSIVE NEURAL MACHINE TRANSLATION
-- A DIRT-T APPROACH TO UNSUPERVISED DOMAIN ADAPTATION
-- ON THE INFORMATION BOTTLENECK THEORY OF DEEP LEARNING
-- mixup: BEYOND EMPIRICAL RISK MINIMIZATION
-- UNSUPERVISED MACHINE TRANSLATION USING MONOLINGUAL CORPORA ONLY
-- MATRIX CAPSULES WITH EM ROUTING
+- Non-Autoregressive Neural Machine Translation
+- A DIRT-T Approach to Unsupervised Domain Adaptation
+- On the Information Bottleneck Theory of Deep Learning
+- mixup: Beyond Empirical Risk Minimization
+- Unsupervised Machine Translation Using Monolingual Corpora Only
+- Matrix capsules with EM routing
 
 #### 2017-10
 - Dynamic Routing Between Capsules [[arXiv](https://arxiv.org/abs/1710.09829v1.pdf)]
@@ -22,6 +22,6 @@
 
 #### ICLR-17
 - Understanding deep learning requires rethinking generalization [[arXiv](https://arxiv.org/abs/1611.03530)]
-- AN ACTOR-CRITIC ALGORITHM FOR SEQUENCE PREDICTION [[arXiv](https://arxiv.org/abs/1607.07086.pdf)]
-- LEARNING TO REMEMBER RARE EVENTS [[arXiv](https://arxiv.org/abs/1703.03129)]
-- INTROSPECTION:ACCELERATING NEURAL NETWORK TRAINING BY LEARNING WEIGHT EVOLUTION [[arXiv](https://arxiv.org/abs/1704.04959.pdf)]
+- An Actor-Critic Algorithm for Sequence Prediction [[arXiv](https://arxiv.org/abs/1607.07086.pdf)]
+- Learning to Remember Rare Events [[arXiv](https://arxiv.org/abs/1703.03129)]
+- Introspection: Accelerating Neural Network Training By Learning Weight Evolution [[arXiv](https://arxiv.org/abs/1704.04959.pdf)]
