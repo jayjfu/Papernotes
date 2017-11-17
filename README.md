@@ -18,6 +18,9 @@
 #### ICML-17
 - Toward Controlled Generation of Text [[arXiv](https://arxiv.org/abs/1703.00955.pdf)]
 
+#### 2017-05
+- ParlAI: A Dialog Research Software Platform [[arXiv](https://arxiv.org/abs/1705.06476.pdf)]
+
 #### 2017-04
 - Learning to Skim Text [[arXiv](https://arxiv.org/abs/1704.06877.pdf)]
 
