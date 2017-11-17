@@ -25,3 +25,6 @@
 - An Actor-Critic Algorithm for Sequence Prediction [[arXiv](https://arxiv.org/abs/1607.07086.pdf)]
 - Learning to Remember Rare Events [[arXiv](https://arxiv.org/abs/1703.03129)]
 - Introspection: Accelerating Neural Network Training By Learning Weight Evolution [[arXiv](https://arxiv.org/abs/1704.04959.pdf)]
+
+#### 2016-10
+- Using Fast Weights to Attend to the Recent Past [[arXiv](https://arxiv.org/abs/1610.06258)]
