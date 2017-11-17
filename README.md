@@ -12,6 +12,7 @@
 - Unsupervised Neural Machine Translation [[arXiv](https://arxiv.org/abs/1710.11041v1)]
 
 #### 2017-06
+- Attention Is All You Need [[arXiv](https://arxiv.org/abs/1706.03762.pdf)]
 - A simple neural network module for relational reasoning [[arXiv](https://arxiv.org/abs/1706.01427)]
 
 #### ICML-17
