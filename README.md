@@ -1,10 +1,10 @@
 # papernotes
 #### ICLR-18
-- Non-Autoregressive Neural Machine Translation
+- Non-Autoregressive Neural Machine Translation [[arXiv](https://arxiv.org/abs/1711.02281)]
 - A DIRT-T Approach to Unsupervised Domain Adaptation
 - On the Information Bottleneck Theory of Deep Learning
 - mixup: Beyond Empirical Risk Minimization
-- Unsupervised Machine Translation Using Monolingual Corpora Only
+- Unsupervised Machine Translation Using Monolingual Corpora Only [[arXiv](https://arxiv.org/abs/1711.00043)]
 - Matrix capsules with EM routing
 
 #### 2017-10
@@ -12,7 +12,7 @@
 - Unsupervised Neural Machine Translation [[arXiv](https://arxiv.org/abs/1710.11041v1)]
 
 #### 2017-06
-- Attention Is All You Need [[arXiv](https://arxiv.org/abs/1706.03762.pdf)] [[code](https://github.com/tensorflow/tensor2tensor)]
+- Attention Is All You Need [[arXiv](https://arxiv.org/abs/1706.03762.pdf)] [[Code](https://github.com/tensorflow/tensor2tensor)]
 - A simple neural network module for relational reasoning [[arXiv](https://arxiv.org/abs/1706.01427)]
 
 #### ICML-17
