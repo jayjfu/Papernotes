@@ -11,6 +11,9 @@
 - Dynamic Routing Between Capsules [[arXiv](https://arxiv.org/abs/1710.09829v1.pdf)]
 - Unsupervised Neural Machine Translation [[arXiv](https://arxiv.org/abs/1710.11041v1)]
 
+#### NIPS-17
+- Learned in Translation: Contextualized Word Vectors [[arXiv](https://arxiv.org/abs/1708.00107.pdf)] [[Code](https://github.com/salesforce/cove)]
+
 #### 2017-06
 - Attention Is All You Need [[arXiv](https://arxiv.org/abs/1706.03762.pdf)] [[Code](https://github.com/tensorflow/tensor2tensor)]
 - A simple neural network module for relational reasoning [[arXiv](https://arxiv.org/abs/1706.01427)]
