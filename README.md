@@ -23,7 +23,7 @@
 
 #### 2017-05
 - TriviaQA: A Large Scale Distantly Supervised Challenge Dataset for Reading Comprehension [[arXiv](https://arxiv.org/abs/1705.03551.pdf)] [[dataset](http://nlp.cs.washington.edu/triviaqa/)] [[Code](https://github.com/mandarjoshi90/triviaqa)]
-- ParlAI: A Dialog Research Software Platform [[arXiv](https://arxiv.org/abs/1705.06476.pdf)]
+- ParlAI: A Dialog Research Software Platform [[arXiv](https://arxiv.org/abs/1705.06476.pdf)] [[Code](https://github.com/facebookresearch/ParlAI)]
 
 #### 2017-04
 - Learning to Skim Text [[arXiv](https://arxiv.org/abs/1704.06877.pdf)]
