@@ -1,4 +1,7 @@
 # papernotes
+#### 2017-11
+- Weighted Transformer Network for Machine Translation [[arXiv](https://arxiv.org/abs/1711.02132v1)]
+
 #### ICLR-18
 - Non-Autoregressive Neural Machine Translation [[arXiv](https://arxiv.org/abs/1711.02281)]
 - A DIRT-T Approach to Unsupervised Domain Adaptation
