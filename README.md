@@ -3,6 +3,7 @@
 - Weighted Transformer Network for Machine Translation [[arXiv](https://arxiv.org/abs/1711.02132v1)]
 
 #### ICLR-18
+- Neural Speed Reading via Skim-RNN [[arXiv](https://arxiv.org/abs/1711.02085v2)]
 - Breaking the Softmax Bottleneck: A High-Rank RNN Language Model [[arXiv](https://arxiv.org/abs/1711.03953v2)] [[Code](https://github.com/zihangdai/mos)]
 - Non-Autoregressive Neural Machine Translation [[arXiv](https://arxiv.org/abs/1711.02281)]
 - A DIRT-T Approach to Unsupervised Domain Adaptation
