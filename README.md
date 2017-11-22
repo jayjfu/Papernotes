@@ -20,6 +20,7 @@
 - Learned in Translation: Contextualized Word Vectors [[arXiv](https://arxiv.org/abs/1708.00107.pdf)] [[Code](https://github.com/salesforce/cove)]
 
 #### 2017-06
+- One Model To Learn Them All [[arXiv](https://arxiv.org/abs/1706.05137)] [[Code](https://github.com/tensorflow/tensor2tensor)]
 - Attention Is All You Need [[arXiv](https://arxiv.org/abs/1706.03762.pdf)] [[Code](https://github.com/tensorflow/tensor2tensor)]
 - A simple neural network module for relational reasoning [[arXiv](https://arxiv.org/abs/1706.01427)]
 
