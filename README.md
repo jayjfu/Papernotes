@@ -40,6 +40,7 @@
 - OpenNMT: Open-Source Toolkit for Neural Machine Translation [[arXiv](https://arxiv.org/abs/1701.02810)] [[Code](https://github.com/OpenNMT/OpenNMT)] [[Code](https://github.com/OpenNMT/OpenNMT-py)]
 
 #### ICLR-17
+- Structured Attention Networks [[arXiv](https://arxiv.org/abs/1702.00887)] [[Code](https://github.com/harvardnlp/struct-attn)]
 - Learning End-to-End Goal-Oriented Dialog [[arXiv](https://arxiv.org/abs/1605.07683)] [[dataset](http://fb.ai/babi)]
 - Understanding deep learning requires rethinking generalization [[arXiv](https://arxiv.org/abs/1611.03530)]
 - An Actor-Critic Algorithm for Sequence Prediction [[arXiv](https://arxiv.org/abs/1607.07086.pdf)]
