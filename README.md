@@ -1,5 +1,6 @@
 # papernotes
 #### 2017-11
+- Neural Discrete Representation Learning [[arXiv](https://arxiv.org/abs/1711.00937)]
 - Weighted Transformer Network for Machine Translation [[arXiv](https://arxiv.org/abs/1711.02132v1)]
 
 #### ICLR-18
