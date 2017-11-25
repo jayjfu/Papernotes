@@ -49,3 +49,6 @@
 
 #### 2016-10
 - Using Fast Weights to Attend to the Recent Past [[arXiv](https://arxiv.org/abs/1610.06258)]
+
+#### 2013-12
+- Auto-Encoding Variational Bayes [[arXiv](https://arxiv.org/abs/1312.6114)]
