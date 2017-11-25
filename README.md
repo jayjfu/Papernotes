@@ -50,5 +50,8 @@
 #### 2016-10
 - Using Fast Weights to Attend to the Recent Past [[arXiv](https://arxiv.org/abs/1610.06258)]
 
+#### 2016-09
+- SeqGAN: Sequence Generative Adversarial Nets with Policy Gradient [[arXiv](https://arxiv.org/abs/1609.05473)]
+
 #### 2013-12
 - Auto-Encoding Variational Bayes [[arXiv](https://arxiv.org/abs/1312.6114)]
