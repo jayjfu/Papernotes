@@ -29,6 +29,7 @@
 - Toward Controlled Generation of Text [[arXiv](https://arxiv.org/abs/1703.00955.pdf)]
 
 #### 2017-05
+- Adversarial Ranking for Language Generation [[arXiv](https://arxiv.org/abs/1705.11001)]
 - Learning Structured Text Representations [[arXiv](https://arxiv.org/abs/1705.09207)] [[Code](https://github.com/nlpyang/structured)]
 - TriviaQA: A Large Scale Distantly Supervised Challenge Dataset for Reading Comprehension [[arXiv](https://arxiv.org/abs/1705.03551.pdf)] [[dataset](http://nlp.cs.washington.edu/triviaqa/)] [[Code](https://github.com/mandarjoshi90/triviaqa)]
 - ParlAI: A Dialog Research Software Platform [[arXiv](https://arxiv.org/abs/1705.06476.pdf)] [[Code](https://github.com/facebookresearch/ParlAI)]
