@@ -18,6 +18,7 @@
 - Unsupervised Neural Machine Translation [[arXiv](https://arxiv.org/abs/1710.11041v1)]
 
 #### NIPS-17
+- Soft-to-Hard Vector Quantization for End-to-End Learning Compressible Representations [[arXiv](https://arxiv.org/abs/1704.00648)]
 - Learned in Translation: Contextualized Word Vectors [[arXiv](https://arxiv.org/abs/1708.00107.pdf)] [[Code](https://github.com/salesforce/cove)]
 
 #### 2017-06
