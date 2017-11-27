@@ -1,5 +1,6 @@
 # papernotes
 #### 2017-11
+- Still not systematic after all these years: On the compositional skills of sequence-to-sequence recurrent networks [[arXiv](https://arxiv.org/abs/1711.00350v1)] [[dataset](https://github.com/brendenlake/SCAN)]
 - Neural Discrete Representation Learning [[arXiv](https://arxiv.org/abs/1711.00937)]
 - Weighted Transformer Network for Machine Translation [[arXiv](https://arxiv.org/abs/1711.02132v1)]
 
