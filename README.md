@@ -31,6 +31,7 @@
 - Toward Controlled Generation of Text [[arXiv](https://arxiv.org/abs/1703.00955.pdf)]
 
 #### 2017-05
+- Learning to Ask: Neural Question Generation for Reading Comprehension [[arXiv](https://arxiv.org/abs/1705.00106)] [[Code](https://github.com/xinyadu/nqg)]
 - Adversarial Ranking for Language Generation [[arXiv](https://arxiv.org/abs/1705.11001)]
 - Learning Structured Text Representations [[arXiv](https://arxiv.org/abs/1705.09207)] [[Code](https://github.com/nlpyang/structured)]
 - TriviaQA: A Large Scale Distantly Supervised Challenge Dataset for Reading Comprehension [[arXiv](https://arxiv.org/abs/1705.03551.pdf)] [[dataset](http://nlp.cs.washington.edu/triviaqa/)] [[Code](https://github.com/mandarjoshi90/triviaqa)]
