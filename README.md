@@ -60,5 +60,8 @@
 #### 2016-09
 - SeqGAN: Sequence Generative Adversarial Nets with Policy Gradient [[arXiv](https://arxiv.org/abs/1609.05473)] [[Code](https://github.com/LantaoYu/SeqGAN)]
 
+#### 2014-06
+- Semi-Supervised Learning with Deep Generative Models [[arXiv](https://arxiv.org/abs/1406.5298)] [[Code](https://github.com/dpkingma/nips14-ssl)]
+
 #### 2013-12
 - Auto-Encoding Variational Bayes [[arXiv](https://arxiv.org/abs/1312.6114)]
