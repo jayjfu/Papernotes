@@ -64,7 +64,7 @@
 - SeqGAN: Sequence Generative Adversarial Nets with Policy Gradient [[arXiv](https://arxiv.org/abs/1609.05473)] [[Code](https://github.com/LantaoYu/SeqGAN)]
 
 #### 2016-02
-Associative Long Short-Term Memory [[arXiv](https://arxiv.org/abs/1602.03032)]
+- Associative Long Short-Term Memory [[arXiv](https://arxiv.org/abs/1602.03032)]
 
 #### 2014-06
 - Semi-Supervised Learning with Deep Generative Models [[arXiv](https://arxiv.org/abs/1406.5298)] [[Code](https://github.com/dpkingma/nips14-ssl)]
