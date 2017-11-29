@@ -40,6 +40,8 @@
 - ParlAI: A Dialog Research Software Platform [[arXiv](https://arxiv.org/abs/1705.06476.pdf)] [[Code](https://github.com/facebookresearch/ParlAI)]
 
 #### 2017-04
+- From Language to Programs: Bridging Reinforcement Learning and Maximum Marginal Likelihood [[arXiv](https://arxiv.org/abs/1704.07926)] [[Code](https://github.com/kelvinguu/lang2program)]
+- Learning to Skim Text [[arXiv](https://arxiv.org/abs/1704.06877)]
 - Reading Wikipedia to Answer Open-Domain Questions [[arXiv](https://arxiv.org/abs/1704.00051)]
 - Learning to Skim Text [[arXiv](https://arxiv.org/abs/1704.06877.pdf)]
 
