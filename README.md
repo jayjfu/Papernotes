@@ -33,6 +33,7 @@
 - A simple neural network module for relational reasoning [[arXiv](https://arxiv.org/abs/1706.01427)]
 
 #### ICML-17
+- Conditional Image Synthesis With Auxiliary Classifier GANs [[arXiv](https://arxiv.org/abs/1610.09585)]
 - Toward Controlled Generation of Text [[arXiv](https://arxiv.org/abs/1703.00955)]
 
 #### 2017-05
@@ -65,10 +66,17 @@
 #### 2016-09
 - SeqGAN: Sequence Generative Adversarial Nets with Policy Gradient [[arXiv](https://arxiv.org/abs/1609.05473)] [[Code](https://github.com/LantaoYu/SeqGAN)]
 
+#### 2016-06
+- InfoGAN: Interpretable Representation Learning by Information Maximizing Generative Adversarial Nets [[arXiv](https://arxiv.org/abs/1606.03657)]
+
 #### 2016-02
 - Associative Long Short-Term Memory [[arXiv](https://arxiv.org/abs/1602.03032)]
 
+#### 2014-11
+- Conditional Generative Adversarial Nets [[arXiv](https://arxiv.org/abs/1411.1784)]
+
 #### 2014-06
+- Generative Adversarial Networks [[arXiv](https://arxiv.org/abs/1406.2661)]
 - Semi-Supervised Learning with Deep Generative Models [[arXiv](https://arxiv.org/abs/1406.5298)] [[Code](https://github.com/dpkingma/nips14-ssl)]
 
 #### 2013-12
