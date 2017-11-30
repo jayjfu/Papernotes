@@ -1,5 +1,8 @@
 # papernotes
 #### 2017-11
+- Distilling a Neural Network Into a Soft Decision Tree [[arXiv](https://arxiv.org/abs/1711.09784)]
+- SVCCA: Singular Vector Canonical Correlation Analysis for Deep Learning Dynamics and Interpretability [[arXiv](https://arxiv.org/abs/1706.05806)] [[Code](https://github.com/google/svcca)]
+- Non-local Neural Networks [[arXiv](https://arxiv.org/abs/1711.07971v1)]
 - Pushing the Limits of Paraphrastic Sentence Embeddings with Millions of Machine Translations [[arXiv](https://arxiv.org/abs/1711.05732)] [[dataset](https://github.com/jwieting)] [[Code](https://github.com/jwieting)]
 - Still not systematic after all these years: On the compositional skills of sequence-to-sequence recurrent networks [[arXiv](https://arxiv.org/abs/1711.00350)] [[dataset](https://github.com/brendenlake/SCAN)]
 - Neural Discrete Representation Learning [[arXiv](https://arxiv.org/abs/1711.00937)]
