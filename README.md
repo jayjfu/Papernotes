@@ -1,13 +1,13 @@
 # papernotes
 #### 2017-11
-- Pushing the Limits of Paraphrastic Sentence Embeddings with Millions of Machine Translations [[arXiv](https://arxiv.org/abs/1711.05732v1)] [[dataset](https://github.com/jwieting)] [[Code](https://github.com/jwieting)]
-- Still not systematic after all these years: On the compositional skills of sequence-to-sequence recurrent networks [[arXiv](https://arxiv.org/abs/1711.00350v1)] [[dataset](https://github.com/brendenlake/SCAN)]
+- Pushing the Limits of Paraphrastic Sentence Embeddings with Millions of Machine Translations [[arXiv](https://arxiv.org/abs/1711.05732)] [[dataset](https://github.com/jwieting)] [[Code](https://github.com/jwieting)]
+- Still not systematic after all these years: On the compositional skills of sequence-to-sequence recurrent networks [[arXiv](https://arxiv.org/abs/1711.00350)] [[dataset](https://github.com/brendenlake/SCAN)]
 - Neural Discrete Representation Learning [[arXiv](https://arxiv.org/abs/1711.00937)]
-- Weighted Transformer Network for Machine Translation [[arXiv](https://arxiv.org/abs/1711.02132v1)]
+- Weighted Transformer Network for Machine Translation [[arXiv](https://arxiv.org/abs/1711.02132)]
 
 #### ICLR-18
-- Neural Speed Reading via Skim-RNN [[arXiv](https://arxiv.org/abs/1711.02085v2)]
-- Breaking the Softmax Bottleneck: A High-Rank RNN Language Model [[arXiv](https://arxiv.org/abs/1711.03953v2)] [[Code](https://github.com/zihangdai/mos)]
+- Neural Speed Reading via Skim-RNN [[arXiv](https://arxiv.org/abs/1711.02085)]
+- Breaking the Softmax Bottleneck: A High-Rank RNN Language Model [[arXiv](https://arxiv.org/abs/1711.03953)] [[Code](https://github.com/zihangdai/mos)]
 - Non-Autoregressive Neural Machine Translation [[arXiv](https://arxiv.org/abs/1711.02281)]
 - A DIRT-T Approach to Unsupervised Domain Adaptation
 - On the Information Bottleneck Theory of Deep Learning
@@ -16,8 +16,8 @@
 - Matrix capsules with EM routing
 
 #### 2017-10
-- Dynamic Routing Between Capsules [[arXiv](https://arxiv.org/abs/1710.09829v1)]
-- Unsupervised Neural Machine Translation [[arXiv](https://arxiv.org/abs/1710.11041v1)]
+- Dynamic Routing Between Capsules [[arXiv](https://arxiv.org/abs/1710.09829)]
+- Unsupervised Neural Machine Translation [[arXiv](https://arxiv.org/abs/1710.11041)]
 
 #### NIPS-17
 - Soft-to-Hard Vector Quantization for End-to-End Learning Compressible Representations [[arXiv](https://arxiv.org/abs/1704.00648)]
