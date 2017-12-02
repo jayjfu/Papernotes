@@ -1,5 +1,6 @@
 # papernotes
 #### 2017-11
+- Are GANs Created Equal? A Large-Scale Study [[arXiv](https://arxiv.org/abs/1711.10337)]
 - Distilling a Neural Network Into a Soft Decision Tree [[arXiv](https://arxiv.org/abs/1711.09784)]
 - SVCCA: Singular Vector Canonical Correlation Analysis for Deep Learning Dynamics and Interpretability [[arXiv](https://arxiv.org/abs/1706.05806)] [[Code](https://github.com/google/svcca)]
 - Non-local Neural Networks [[arXiv](https://arxiv.org/abs/1711.07971v1)]
