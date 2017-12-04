@@ -73,6 +73,9 @@
 #### 2016-02
 - Associative Long Short-Term Memory [[arXiv](https://arxiv.org/abs/1602.03032)]
 
+#### 2015-11
+- Generating Sentences from a Continuous Space [[arXiv](https://arxiv.org/abs/1511.06349)]
+
 #### 2014-11
 - Conditional Generative Adversarial Nets [[arXiv](https://arxiv.org/abs/1411.1784)]
 
