@@ -28,6 +28,7 @@
 - Dynamic Evaluation of Neural Sequence Models [[arXiv](https://arxiv.org/abs/1709.07432)] [[Code](https://github.com/benkrause/dynamic-evaluation)]
 
 #### NIPS-17
+- Dilated Recurrent Neural Networks [[arXiv](https://arxiv.org/abs/1710.02224)] [[Code](https://github.com/code-terminator/DilatedRNN)]
 - Wider and Deeper, Cheaper and Faster: Tensorized LSTMs for Sequence Learning [[arXiv](https://arxiv.org/abs/1711.01577)]
 - Soft-to-Hard Vector Quantization for End-to-End Learning Compressible Representations [[arXiv](https://arxiv.org/abs/1704.00648)]
 - Learned in Translation: Contextualized Word Vectors [[arXiv](https://arxiv.org/abs/1708.00107)] [[Code](https://github.com/salesforce/cove)]
