@@ -1,4 +1,14 @@
 # papernotes
+#### ICLR-18
+- Neural Speed Reading via Skim-RNN [[arXiv](https://arxiv.org/abs/1711.02085)]
+- Breaking the Softmax Bottleneck: A High-Rank RNN Language Model [[arXiv](https://arxiv.org/abs/1711.03953)] [[Code](https://github.com/zihangdai/mos)]
+- Non-Autoregressive Neural Machine Translation [[arXiv](https://arxiv.org/abs/1711.02281)]
+- A DIRT-T Approach to Unsupervised Domain Adaptation
+- On the Information Bottleneck Theory of Deep Learning
+- mixup: Beyond Empirical Risk Minimization
+- Unsupervised Machine Translation Using Monolingual Corpora Only [[arXiv](https://arxiv.org/abs/1711.00043)]
+- Matrix capsules with EM routing
+
 #### 2017-11
 - Memory Aware Synapses: Learning what (not) to forget [[arXiv](https://arxiv.org/abs/1711.09601)]
 - Are GANs Created Equal? A Large-Scale Study [[arXiv](https://arxiv.org/abs/1711.10337)]
@@ -10,19 +20,12 @@
 - Neural Discrete Representation Learning [[arXiv](https://arxiv.org/abs/1711.00937)]
 - Weighted Transformer Network for Machine Translation [[arXiv](https://arxiv.org/abs/1711.02132)]
 
-#### ICLR-18
-- Neural Speed Reading via Skim-RNN [[arXiv](https://arxiv.org/abs/1711.02085)]
-- Breaking the Softmax Bottleneck: A High-Rank RNN Language Model [[arXiv](https://arxiv.org/abs/1711.03953)] [[Code](https://github.com/zihangdai/mos)]
-- Non-Autoregressive Neural Machine Translation [[arXiv](https://arxiv.org/abs/1711.02281)]
-- A DIRT-T Approach to Unsupervised Domain Adaptation
-- On the Information Bottleneck Theory of Deep Learning
-- mixup: Beyond Empirical Risk Minimization
-- Unsupervised Machine Translation Using Monolingual Corpora Only [[arXiv](https://arxiv.org/abs/1711.00043)]
-- Matrix capsules with EM routing
-
 #### 2017-10
 - Dynamic Routing Between Capsules [[arXiv](https://arxiv.org/abs/1710.09829)]
 - Unsupervised Neural Machine Translation [[arXiv](https://arxiv.org/abs/1710.11041)]
+
+#### 2017-09
+- Dynamic Evaluation of Neural Sequence Models [[arXiv](https://arxiv.org/abs/1709.07432)] [[Code](https://github.com/benkrause/dynamic-evaluation)]
 
 #### NIPS-17
 - Wider and Deeper, Cheaper and Faster: Tensorized LSTMs for Sequence Learning [[arXiv](https://arxiv.org/abs/1711.01577)]
