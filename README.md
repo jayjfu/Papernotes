@@ -52,6 +52,9 @@
 - Reading Wikipedia to Answer Open-Domain Questions [[arXiv](https://arxiv.org/abs/1704.00051)]
 - Learning to Skim Text [[arXiv](https://arxiv.org/abs/1704.06877)]
 
+#### 2017-02
+- A Hybrid Convolutional Variational Autoencoder for Text Generation [[arXiv](https://arxiv.org/abs/1702.02390)] [[Code](https://github.com/stas-semeniuta/textvae)]
+
 #### 2017-01
 - OpenNMT: Open-Source Toolkit for Neural Machine Translation [[arXiv](https://arxiv.org/abs/1701.02810)] [[Code](https://github.com/OpenNMT/OpenNMT)] [[Code](https://github.com/OpenNMT/OpenNMT-py)]
 
