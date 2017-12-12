@@ -3,6 +3,7 @@
 - Show-and-Fool: Crafting Adversarial Examples for Neural Image Captioning [[arXiv](https://arxiv.org/abs/1712.02051)] [[Code](https://github.com/huanzhang12/ImageCaptioningAttack)]
 
 #### ICLR-18
+- Deep Autoencoding Gaussian Mixture Model for Unsupervised Anomaly Detection
 - Wasserstein Auto-Encoders [[arXiv](https://arxiv.org/abs/1711.01558)]
 - Neural Speed Reading via Skim-RNN [[arXiv](https://arxiv.org/abs/1711.02085)]
 - Breaking the Softmax Bottleneck: A High-Rank RNN Language Model [[arXiv](https://arxiv.org/abs/1711.03953)] [[Code](https://github.com/zihangdai/mos)]
