@@ -92,6 +92,7 @@
 - Associative Long Short-Term Memory [[arXiv](https://arxiv.org/abs/1602.03032)]
 
 #### 2015-11
+- Neural Variational Inference for Text Processing [[arXiv](https://arxiv.org/abs/1511.06038)]
 - Generating Sentences from a Continuous Space [[arXiv](https://arxiv.org/abs/1511.06349)]
 
 #### 2014-11
