@@ -15,6 +15,7 @@
 - Matrix capsules with EM routing
 
 #### 2017-11
+- Neural Text Generation: A Practical Guide [[arXiv](https://arxiv.org/abs/1711.09534v1)]
 - Memory Aware Synapses: Learning what (not) to forget [[arXiv](https://arxiv.org/abs/1711.09601)]
 - Are GANs Created Equal? A Large-Scale Study [[arXiv](https://arxiv.org/abs/1711.10337)]
 - Distilling a Neural Network Into a Soft Decision Tree [[arXiv](https://arxiv.org/abs/1711.09784)]
