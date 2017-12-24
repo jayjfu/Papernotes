@@ -102,6 +102,9 @@
 - Neural Variational Inference for Text Processing [[arXiv](https://arxiv.org/abs/1511.06038)]
 - Generating Sentences from a Continuous Space [[arXiv](https://arxiv.org/abs/1511.06349)]
 
+#### 2014-12
+- Adam: A Method for Stochastic Optimization [[arXiv](https://arxiv.org/abs/1412.6980)]
+
 #### 2014-11
 - Conditional Generative Adversarial Nets [[arXiv](https://arxiv.org/abs/1411.1784)]
 
