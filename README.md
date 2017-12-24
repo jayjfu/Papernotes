@@ -1,5 +1,6 @@
 # papernotes
 #### 2017-12
+- Regularization and Optimization strategies in Deep Convolutional Neural Network [[arXiv](https://arxiv.org/abs/1712.04711)]
 - Mathematics of Deep Learning [[arXiv](https://arxiv.org/abs/1712.04741)]
 - Text Generation Based on Generative Adversarial Nets with Latent Variable [[arXiv](https://arxiv.org/abs/1712.00170v1)]
 - Deliberation Networks: Sequence Generation Beyond One-Pass Decoding
