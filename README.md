@@ -1,5 +1,6 @@
 # papernotes
 #### 2017-12
+- Deep Learning Scaling is Predictable, Empirically [[arXiv](https://arxiv.org/abs/1712.00409v1)]
 - SGAN: An Alternative Training of Generative Adversarial Networks [[arXiv](https://arxiv.org/abs/1712.02330v1)]
 - The NarrativeQA Reading Comprehension Challenge [[arXiv](https://arxiv.org/abs/1712.07040v1)] [[dataset](https://github.com/deepmind/narrativeqa)]
 - Regularization and Optimization strategies in Deep Convolutional Neural Network [[arXiv](https://arxiv.org/abs/1712.04711)]
