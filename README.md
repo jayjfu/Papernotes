@@ -22,6 +22,7 @@
 - Matrix capsules with EM routing
 
 #### 2017-11
+- MinimalRNN: Toward More Interpretable and Trainable Recurrent Neural Networks [[arXiv](https://arxiv.org/abs/1711.06788v1)]
 - Are You Talking to Me? Reasoned Visual Dialog Generation through Adversarial Learning [[arXiv](https://arxiv.org/abs/1711.07613v1)]
 - Neural Text Generation: A Practical Guide [[arXiv](https://arxiv.org/abs/1711.09534v1)]
 - Memory Aware Synapses: Learning what (not) to forget [[arXiv](https://arxiv.org/abs/1711.09601)]
