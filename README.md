@@ -1,5 +1,6 @@
 # papernotes
 #### 2017-12
+- Mathematics of Deep Learning [[arXiv](https://arxiv.org/abs/1712.04741)]
 - Text Generation Based on Generative Adversarial Nets with Latent Variable [[arXiv](https://arxiv.org/abs/1712.00170v1)]
 - Deliberation Networks: Sequence Generation Beyond One-Pass Decoding
 - Show-and-Fool: Crafting Adversarial Examples for Neural Image Captioning [[arXiv](https://arxiv.org/abs/1712.02051)] [[Code](https://github.com/huanzhang12/ImageCaptioningAttack)]
