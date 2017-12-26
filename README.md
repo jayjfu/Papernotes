@@ -94,6 +94,9 @@
 - Learning to Remember Rare Events [[arXiv](https://arxiv.org/abs/1703.03129)]
 - Introspection: Accelerating Neural Network Training By Learning Weight Evolution [[arXiv](https://arxiv.org/abs/1704.04959)]
 
+#### 2016-11
+- Image-to-Image Translation with Conditional Adversarial Networks [[arXiv](https://arxiv.org/abs/1611.07004v2)] [[Code](https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix)]
+
 #### 2016-10
 - Using Fast Weights to Attend to the Recent Past [[arXiv](https://arxiv.org/abs/1610.06258)]
 
