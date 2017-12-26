@@ -75,6 +75,7 @@
 - Learning to Skim Text [[arXiv](https://arxiv.org/abs/1704.06877)]
 
 #### 2017-03
+- Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks [[arXiv](https://arxiv.org/abs/1703.10593)] [[Code](https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix)]
 - Evolution Strategies as a Scalable Alternative to Reinforcement Learning [[arXiv](https://arxiv.org/abs/1703.03864)] [[Code](https://github.com/openai/evolution-strategies-starter)] [[Code](https://github.com/atgambardella/pytorch-es)]
 
 #### 2017-02
