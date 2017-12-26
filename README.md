@@ -112,6 +112,9 @@
 - Neural Variational Inference for Text Processing [[arXiv](https://arxiv.org/abs/1511.06038)]
 - Generating Sentences from a Continuous Space [[arXiv](https://arxiv.org/abs/1511.06349)]
 
+#### 2015-06
+- Skip-Thought Vectors [[arXiv](https://arxiv.org/abs/1506.06726)]
+
 #### 2014-12
 - Adam: A Method for Stochastic Optimization [[arXiv](https://arxiv.org/abs/1412.6980)]
 
