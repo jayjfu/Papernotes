@@ -10,6 +10,7 @@
 - Show-and-Fool: Crafting Adversarial Examples for Neural Image Captioning [[arXiv](https://arxiv.org/abs/1712.02051)] [[Code](https://github.com/huanzhang12/ImageCaptioningAttack)]
 
 #### ICLR-18
+- Backpropagation through the Void: Optimizing control variates for black-box gradient estimation [[arXiv](https://arxiv.org/abs/1711.00123)] [[Code](https://github.com/duvenaud/relax)]
 - Deep Autoencoding Gaussian Mixture Model for Unsupervised Anomaly Detection
 - Wasserstein Auto-Encoders [[arXiv](https://arxiv.org/abs/1711.01558)]
 - Neural Speed Reading via Skim-RNN [[arXiv](https://arxiv.org/abs/1711.02085)]
