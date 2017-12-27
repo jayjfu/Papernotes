@@ -65,6 +65,7 @@
 - Toward Controlled Generation of Text [[arXiv](https://arxiv.org/abs/1703.00955)]
 
 #### 2017-05
+- Supervised Learning of Universal Sentence Representations from Natural Language Inference Data [[arXiv](https://arxiv.org/abs/1705.02364)] [[Code](https://github.com/facebookresearch/InferSent)] [[Code](https://github.com/facebookresearch/SentEval)]
 - Learning to Ask: Neural Question Generation for Reading Comprehension [[arXiv](https://arxiv.org/abs/1705.00106)] [[Code](https://github.com/xinyadu/nqg)]
 - Adversarial Ranking for Language Generation [[arXiv](https://arxiv.org/abs/1705.11001)]
 - Learning Structured Text Representations [[arXiv](https://arxiv.org/abs/1705.09207)] [[Code](https://github.com/nlpyang/structured)]
