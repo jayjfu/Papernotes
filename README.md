@@ -44,6 +44,7 @@
 - Dynamic Evaluation of Neural Sequence Models [[arXiv](https://arxiv.org/abs/1709.07432)] [[Code](https://github.com/benkrause/dynamic-evaluation)]
 
 #### NIPS-17
+- REBAR: Low-variance, unbiased gradient estimates for discrete latent variable models [[arXiv](https://arxiv.org/abs/1703.07370)] [[Code](https://github.com/tensorflow/models/tree/master/research/rebar)]
 - Poincaré Embeddings for Learning Hierarchical Representations [[arXiv](https://arxiv.org/abs/1705.08039)]
 - Character-Level Language Modeling with Recurrent Highway Hypernetworks [[Code](https://github.com/jsuarez5341/Recurrent-Highway-Hypernetworks-NIPS)] 
 - Dilated Recurrent Neural Networks [[arXiv](https://arxiv.org/abs/1710.02224)] [[Code](https://github.com/code-terminator/DilatedRNN)]
