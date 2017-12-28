@@ -1,5 +1,6 @@
 # papernotes
 #### 2017-12
+- A Flexible Approach to Automated RNN Architecture Generation [[arXiv](https://arxiv.org/abs/1712.07316v1)]
 - Lectures on Randomized Numerical Linear Algebra [[arXiv](https://arxiv.org/abs/1712.08880)]
 - Data Distillation: Towards Omni-Supervised Learning [[arXiv](https://arxiv.org/abs/1712.04440)]
 - Deep Learning Scaling is Predictable, Empirically [[arXiv](https://arxiv.org/abs/1712.00409v1)]
