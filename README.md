@@ -53,6 +53,9 @@
 - Soft-to-Hard Vector Quantization for End-to-End Learning Compressible Representations [[arXiv](https://arxiv.org/abs/1704.00648)]
 - Learned in Translation: Contextualized Word Vectors [[arXiv](https://arxiv.org/abs/1708.00107)] [[Code](https://github.com/salesforce/cove)]
 
+#### 2017-08
+- Tips and Tricks for Visual Question Answering: Learnings from the 2017 Challenge [[arXiv](https://arxiv.org/abs/1708.02711)] [[Code](https://github.com/hengyuan-hu/bottom-up-attention-vqa)]
+
 #### 2017-07
 - Bottom-Up and Top-Down Attention for Image Captioning and Visual Question Answering [[arXiv](https://arxiv.org/abs/1707.07998)] [[Code](https://github.com/hengyuan-hu/bottom-up-attention-vqa)]
 
