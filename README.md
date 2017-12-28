@@ -144,3 +144,6 @@
 
 #### 2013-12
 - Auto-Encoding Variational Bayes [[arXiv](https://arxiv.org/abs/1312.6114)]
+
+#### 2012-06
+- Variational Bayesian Inference with Stochastic Search [[arXiv](https://arxiv.org/abs/1206.6430)]
