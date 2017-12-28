@@ -1,5 +1,6 @@
 # papernotes
 #### 2017-12
+- Learning by Asking Questions [[arXiv](https://arxiv.org/abs/1712.01238v1)]
 - A Flexible Approach to Automated RNN Architecture Generation [[arXiv](https://arxiv.org/abs/1712.07316v1)]
 - Lectures on Randomized Numerical Linear Algebra [[arXiv](https://arxiv.org/abs/1712.08880)]
 - Data Distillation: Towards Omni-Supervised Learning [[arXiv](https://arxiv.org/abs/1712.04440)]
