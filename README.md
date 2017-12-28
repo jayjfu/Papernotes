@@ -51,6 +51,7 @@
 - Dynamic Evaluation of Neural Sequence Models [[arXiv](https://arxiv.org/abs/1709.07432)] [[Code](https://github.com/benkrause/dynamic-evaluation)]
 
 #### NIPS-17
+- Plan, Attend, Generate: Planning for Sequence-to-Sequence Models [[arXiv](https://arxiv.org/abs/1711.10462v1)]
 - REBAR: Low-variance, unbiased gradient estimates for discrete latent variable models [[arXiv](https://arxiv.org/abs/1703.07370)] [[Code](https://github.com/tensorflow/models/tree/master/research/rebar)]
 - Poincaré Embeddings for Learning Hierarchical Representations [[arXiv](https://arxiv.org/abs/1705.08039)]
 - Character-Level Language Modeling with Recurrent Highway Hypernetworks [[Code](https://github.com/jsuarez5341/Recurrent-Highway-Hypernetworks-NIPS)] 
