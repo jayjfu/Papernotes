@@ -74,6 +74,7 @@
 - A simple neural network module for relational reasoning [[arXiv](https://arxiv.org/abs/1706.01427)]
 
 #### ICML-17
+- Large-Scale Evolution of Image Classifiers [[arXiv](https://arxiv.org/abs/1703.01041)]
 - Improved Variational Autoencoders for Text Modeling using Dilated Convolutions [[arXiv](https://arxiv.org/abs/1702.08139)]
 - Conditional Image Synthesis With Auxiliary Classifier GANs [[arXiv](https://arxiv.org/abs/1610.09585)]
 - Toward Controlled Generation of Text [[arXiv](https://arxiv.org/abs/1703.00955)]
