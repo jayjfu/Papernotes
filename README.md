@@ -1,5 +1,6 @@
 # papernotes
 #### 2017-12
+- Non-convex Optimization for Machine Learning [[arXiv](https://arxiv.org/abs/1712.07897)]
 - Improving Generalization Performance by Switching from Adam to SGD [[arXiv](https://arxiv.org/abs/1712.07628v1)]
 - Learning by Asking Questions [[arXiv](https://arxiv.org/abs/1712.01238v1)]
 - A Flexible Approach to Automated RNN Architecture Generation [[arXiv](https://arxiv.org/abs/1712.07316v1)]
