@@ -126,6 +126,7 @@
 - SeqGAN: Sequence Generative Adversarial Nets with Policy Gradient [[arXiv](https://arxiv.org/abs/1609.05473)] [[Code](https://github.com/LantaoYu/SeqGAN)]
 
 #### 2016-06
+- Convolution by Evolution: Differentiable Pattern Producing Networks [[arXiv](https://arxiv.org/abs/1606.02580)]
 - Conditional Image Generation with PixelCNN Decoders [[arXiv](https://arxiv.org/abs/1606.05328)]
 - InfoGAN: Interpretable Representation Learning by Information Maximizing Generative Adversarial Nets [[arXiv](https://arxiv.org/abs/1606.03657)]
 
