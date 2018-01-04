@@ -1,4 +1,7 @@
 # papernotes
+#### 2018-01
+- DeepMind Control Suite [[arXiv](https://arxiv.org/abs/1801.00690)] [[dataset](https://github.com/deepmind/dm_control)]
+
 #### 2017-12
 - Non-convex Optimization for Machine Learning [[arXiv](https://arxiv.org/abs/1712.07897)]
 - Improving Generalization Performance by Switching from Adam to SGD [[arXiv](https://arxiv.org/abs/1712.07628v1)]
