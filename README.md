@@ -136,6 +136,9 @@
 - Conditional Image Generation with PixelCNN Decoders [[arXiv](https://arxiv.org/abs/1606.05328)]
 - InfoGAN: Interpretable Representation Learning by Information Maximizing Generative Adversarial Nets [[arXiv](https://arxiv.org/abs/1606.03657)]
 
+#### 2016-04
+- Benchmarking Deep Reinforcement Learning for Continuous Control [[arXiv](https://arxiv.org/abs/1604.06778)] [[Code](https://github.com/rll/rllab)]
+
 #### 2016-02
 - Associative Long Short-Term Memory [[arXiv](https://arxiv.org/abs/1602.03032)]
 
