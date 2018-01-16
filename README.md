@@ -1,5 +1,6 @@
 # papernotes
 #### 2018-01
+- Adversarial Spheres [[arXiv](https://arxiv.org/abs/1801.02774)]
 - Neural Program Synthesis with Priority Queue Training [[arXiv](https://arxiv.org/abs/1801.03526)] [[Code](https://github.com/tensorflow/models/tree/master/research/brain_coder)]
 - Adversarial Generative Nets: Neural Network Attacks on State-of-the-Art Face Recognition [[arXiv](https://arxiv.org/abs/1801.00349)]
 - DeepMind Control Suite [[arXiv](https://arxiv.org/abs/1801.00690)] [[dataset](https://github.com/deepmind/dm_control)]
