@@ -1,5 +1,6 @@
 # papernotes
 #### 2018-01
+- Unsupervised Real-to-Virtual Domain Unification for End-to-End Highway Driving [[arXiv](https://arxiv.org/abs/1801.03458)]
 - SBNet: Sparse Blocks Network for Fast Inference [[arXiv](https://arxiv.org/abs/1801.02108)]
 - Deep Stereo Matching with Explicit Cost Aggregation Sub-Architecture [[arXiv](https://arxiv.org/abs/1801.04065)]
 - Adversarial Spheres [[arXiv](https://arxiv.org/abs/1801.02774)]
