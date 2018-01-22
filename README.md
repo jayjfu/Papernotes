@@ -1,5 +1,6 @@
 # papernotes
 #### 2018-01
+- DENSER: Deep Evolutionary Network Structured Representation [[arXiv](https://arxiv.org/abs/1801.01563)]
 - Building a Conversational Agent Overnight with Dialogue Self-Play [[arXiv](https://arxiv.org/abs/1801.04871)]
 - Unsupervised Real-to-Virtual Domain Unification for End-to-End Highway Driving [[arXiv](https://arxiv.org/abs/1801.03458)]
 - SBNet: Sparse Blocks Network for Fast Inference [[arXiv](https://arxiv.org/abs/1801.02108)]
