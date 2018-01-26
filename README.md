@@ -1,5 +1,6 @@
 # papernotes
 #### 2018-01
+- Deep Learning for Sentiment Analysis : A Survey [[arXiv](https://arxiv.org/abs/1801.07883)]
 - Understanding the Disharmony between Dropout and Batch Normalization by Variance Shift [[arXiv](https://arxiv.org/abs/1801.05134)]
 - DENSER: Deep Evolutionary Network Structured Representation [[arXiv](https://arxiv.org/abs/1801.01563)]
 - Building a Conversational Agent Overnight with Dialogue Self-Play [[arXiv](https://arxiv.org/abs/1801.04871)]
