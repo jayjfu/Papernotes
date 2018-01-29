@@ -1,5 +1,6 @@
 # papernotes
 #### 2018-01
+- Global overview of Imitation Learning [[arXiv](https://arxiv.org/abs/1801.06503)]
 - MaskGAN: Better Text Generation via Filling in the ______ [[arXiv](https://arxiv.org/abs/1801.07736)]
 - Deep Learning for Sentiment Analysis : A Survey [[arXiv](https://arxiv.org/abs/1801.07883)]
 - Understanding the Disharmony between Dropout and Batch Normalization by Variance Shift [[arXiv](https://arxiv.org/abs/1801.05134)]
