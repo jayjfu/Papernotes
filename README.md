@@ -124,6 +124,7 @@
 - A Hybrid Convolutional Variational Autoencoder for Text Generation [[arXiv](https://arxiv.org/abs/1702.02390)] [[Code](https://github.com/stas-semeniuta/textvae)]
 
 #### 2017-01
+- Wasserstein GAN [[arXiv](https://arxiv.org/abs/1701.07875)] [[Code](https://github.com/martinarjovsky/WassersteinGAN)]
 - Adversarial Learning for Neural Dialogue Generation [[arXiv](https://arxiv.org/abs/1701.06547)]
 - Deep Reinforcement Learning: An Overview [[arXiv](https://arxiv.org/abs/1701.07274)]
 - OpenNMT: Open-Source Toolkit for Neural Machine Translation [[arXiv](https://arxiv.org/abs/1701.02810)] [[Code](https://github.com/OpenNMT/OpenNMT)] [[Code](https://github.com/OpenNMT/OpenNMT-py)]
