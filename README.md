@@ -75,6 +75,7 @@
 - Dynamic Evaluation of Neural Sequence Models [[arXiv](https://arxiv.org/abs/1709.07432)] [[Code](https://github.com/benkrause/dynamic-evaluation)]
 
 #### NIPS-17
+- Improved Training of Wasserstein GANs [[arXiv](https://arxiv.org/abs/1704.00028)] [[Code](https://github.com/igul222/improved_wgan_training)] [[Code](https://github.com/caogang/wgan-gp)]
 - The Reversible Residual Network: Backpropagation Without Storing Activations [[arXiv](https://arxiv.org/abs/1707.04585)] [[Code](https://github.com/renmengye/revnet-public)] [[Code](https://github.com/tbung/pytorch-revnet)]
 - Plan, Attend, Generate: Planning for Sequence-to-Sequence Models [[arXiv](https://arxiv.org/abs/1711.10462v1)]
 - REBAR: Low-variance, unbiased gradient estimates for discrete latent variable models [[arXiv](https://arxiv.org/abs/1703.07370)] [[Code](https://github.com/tensorflow/models/tree/master/research/rebar)]
