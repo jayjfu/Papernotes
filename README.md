@@ -58,6 +58,7 @@
 - Matrix capsules with EM routing
 
 #### 2017-11
+- Hierarchical Representations for Efficient Architecture Search [[arXiv](https://arxiv.org/abs/1711.00436v2)]
 - Embedding Words as Distributions with a Bayesian Skip-gram Model [[arXiv](https://arxiv.org/abs/1711.11027v1)]
 - Deep Image Prior [[arXiv](https://arxiv.org/abs/1711.10925)] [[Code](https://github.com/DmitryUlyanov/deep-image-prior)]
 - MinimalRNN: Toward More Interpretable and Trainable Recurrent Neural Networks [[arXiv](https://arxiv.org/abs/1711.06788v1)]
