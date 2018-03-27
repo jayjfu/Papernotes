@@ -113,6 +113,7 @@
 - Toward Controlled Generation of Text [[arXiv](https://arxiv.org/abs/1703.00955)]
 
 #### 2017-05
+- Ask the Right Questions: Active Question Reformulation with Reinforcement Learning [[arXiv](https://arxiv.org/abs/1705.07830)]
 - Supervised Learning of Universal Sentence Representations from Natural Language Inference Data [[arXiv](https://arxiv.org/abs/1705.02364)] [[Code](https://github.com/facebookresearch/InferSent)] [[Code](https://github.com/facebookresearch/SentEval)]
 - Learning to Ask: Neural Question Generation for Reading Comprehension [[arXiv](https://arxiv.org/abs/1705.00106)] [[Code](https://github.com/xinyadu/nqg)]
 - Adversarial Ranking for Language Generation [[arXiv](https://arxiv.org/abs/1705.11001)]
