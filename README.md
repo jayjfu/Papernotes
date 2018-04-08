@@ -1,4 +1,7 @@
 # papernotes
+#### 2018-03
+- Learning Longer-term Dependencies in RNNs with Auxiliary Losses [[arXiv](https://arxiv.org/abs/1803.00144)]
+
 #### 2018-02
 - Machine Theory of Mind [[arXiv](https://arxiv.org/abs/1802.07740)] 
 - Efficient Neural Architecture Search via Parameter Sharing [[arXiv](https://arxiv.org/abs/1802.03268)]
