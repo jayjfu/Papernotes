@@ -1,5 +1,6 @@
 # papernotes
 #### 2018-03
+- On the importance of single directions for generalization [[arXiv](https://arxiv.org/abs/1803.06959)]
 - Group Normalization [[arXiv](https://arxiv.org/abs/1803.08494)]
 - Compositional Attention Networks for Machine Reasoning [[arXiv](https://arxiv.org/abs/1803.03067)]
 - Learning Longer-term Dependencies in RNNs with Auxiliary Losses [[arXiv](https://arxiv.org/abs/1803.00144)]
