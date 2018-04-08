@@ -1,5 +1,6 @@
 # papernotes
 #### 2018-02
+- Machine Theory of Mind [[arXiv](https://arxiv.org/abs/1802.07740)] 
 - Efficient Neural Architecture Search via Parameter Sharing [[arXiv](https://arxiv.org/abs/1802.03268)]
 - Interpreting CNNs via Decision Trees [[arXiv](https://arxiv.org/abs/1802.00121)]
 - DensePose: Dense Human Pose Estimation In The Wild [[arXiv](https://arxiv.org/abs/1802.00434)] [[dataset](http://densepose.org/)]
