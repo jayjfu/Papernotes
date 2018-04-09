@@ -1,5 +1,6 @@
 # papernotes
 #### 2018-03
+- Averaging Weights Leads to Wider Optima and Better Generalization [[arXiv](https://arxiv.org/abs/1803.05407v1)]
 - On the importance of single directions for generalization [[arXiv](https://arxiv.org/abs/1803.06959)]
 - Group Normalization [[arXiv](https://arxiv.org/abs/1803.08494)]
 - Compositional Attention Networks for Machine Reasoning [[arXiv](https://arxiv.org/abs/1803.03067)]
