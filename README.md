@@ -1,4 +1,7 @@
 # papernotes
+#### 2018-04
+- Learning General Purpose Distributed Sentence Representations via Large Scale Multi-task Learning [[arXiv](https://arxiv.org/abs/1804.00079v1)] [[Code](https://github.com/Maluuba/gensen)]
+
 #### 2018-03
 - Universal Sentence Encoder [[arXiv](https://arxiv.org/abs/1803.11175v1)]
 - Averaging Weights Leads to Wider Optima and Better Generalization [[arXiv](https://arxiv.org/abs/1803.05407v1)]
