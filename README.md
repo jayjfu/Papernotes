@@ -3,6 +3,7 @@
 - Learning General Purpose Distributed Sentence Representations via Large Scale Multi-task Learning [[arXiv](https://arxiv.org/abs/1804.00079v1)] [[Code](https://github.com/Maluuba/gensen)]
 
 #### 2018-03
+- Feudal Reinforcement Learning for Dialogue Management in Large Domains [[arXiv](https://arxiv.org/abs/1803.03232)]
 - Universal Sentence Encoder [[arXiv](https://arxiv.org/abs/1803.11175v1)]
 - Averaging Weights Leads to Wider Optima and Better Generalization [[arXiv](https://arxiv.org/abs/1803.05407v1)]
 - On the importance of single directions for generalization [[arXiv](https://arxiv.org/abs/1803.06959)]
