@@ -21,6 +21,7 @@
 - Obfuscated Gradients Give a False Sense of Security: Circumventing Defenses to Adversarial Examples [[arXiv](https://arxiv.org/abs/1802.00420)] [[Code](https://github.com/anishathalye/obfuscated-gradients)]
 
 #### 2018-01
+- Reinforced Self-Attention Network: a Hybrid of Hard and Soft Attention for Sequence Modeling [[arXiv](https://arxiv.org/abs/1801.10296)]
 - Quantum Computing in the NISQ era and beyond [[arXiv](https://arxiv.org/abs/1801.00862)]
 - Active Neural Localization [[arXiv](https://arxiv.org/abs/1801.08214)]
 - Global overview of Imitation Learning [[arXiv](https://arxiv.org/abs/1801.06503)]
