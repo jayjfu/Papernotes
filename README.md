@@ -1,5 +1,6 @@
 # papernotes
 #### 2018-04
+- Differentiable plasticity: training plastic neural networks with backpropagation [[arXiv](https://arxiv.org/abs/1804.02464)]
 - Learning General Purpose Distributed Sentence Representations via Large Scale Multi-task Learning [[arXiv](https://arxiv.org/abs/1804.00079v1)] [[Code](https://github.com/Maluuba/gensen)]
 
 #### 2018-03
