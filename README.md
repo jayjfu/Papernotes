@@ -16,6 +16,7 @@
 - Learning Longer-term Dependencies in RNNs with Auxiliary Losses [[arXiv](https://arxiv.org/abs/1803.00144)]
 
 #### 2018-02
+- Deep contextualized word representation [[arXiv](https://arxiv.org/abs/1802.05365v2)]
 - Loss Surfaces, Mode Connectivity, and Fast Ensembling of DNNs [[arXiv](https://arxiv.org/abs/1802.10026)]
 - Machine Theory of Mind [[arXiv](https://arxiv.org/abs/1802.07740)] 
 - Efficient Neural Architecture Search via Parameter Sharing [[arXiv](https://arxiv.org/abs/1802.03268)]
