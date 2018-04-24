@@ -8,6 +8,7 @@
 - Learning General Purpose Distributed Sentence Representations via Large Scale Multi-task Learning [[arXiv](https://arxiv.org/abs/1804.00079v1)] [[Code](https://github.com/Maluuba/gensen)]
 
 #### 2018-03
+- A disciplined approach to neural network hyper-parameters: Part 1 -- learning rate, batch size, momentum, and weight decay [[arXiv](https://arxiv.org/abs/1803.09820)]
 - Feudal Reinforcement Learning for Dialogue Management in Large Domains [[arXiv](https://arxiv.org/abs/1803.03232)]
 - Universal Sentence Encoder [[arXiv](https://arxiv.org/abs/1803.11175v1)]
 - Averaging Weights Leads to Wider Optima and Better Generalization [[arXiv](https://arxiv.org/abs/1803.05407v1)]
