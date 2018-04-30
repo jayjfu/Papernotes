@@ -8,6 +8,7 @@
 - Learning General Purpose Distributed Sentence Representations via Large Scale Multi-task Learning [[arXiv](https://arxiv.org/abs/1804.00079v1)] [[Code](https://github.com/Maluuba/gensen)]
 
 #### 2018-03
+- Referring Relationships [[arXiv](https://arxiv.org/abs/1803.10362)]
 - Iterative Visual Reasoning Beyond Convolutions [[arXiv](https://arxiv.org/abs/1803.11189)]
 - World Models [[arXiv](https://arxiv.org/abs/1803.10122)]
 - Transparency by Design: Closing the Gap Between Performance and Interpretability in Visual Reasoning [[arXiv](https://arxiv.org/abs/1803.05268)]
