@@ -8,6 +8,7 @@
 - Learning General Purpose Distributed Sentence Representations via Large Scale Multi-task Learning [[arXiv](https://arxiv.org/abs/1804.00079v1)] [[Code](https://github.com/Maluuba/gensen)]
 
 #### 2018-03
+- World Models [[arXiv](https://arxiv.org/abs/1803.10122)]
 - Transparency by Design: Closing the Gap Between Performance and Interpretability in Visual Reasoning [[arXiv](https://arxiv.org/abs/1803.05268)]
 - A disciplined approach to neural network hyper-parameters: Part 1 -- learning rate, batch size, momentum, and weight decay [[arXiv](https://arxiv.org/abs/1803.09820)]
 - Feudal Reinforcement Learning for Dialogue Management in Large Domains [[arXiv](https://arxiv.org/abs/1803.03232)]
