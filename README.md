@@ -22,6 +22,7 @@
 - Learning Longer-term Dependencies in RNNs with Auxiliary Losses [[arXiv](https://arxiv.org/abs/1803.00144)]
 
 #### 2018-02
+- Regularized Evolution for Image Classifier Architecture Search [[arXiv](https://arxiv.org/abs/1802.01548)]
 - Visual Interpretability for Deep Learning: a Survey [[arXiv](https://arxiv.org/abs/1802.00614)]
 - Deep contextualized word representation [[arXiv](https://arxiv.org/abs/1802.05365v2)]
 - Loss Surfaces, Mode Connectivity, and Fast Ensembling of DNNs [[arXiv](https://arxiv.org/abs/1802.10026)]
