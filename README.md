@@ -42,7 +42,7 @@
 - Quantum Computing in the NISQ era and beyond [[arXiv](https://arxiv.org/abs/1801.00862)]
 - Active Neural Localization [[arXiv](https://arxiv.org/abs/1801.08214)]
 - Global overview of Imitation Learning [[arXiv](https://arxiv.org/abs/1801.06503)]
-- MaskGAN: Better Text Generation via Filling in the ______ [[arXiv](https://arxiv.org/abs/1801.07736)]
+- MaskGAN: Better Text Generation via Filling in the ______ [[arXiv](https://arxiv.org/abs/1801.07736)] [[Code](https://github.com/tensorflow/models/tree/master/research/maskgan)]
 - Deep Learning for Sentiment Analysis : A Survey [[arXiv](https://arxiv.org/abs/1801.07883)]
 - Understanding the Disharmony between Dropout and Batch Normalization by Variance Shift [[arXiv](https://arxiv.org/abs/1801.05134)]
 - DENSER: Deep Evolutionary Network Structured Representation [[arXiv](https://arxiv.org/abs/1801.01563)]
