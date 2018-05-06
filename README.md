@@ -1,6 +1,7 @@
 # papernotes
 
 #### 2018-04
+- Decoupled Networks [[arXiv](https://arxiv.org/abs/1804.08071)]
 - Learned Deformation Stability in Convolutional Neural Networks [[arXiv](https://arxiv.org/abs/1804.04438)]
 - Phrase-Based & Neural Unsupervised Machine Translation [[arXiv](https://arxiv.org/abs/1804.07755)]
 - Learning to Map Context-Dependent Sentences to Executable Formal Queries [[arXiv](https://arxiv.org/abs/1804.06868)] [[Code](https://github.com/clic-lab/atis)]
