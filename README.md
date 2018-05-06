@@ -1,5 +1,8 @@
 # papernotes
 
+#### 2018-05
+- Reinforcement Learning and Control as Probabilistic Inference: Tutorial and Review [[arXiv](https://arxiv.org/abs/1805.00909)]
+
 #### 2018-04
 - Low Rank Structure of Learned Representations [[arXiv](https://arxiv.org/abs/1804.07090)]
 - Decoupled Networks [[arXiv](https://arxiv.org/abs/1804.08071)]
