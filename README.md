@@ -157,6 +157,7 @@
 - ParlAI: A Dialog Research Software Platform [[arXiv](https://arxiv.org/abs/1705.06476)] [[Code](https://github.com/facebookresearch/ParlAI)]
 
 #### 2017-04
+- Stochastic Gradient Descent as Approximate Bayesian Inference [[arXiv](https://arxiv.org/abs/1704.04289)]
 - Snapshot Ensembles: Train 1, get M for free [[arXiv](https://arxiv.org/abs/1704.00109)] [[Code](https://github.com/gaohuang/SnapshotEnsemble)] [[Code](https://github.com/titu1994/Snapshot-Ensembles)]
 - From Language to Programs: Bridging Reinforcement Learning and Maximum Marginal Likelihood [[arXiv](https://arxiv.org/abs/1704.07926)] [[Code](https://github.com/kelvinguu/lang2program)]
 - Reading Wikipedia to Answer Open-Domain Questions [[arXiv](https://arxiv.org/abs/1704.00051)]
