@@ -14,6 +14,7 @@
 - Learning General Purpose Distributed Sentence Representations via Large Scale Multi-task Learning [[arXiv](https://arxiv.org/abs/1804.00079v1)] [[Code](https://github.com/Maluuba/gensen)]
 
 #### 2018-03
+- Variance Networks: When Expectation Does Not Meet Your Expectations [[arXiv](https://arxiv.org/abs/1803.03764)]
 - Referring Relationships [[arXiv](https://arxiv.org/abs/1803.10362)]
 - Iterative Visual Reasoning Beyond Convolutions [[arXiv](https://arxiv.org/abs/1803.11189)]
 - World Models [[arXiv](https://arxiv.org/abs/1803.10122)]
