@@ -167,6 +167,7 @@
 - Evolution Strategies as a Scalable Alternative to Reinforcement Learning [[arXiv](https://arxiv.org/abs/1703.03864)] [[Code](https://github.com/openai/evolution-strategies-starter)] [[Code](https://github.com/atgambardella/pytorch-es)]
 
 #### 2017-02
+- Exploring loss function topology with cyclical learning rates [[arXiv](https://arxiv.org/abs/1702.04283)] [[Code](https://github.com/lnsmith54/exploring-loss)]
 - A Hybrid Convolutional Variational Autoencoder for Text Generation [[arXiv](https://arxiv.org/abs/1702.02390)] [[Code](https://github.com/stas-semeniuta/textvae)]
 
 #### 2017-01
