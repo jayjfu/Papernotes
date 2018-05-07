@@ -196,6 +196,9 @@
 - Language as a Latent Variable: Discrete Generative Models for Sentence Compression [[arXiv](https://arxiv.org/abs/1609.07317)]
 - SeqGAN: Sequence Generative Adversarial Nets with Policy Gradient [[arXiv](https://arxiv.org/abs/1609.05473)] [[Code](https://github.com/LantaoYu/SeqGAN)]
 
+#### 2016-08
+- SGDR: Stochastic Gradient Descent with Warm Restarts [[arXiv](https://arxiv.org/abs/1608.03983)] [[Code](https://github.com/loshchil/SGDR)]
+
 #### 2016-06
 - Convolution by Evolution: Differentiable Pattern Producing Networks [[arXiv](https://arxiv.org/abs/1606.02580)]
 - Conditional Image Generation with PixelCNN Decoders [[arXiv](https://arxiv.org/abs/1606.05328)]
