@@ -212,6 +212,7 @@
 - Generating Sentences from a Continuous Space [[arXiv](https://arxiv.org/abs/1511.06349)]
 
 #### 2015-06
+- Cyclical Learning Rates for Training Neural Networks [[arXiv](https://arxiv.org/abs/1506.01186)] [[Code](https://github.com/bckenstler/CLR)]
 - Skip-Thought Vectors [[arXiv](https://arxiv.org/abs/1506.06726)]
 
 #### 2015-05
