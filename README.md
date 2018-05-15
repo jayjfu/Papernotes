@@ -4,6 +4,7 @@
 - Reinforcement Learning and Control as Probabilistic Inference: Tutorial and Review [[arXiv](https://arxiv.org/abs/1805.00909)]
 
 #### 2018-04
+- When and Why are Pre-trained Word Embeddings Useful for Neural Machine Translation? [[arXiv](https://arxiv.org/abs/1804.06323v2)]
 - QANet: Combining Local Convolution with Global Self-Attention for Reading Comprehension [[arXiv](https://arxiv.org/abs/1804.09541v1)]
 - Seq2Seq-Vis: A Visual Debugging Tool for Sequence-to-Sequence Models [[arXiv](https://arxiv.org/abs/1804.09299)] [[Code](https://github.com/HendrikStrobelt/Seq2Seq-Vis)]
 - Low Rank Structure of Learned Representations [[arXiv](https://arxiv.org/abs/1804.07090)]
