@@ -1,7 +1,7 @@
 # papernotes
 
 #### 2018-05
-- Did the Model Understand the Question? [[arXiv](https://arxiv.org/abs/1805.05492)]
+- Did the Model Understand the Question? [[arXiv](https://arxiv.org/abs/1805.05492)] [[Code](https://github.com/pramodkaushik/acl18_results)]
 - From Word to Sense Embeddings: A Survey on Vector Representations of Meaning [[arXiv](https://arxiv.org/abs/1805.04032v2)]
 - Reinforcement Learning and Control as Probabilistic Inference: Tutorial and Review [[arXiv](https://arxiv.org/abs/1805.00909)]
 
