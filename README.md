@@ -1,6 +1,7 @@
 # papernotes
 
 #### 2018-05
+- Born Again Neural Networks [[arXiv](https://arxiv.org/abs/1805.04770)]
 - Convolutional CRFs for Semantic Segmentation [[arXiv](https://arxiv.org/abs/1805.04777)]  [[Code](https://github.com/MarvinTeichmann/ConvCRF)]
 - Did the Model Understand the Question? [[arXiv](https://arxiv.org/abs/1805.05492)] [[Code](https://github.com/pramodkaushik/acl18_results)]
 - From Word to Sense Embeddings: A Survey on Vector Representations of Meaning [[arXiv](https://arxiv.org/abs/1805.04032v2)]
