@@ -1,5 +1,8 @@
 # papernotes
 
+#### ICML-18
+- Delayed Impact of Fair Machine Learning [[arXiv](https://arxiv.org/abs/1803.04383)]
+
 #### 2018-05
 - AutoAugment: Learning Augmentation Policies from Data [[arXiv](https://arxiv.org/abs/1805.09501)]
 - Meta-Gradient Reinforcement Learning [[arXiv](https://arxiv.org/abs/1805.09801)]
