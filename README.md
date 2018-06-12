@@ -4,6 +4,7 @@
 - Delayed Impact of Fair Machine Learning [[arXiv](https://arxiv.org/abs/1803.04383)]
 
 #### 2018-05
+- Small steps and giant leaps: Minimal Newton solvers for Deep Learning [[arXiv](https://arxiv.org/abs/1805.08095)]
 - AutoAugment: Learning Augmentation Policies from Data [[arXiv](https://arxiv.org/abs/1805.09501)]
 - Meta-Gradient Reinforcement Learning [[arXiv](https://arxiv.org/abs/1805.09801)]
 - Born Again Neural Networks [[arXiv](https://arxiv.org/abs/1805.04770)]
