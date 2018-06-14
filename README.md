@@ -1,5 +1,8 @@
 # papernotes
 
+#### 2018-06
+- Relational inductive biases, deep learning, and graph networks [[arXiv](https://arxiv.org/abs/1806.01261)]
+
 #### ICML-18
 - Delayed Impact of Fair Machine Learning [[arXiv](https://arxiv.org/abs/1803.04383)]
 
