@@ -1,7 +1,7 @@
 # papernotes
 
 #### 2018-06
-- Know What You Don't Know: Unanswerable Questions for SQuAD [[arXiv](https://arxiv.org/abs/1806.03822)] [[data](https://bit.ly/2rDHBgY)]
+- Know What You Don't Know: Unanswerable Questions for SQuAD [[arXiv](https://arxiv.org/abs/1806.03822)] [[dataset](https://rajpurkar.github.io/SQuAD-explorer/)]
 - Relational inductive biases, deep learning, and graph networks [[arXiv](https://arxiv.org/abs/1806.01261)]
 
 #### ICML-18
