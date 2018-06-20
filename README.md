@@ -1,6 +1,7 @@
 # papernotes
 
 #### 2018-06
+- GLoMo: Unsupervisedly Learned Relational Graphs as Transferable Representations [[arXiv](https://arxiv.org/abs/1806.05662)]
 - Know What You Don't Know: Unanswerable Questions for SQuAD [[arXiv](https://arxiv.org/abs/1806.03822)] [[dataset](https://rajpurkar.github.io/SQuAD-explorer/)]
 - Relational inductive biases, deep learning, and graph networks [[arXiv](https://arxiv.org/abs/1806.01261)]
 
