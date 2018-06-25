@@ -1,6 +1,7 @@
 # papernotes
 
 #### 2018-06
+- Playing Atari with Six Neurons [[arXiv](https://arxiv.org/abs/1806.01363)]
 - Dynamical Isometry and a Mean Field Theory of CNNs: How to Train 10,000-Layer Vanilla Convolutional Neural Networks [[arXiv](https://arxiv.org/abs/1806.05393)]
 - GLoMo: Unsupervisedly Learned Relational Graphs as Transferable Representations [[arXiv](https://arxiv.org/abs/1806.05662)]
 - Know What You Don't Know: Unanswerable Questions for SQuAD [[arXiv](https://arxiv.org/abs/1806.03822)] [[dataset](https://rajpurkar.github.io/SQuAD-explorer/)]
