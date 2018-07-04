@@ -9,6 +9,7 @@
 - Relational inductive biases, deep learning, and graph networks [[arXiv](https://arxiv.org/abs/1806.01261)]
 
 #### ICML-18
+- Delayed Impact of Fair Machine Learning [[arXiv](https://arxiv.org/abs/1803.04383)]
 - Obfuscated Gradients Give a False Sense of Security: Circumventing Defenses to Adversarial Examples [[arXiv](https://arxiv.org/abs/1802.00420)] [[Code](https://github.com/anishathalye/obfuscated-gradients)]
 - Delayed Impact of Fair Machine Learning [[arXiv](https://arxiv.org/abs/1803.04383)]
 
