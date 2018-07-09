@@ -1,6 +1,7 @@
 # papernotes
 
 #### 2018-06
+- An empirical study on evaluation metrics of generative adversarial networks [[arXiv](https://arxiv.org/abs/1806.07755)]
 - Relational recurrent neural networks [[arXiv](https://arxiv.org/abs/1806.01822)]
 - RUDDER: Return Decomposition for Delayed Rewards [[arXiv](https://arxiv.org/abs/1806.07857)] [[Code](https://github.com/ml-jku/baselines-rudder)]
 - Playing Atari with Six Neurons [[arXiv](https://arxiv.org/abs/1806.01363)]
