@@ -6,6 +6,7 @@
 - Reaching Human-level Performance in Automatic Grammatical Error Correction: An Empirical Study [[arXiv](https://arxiv.org/abs/1807.01270)]
 
 #### 2018-06
+- Gaussian mixture models with Wasserstein distance [[arXiv](https://arxiv.org/abs/1806.04465)]
 - Adversarial Reprogramming of Neural Networks [[arXiv](https://arxiv.org/abs/1806.11146)]
 - Error Compensated Quantized SGD and its Applications to Large-scale Distributed Optimization [[arXiv](https://arxiv.org/abs/1806.08054)]
 - An empirical study on evaluation metrics of generative adversarial networks [[arXiv](https://arxiv.org/abs/1806.07755)]
