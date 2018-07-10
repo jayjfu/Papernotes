@@ -1,6 +1,7 @@
 # papernotes
 
 #### 2018-07
+- Neural Processes [[arXiv](https://arxiv.org/abs/1807.01622)]
 - Reaching Human-level Performance in Automatic Grammatical Error Correction: An Empirical Study [[arXiv](https://arxiv.org/abs/1807.01270)]
 
 #### 2018-06
