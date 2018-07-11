@@ -40,6 +40,7 @@
 - Reinforcement Learning and Control as Probabilistic Inference: Tutorial and Review [[arXiv](https://arxiv.org/abs/1805.00909)]
 
 #### 2018-04
+- Learning Semantic Textual Similarity from Conversations [[arXiv](https://arxiv.org/abs/1804.07754)]
 - QANet: Combining Local Convolution with Global Self-Attention for Reading Comprehension [[Code](https://github.com/hengruo/QANet-pytorch)]
 - When and Why are Pre-trained Word Embeddings Useful for Neural Machine Translation? [[arXiv](https://arxiv.org/abs/1804.06323v2)]
 - QANet: Combining Local Convolution with Global Self-Attention for Reading Comprehension [[arXiv](https://arxiv.org/abs/1804.09541v1)]
