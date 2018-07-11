@@ -24,6 +24,7 @@
 - Delayed Impact of Fair Machine Learning [[arXiv](https://arxiv.org/abs/1803.04383)]
 
 #### 2018-05
+- What you can cram into a single vector: Probing sentence embeddings for linguistic properties [[arXiv](https://arxiv.org/abs/1805.01070)]
 - Training Classifiers with Natural Language Explanations [[arXiv](https://arxiv.org/abs/1805.03818)] [[Code](https://github.com/HazyResearch/babble)]
 - Deep Reinforcement Learning For Sequence to Sequence Models [[arXiv](https://arxiv.org/abs/1805.09461)] [[Code](https://github.com/yaserkl/RLSeq2Seq)]
 - Baseline Needs More Love: On Simple Word-Embedding-Based Models and Associated Pooling Mechanisms [[arXiv](https://arxiv.org/abs/1805.09843)] [[Code](https://github.com/dinghanshen/SWEM)]
