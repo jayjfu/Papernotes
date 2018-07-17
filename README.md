@@ -7,6 +7,7 @@
 - Reaching Human-level Performance in Automatic Grammatical Error Correction: An Empirical Study [[arXiv](https://arxiv.org/abs/1807.01270)]
 
 #### 2018-06
+- On the Spectral Bias of Deep Neural Networks [[arXiv](https://arxiv.org/abs/1806.08734)]
 - Neural Network Models for Paraphrase Identification, Semantic Textual Similarity, Natural Language Inference, and Question Answering [[arXiv](https://arxiv.org/abs/1806.04330)] [[Code](https://github.com/lanwuwei/SPM_toolkit)]
 - Gaussian mixture models with Wasserstein distance [[arXiv](https://arxiv.org/abs/1806.04465)]
 - Adversarial Reprogramming of Neural Networks [[arXiv](https://arxiv.org/abs/1806.11146)]
