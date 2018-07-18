@@ -46,6 +46,7 @@
 - Reinforcement Learning and Control as Probabilistic Inference: Tutorial and Review [[arXiv](https://arxiv.org/abs/1805.00909)]
 
 #### 2018-04
+- Unsupervised Discrete Sentence Representation Learning for Interpretable Neural Dialog Generation [[arXiv](https://arxiv.org/abs/1804.08069)] [[Code](https://github.com/snakeztc/NeuralDialog-LAED)]
 - Learning Semantic Textual Similarity from Conversations [[arXiv](https://arxiv.org/abs/1804.07754)]
 - QANet: Combining Local Convolution with Global Self-Attention for Reading Comprehension [[Code](https://github.com/hengruo/QANet-pytorch)]
 - When and Why are Pre-trained Word Embeddings Useful for Neural Machine Translation? [[arXiv](https://arxiv.org/abs/1804.06323v2)]
