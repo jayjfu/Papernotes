@@ -7,6 +7,7 @@
 - Reaching Human-level Performance in Automatic Grammatical Error Correction: An Empirical Study [[arXiv](https://arxiv.org/abs/1807.01270)]
 
 #### 2018-06
+- Guided evolutionary strategies: escaping the curse of dimensionality in random search [[arXiv](https://arxiv.org/abs/1806.10230)]
 - Theory IIIb: Generalization in Deep Networks [[arXiv](https://arxiv.org/abs/1806.11379)]
 - Hierarchical Graph Representation Learning with Differentiable Pooling [[arXiv](https://arxiv.org/abs/1806.08804)]
 - On the Spectral Bias of Deep Neural Networks [[arXiv](https://arxiv.org/abs/1806.08734)]
