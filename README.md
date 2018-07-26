@@ -167,6 +167,7 @@
 - Unsupervised Neural Machine Translation [[arXiv](https://arxiv.org/abs/1710.11041)]
 
 #### 2017-09
+- Empower Sequence Labeling with Task-Aware Neural Language Model [[arXiv](https://arxiv.org/abs/1709.04109)] [[Code](https://github.com/LiyuanLucasLiu/LM-LSTM-CRF)]
 - Dynamic Evaluation of Neural Sequence Models [[arXiv](https://arxiv.org/abs/1709.07432)] [[Code](https://github.com/benkrause/dynamic-evaluation)]
 
 #### NIPS-17
