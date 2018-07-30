@@ -1,7 +1,8 @@
 # papernotes
 
 #### 2018-07
-- - Encoding Spatial Relations from Natural Language [[arXiv](https://arxiv.org/abs/1807.01670)]
+- Latent Alignment and Variational Attention [[arXiv](https://arxiv.org/abs/1807.03756)]
+- Encoding Spatial Relations from Natural Language [[arXiv](https://arxiv.org/abs/1807.01670)]
 - The GAN Landscape: Losses, Architectures, Regularization, and Normalization [[arXiv](https://arxiv.org/abs/1807.04720)] [[Code](https://github.com/google/compare_gan)]
 - Conditional Neural Processes [[arXiv](https://arxiv.org/abs/1807.01613)]
 - Neural Processes [[arXiv](https://arxiv.org/abs/1807.01622)]
