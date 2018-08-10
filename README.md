@@ -1,6 +1,7 @@
 # papernotes
 
 #### 2018-07
+- TensorFuzz: Debugging Neural Networks with Coverage-Guided Fuzzing [[arXiv](https://arxiv.org/abs/1807.10875)]
 - Glow: Generative Flow with Invertible 1x1 Convolutions [[arXiv](https://arxiv.org/abs/1807.03039)]
 - Policy Optimization With Penalized Point Probability Distance: An Alternative To Proximal Policy Optimization [[arXiv](https://arxiv.org/abs/1807.00442)] [[Code](https://github.com/cxxgtxy/POP3D)]
 - Representation Learning with Contrastive Predictive Coding [[arXiv](https://arxiv.org/abs/1807.03748)]
