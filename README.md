@@ -1,5 +1,12 @@
 # papernotes
 
+#### ICLR-18
+
+#### NIPS-18
+
+#### 2018-08
+- A Study of Reinforcement Learning for Neural Machine Translation [[arXiv](https://arxiv.org/abs/1808.08866)]
+
 #### 2018-07
 - Universal Transformers [[arXiv](https://arxiv.org/abs/1807.03819)] [[Code](https://github.com/tensorflow/tensor2tensor)]
 - Implementing Neural Turing Machines [[arXiv](https://arxiv.org/abs/1807.08518)]
