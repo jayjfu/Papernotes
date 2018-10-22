@@ -1,6 +1,7 @@
 # papernotes
 
 #### ICLR-18
+- Large Scale GAN Training for High Fidelity Natural Image Synthesis [[arXiv](https://arxiv.org/abs/1809.11096)]
 
 #### NIPS-18
 
