@@ -5,6 +5,7 @@
 #### NIPS-18
 
 #### 2018-08
+- Large-Scale Study of Curiosity-Driven Learning [[arXiv](https://arxiv.org/abs/1808.04355)]
 - A Study of Reinforcement Learning for Neural Machine Translation [[arXiv](https://arxiv.org/abs/1808.08866)]
 
 #### 2018-07
