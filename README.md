@@ -5,6 +5,7 @@
 #### NIPS-18
 
 #### 2018-08
+- Learning deep representations by mutual information estimation and maximization [[arXiv](https://arxiv.org/abs/1808.06670)]
 - Large-Scale Study of Curiosity-Driven Learning [[arXiv](https://arxiv.org/abs/1808.04355)]
 - A Study of Reinforcement Learning for Neural Machine Translation [[arXiv](https://arxiv.org/abs/1808.08866)]
 
