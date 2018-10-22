@@ -5,6 +5,7 @@
 #### NIPS-18
 
 #### 2018-08
+- Training Deeper Neural Machine Translation Models with Transparent Attention [[arXiv](https://arxiv.org/abs/1808.07561)]
 - Contextual Parameter Generation for Universal Neural Machine Translation [[arXiv](https://arxiv.org/abs/1808.08493)][[Code](https://github.com/eaplatanios/symphony-mt)]
 - CoQA: A Conversational Question Answering Challenge [[arXiv](https://arxiv.org/abs/1808.07042)]
 - Learning deep representations by mutual information estimation and maximization [[arXiv](https://arxiv.org/abs/1808.06670)]
