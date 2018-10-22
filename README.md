@@ -73,6 +73,7 @@
 - Reinforcement Learning and Control as Probabilistic Inference: Tutorial and Review [[arXiv](https://arxiv.org/abs/1805.00909)]
 
 #### 2018-04
+- Linguistically-Informed Self-Attention for Semantic Role Labeling [[arXiv](https://arxiv.org/abs/1804.08199)]
 - Taskonomy: Disentangling Task Transfer Learning [[arXiv](https://arxiv.org/abs/1804.08328)] [[Code](https://github.com/StanfordVL/taskonomy)]
 - Unsupervised Discrete Sentence Representation Learning for Interpretable Neural Dialog Generation [[arXiv](https://arxiv.org/abs/1804.08069)] [[Code](https://github.com/snakeztc/NeuralDialog-LAED)]
 - Learning Semantic Textual Similarity from Conversations [[arXiv](https://arxiv.org/abs/1804.07754)]
