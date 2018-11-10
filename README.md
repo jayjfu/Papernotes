@@ -1,6 +1,7 @@
 # papernotes
 
 #### ICLR-18
+- Rethinking the Value of Network Pruning [[arXiv](https://arxiv.org/abs/1810.05270)]
 - Shallow Learning For Deep Networks 
 - Large Scale GAN Training for High Fidelity Natural Image Synthesis [[arXiv](https://arxiv.org/abs/1809.11096)]
 
