@@ -10,6 +10,7 @@
 - Gradient Descent Provably Optimizes Over-parameterized Neural Networks [[arXiv](https://arxiv.org/abs/1810.02054)]
 
 #### 2018-09
+- Uncovering divergent linguistic information in word embeddings with lessons for intrinsic and extrinsic evaluation [[arXiv](https://arxiv.org/abs/1809.02094)]
 - Sparse Attentive Backtracking: Temporal CreditAssignment Through Reminding [[arXiv](https://arxiv.org/abs/1809.03702)]
 
 #### NIPS-18
