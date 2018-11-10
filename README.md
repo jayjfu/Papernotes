@@ -10,6 +10,7 @@
 - Gradient Descent Provably Optimizes Over-parameterized Neural Networks [[arXiv](https://arxiv.org/abs/1810.02054)]
 
 #### 2018-09
+- Sparse Attentive Backtracking: Temporal CreditAssignment Through Reminding [[arXiv](https://arxiv.org/abs/1809.03702)]
 
 #### NIPS-18
 - Neural-Symbolic VQA: Disentangling Reasoning from Vision and Language Understanding [[arXiv](https://arxiv.org/abs/1810.02338)]
