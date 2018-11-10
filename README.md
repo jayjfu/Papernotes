@@ -11,6 +11,7 @@
 #### NIPS-18
 
 #### 2018-08
+- Learning Neural Templates for Text Generation [[arXiv](https://arxiv.org/abs/1808.10122)]
 - Is Wasserstein all you need? [[arXiv](https://arxiv.org/abs/1808.09663)]
 - Training Deeper Neural Machine Translation Models with Transparent Attention [[arXiv](https://arxiv.org/abs/1808.07561)]
 - Contextual Parameter Generation for Universal Neural Machine Translation [[arXiv](https://arxiv.org/abs/1808.08493)][[Code](https://github.com/eaplatanios/symphony-mt)]
