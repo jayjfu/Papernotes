@@ -3,6 +3,11 @@
 #### ICLR-18
 - Large Scale GAN Training for High Fidelity Natural Image Synthesis [[arXiv](https://arxiv.org/abs/1809.11096)]
 
+#### 2018-10
+- Gradient Descent Provably Optimizes Over-parameterized Neural Networks [[arXiv](https://arxiv.org/abs/1810.02054)]
+
+#### 2018-09
+
 #### NIPS-18
 
 #### 2018-08
