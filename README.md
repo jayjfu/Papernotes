@@ -14,6 +14,7 @@
 - Sparse Attentive Backtracking: Temporal CreditAssignment Through Reminding [[arXiv](https://arxiv.org/abs/1809.03702)]
 
 #### NIPS-18
+- Reversible Recurrent Neural Networks [[arXiv](https://arxiv.org/abs/1810.10999v1)]
 - Neural-Symbolic VQA: Disentangling Reasoning from Vision and Language Understanding [[arXiv](https://arxiv.org/abs/1810.02338)]
 
 #### 2018-08
