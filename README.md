@@ -46,6 +46,7 @@
 - Reaching Human-level Performance in Automatic Grammatical Error Correction: An Empirical Study [[arXiv](https://arxiv.org/abs/1807.01270)]
 
 #### 2018-06
+- DARTS: Differentiable Architecture Search [[arXiv](https://arxiv.org/abs/1806.09055v1)]
 - Efficient Neural Architecture Search with Network Morphism [[arXiv](https://arxiv.org/abs/1806.10282)] [[Code](https://autokeras.com/)]
 - Design Challenges and Misconceptions in Neural Sequence Labeling [[arXiv](https://arxiv.org/abs/1806.04470)] [[Code](https://github.com/jiesutd/NCRFpp)]
 - Guided evolutionary strategies: escaping the curse of dimensionality in random search [[arXiv](https://arxiv.org/abs/1806.10230)]
