@@ -21,6 +21,7 @@
 - Neural-Symbolic VQA: Disentangling Reasoning from Vision and Language Understanding [[arXiv](https://arxiv.org/abs/1810.02338)]
 
 #### 2018-08
+- Pervasive Attention: 2D Convolutional Neural Networks for Sequence-to-Sequence Prediction [[arXiv](https://arxiv.org/abs/1808.03867v3)]
 - Learning Neural Templates for Text Generation [[arXiv](https://arxiv.org/abs/1808.10122)]
 - Is Wasserstein all you need? [[arXiv](https://arxiv.org/abs/1808.09663)]
 - Training Deeper Neural Machine Translation Models with Transparent Attention [[arXiv](https://arxiv.org/abs/1808.07561)]
