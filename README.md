@@ -114,6 +114,7 @@
 - Learning General Purpose Distributed Sentence Representations via Large Scale Multi-task Learning [[arXiv](https://arxiv.org/abs/1804.00079v1)] [[Code](https://github.com/Maluuba/gensen)]
 
 #### 2018-03
+- An Empirical Evaluation of Generic Convolutional and Recurrent Networks for Sequence Modeling [[arXiv](https://arxiv.org/abs/1803.01271v2)] [[Code](https://github.com/locuslab/TCN)]
 - Variance Networks: When Expectation Does Not Meet Your Expectations [[arXiv](https://arxiv.org/abs/1803.03764)]
 - Referring Relationships [[arXiv](https://arxiv.org/abs/1803.10362)]
 - Iterative Visual Reasoning Beyond Convolutions [[arXiv](https://arxiv.org/abs/1803.11189)]
