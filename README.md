@@ -1,6 +1,7 @@
 # papernotes
 
 #### ICLR-19
+- Differentiable Learning-to-Normalize via Switchable Normalization [[arXiv](https://arxiv.org/abs/1806.10779)]
 - Enabling Factorized Piano Music Modeling and Generation with the MAESTRO Dataset [[arXiv](https://arxiv.org/abs/1810.12247)]
 - ProMP: Proximal Meta-Policy Search [[arXiv](https://arxiv.org/abs/1810.06784)]
 - Slimmable Neural Networks
