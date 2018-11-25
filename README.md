@@ -1,6 +1,7 @@
 # papernotes
 
 #### ICLR-19
+- ProMP: Proximal Meta-Policy Search [[arXiv](https://arxiv.org/abs/1810.06784)]
 - Slimmable Neural Networks
 - Ordered Neurons: Integrating Tree Structures into Recurrent Neural Networks [[arXiv](https://arxiv.org/abs/1810.09536)]
 - ALISTA: Analytic Weights Are As Good As Learned Weights in LISTA 
