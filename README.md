@@ -1,6 +1,7 @@
 # papernotes
 
 #### ICLR-19
+- Variational Discriminator Bottleneck: Improving Imitation Learning, Inverse RL, and GANs by Constraining Information Flow [[arXiv](https://arxiv.org/abs/1810.00821)]
 - KnockoffGAN: Generating Knockoffs for Feature Selection using Generative Adversarial Networks 
 - Benchmarking Neural Network Robustness to Common Corruptions and Surface Variations [[arXiv](https://arxiv.org/abs/1807.01697)]
 - Rethinking the Value of Network Pruning [[arXiv](https://arxiv.org/abs/1810.05270)]
