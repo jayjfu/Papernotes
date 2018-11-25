@@ -15,6 +15,7 @@
 - Large Scale GAN Training for High Fidelity Natural Image Synthesis [[arXiv](https://arxiv.org/abs/1809.11096)]
 
 #### 2018-10
+- DropBlock: A regularization method for convolutional networks [[arXiv](https://arxiv.org/abs/1810.12890)]
 - BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding [[arXiv](https://arxiv.org/abs/1810.04805)][[Code](https://github.com/google-research/bert)][[Code](https://github.com/codertimo/BERT-pytorch)]
 - Gradient Descent Provably Optimizes Over-parameterized Neural Networks [[arXiv](https://arxiv.org/abs/1810.02054)]
 
