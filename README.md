@@ -1,4 +1,6 @@
 # papernotes
+#### 2018-11
+- Gradient Descent Finds Global Minima of Deep Neural Networks [[arXiv](https://arxiv.org/abs/1811.03804)]
 
 #### ICLR-19
 - Differentiable Learning-to-Normalize via Switchable Normalization [[arXiv](https://arxiv.org/abs/1806.10779)]
