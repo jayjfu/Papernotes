@@ -1,7 +1,4 @@
 # papernotes
-#### 2018-11
-- Gradient Descent Finds Global Minima of Deep Neural Networks [[arXiv](https://arxiv.org/abs/1811.03804)]
-
 #### ICLR-19
 - Differentiable Learning-to-Normalize via Switchable Normalization [[arXiv](https://arxiv.org/abs/1806.10779)]
 - Enabling Factorized Piano Music Modeling and Generation with the MAESTRO Dataset [[arXiv](https://arxiv.org/abs/1810.12247)]
@@ -15,6 +12,9 @@
 - Rethinking the Value of Network Pruning [[arXiv](https://arxiv.org/abs/1810.05270)]
 - Shallow Learning For Deep Networks 
 - Large Scale GAN Training for High Fidelity Natural Image Synthesis [[arXiv](https://arxiv.org/abs/1809.11096)]
+
+#### 2018-11
+- Gradient Descent Finds Global Minima of Deep Neural Networks [[arXiv](https://arxiv.org/abs/1811.03804)]
 
 #### 2018-10
 - DropBlock: A regularization method for convolutional networks [[arXiv](https://arxiv.org/abs/1810.12890)]
