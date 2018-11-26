@@ -92,7 +92,6 @@
 - Delayed Impact of Fair Machine Learning [[arXiv](https://arxiv.org/abs/1803.04383)]
 
 #### 2018-05
-- Hybrid semi-Markov CRF for Neural Sequence Labeling [[arXiv](https://arxiv.org/abs/1805.03838)] [[Code](https://github.com/ZhixiuYe/HSCRF-pytorch)]
 - Chinese NER Using Lattice LSTM [[arXiv](https://arxiv.org/abs/1805.02023)] [[Code](https://github.com/jiesutd/LatticeLSTM)]
 - Gaussian Mixture Latent Vector Grammars [[arXiv](https://arxiv.org/abs/1805.04688)] [[Code](https://github.com/zhaoyanpeng/lveg)]
 - Transformation Networks for Target-Oriented Sentiment Classification [[arXiv](https://arxiv.org/abs/1805.01086)] [[Code](https://github.com/lixin4ever/TNet)]
