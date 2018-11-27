@@ -94,7 +94,6 @@
 
 #### ICML-18
 - Fast Decoding in Sequence Models using Discrete Latent Variables [[arXiv](https://arxiv.org/abs/1803.03382)]
-- Delayed Impact of Fair Machine Learning [[arXiv](https://arxiv.org/abs/1803.04383)]
 - Obfuscated Gradients Give a False Sense of Security: Circumventing Defenses to Adversarial Examples [[arXiv](https://arxiv.org/abs/1802.00420)] [[Code](https://github.com/anishathalye/obfuscated-gradients)]
 - Delayed Impact of Fair Machine Learning [[arXiv](https://arxiv.org/abs/1803.04383)]
 
