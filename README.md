@@ -14,6 +14,7 @@
 - Large Scale GAN Training for High Fidelity Natural Image Synthesis [[arXiv](https://arxiv.org/abs/1809.11096)]
 
 #### 2018-11
+- Are Deep Policy Gradient Algorithms Truly Policy Gradient Algorithms? [[arXiv](https://arxiv.org/abs/1811.02553)]
 - Gradient Descent Finds Global Minima of Deep Neural Networks [[arXiv](https://arxiv.org/abs/1811.03804)]
 
 #### 2018-10
