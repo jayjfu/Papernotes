@@ -103,7 +103,7 @@
 - Gaussian Mixture Latent Vector Grammars [[arXiv](https://arxiv.org/abs/1805.04688)] [[Code](https://github.com/zhaoyanpeng/lveg)]
 - Transformation Networks for Target-Oriented Sentiment Classification [[arXiv](https://arxiv.org/abs/1805.01086)] [[Code](https://github.com/lixin4ever/TNet)]
 - Hybrid semi-Markov CRF for Neural Sequence Labeling [[arXiv](https://arxiv.org/abs/1805.03838)] [[Code](https://github.com/ZhixiuYe/HSCRF-pytorch)]
-- What you can cram into a single vector: Probing sentence embeddings for linguistic properties [[arXiv](https://arxiv.org/abs/1805.01070)]
+- What you can cram into a single vector: Probing sentence embeddings for linguistic properties [[arXiv](https://arxiv.org/abs/1805.01070)] [[Code](https://github.com/facebookresearch/SentEval/tree/master/data/probing)]
 - Training Classifiers with Natural Language Explanations [[arXiv](https://arxiv.org/abs/1805.03818)] [[Code](https://github.com/HazyResearch/babble)]
 - Deep Reinforcement Learning For Sequence to Sequence Models [[arXiv](https://arxiv.org/abs/1805.09461)] [[Code](https://github.com/yaserkl/RLSeq2Seq)]
 - Baseline Needs More Love: On Simple Word-Embedding-Based Models and Associated Pooling Mechanisms [[arXiv](https://arxiv.org/abs/1805.09843)] [[Code](https://github.com/dinghanshen/SWEM)]
