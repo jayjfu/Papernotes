@@ -109,7 +109,6 @@
 - Baseline Needs More Love: On Simple Word-Embedding-Based Models and Associated Pooling Mechanisms [[arXiv](https://arxiv.org/abs/1805.09843)] [[Code](https://github.com/dinghanshen/SWEM)]
 - Learning to Ask Good Questions: Ranking Clarification Questions using Neural Expected Value of Perfect Information [[arXiv](https://arxiv.org/abs/1805.04655)]
 - Sharp Nearby, Fuzzy Far Away: How Neural Language Models Use Context [[arXiv](https://arxiv.org/abs/1805.04623)]
-- Small steps and giant leaps: Minimal Newton solvers for Deep Learning [[arXiv](https://arxiv.org/abs/1805.08095)] [[Code](https://github.com/jotaf98/curveball)]
 - AutoAugment: Learning Augmentation Policies from Data [[arXiv](https://arxiv.org/abs/1805.09501)]
 - Meta-Gradient Reinforcement Learning [[arXiv](https://arxiv.org/abs/1805.09801)]
 - Born Again Neural Networks [[arXiv](https://arxiv.org/abs/1805.04770)]
