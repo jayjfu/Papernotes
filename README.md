@@ -14,6 +14,7 @@
 - Large Scale GAN Training for High Fidelity Natural Image Synthesis [[arXiv](https://arxiv.org/abs/1809.11096)]
 
 #### 2018-11
+- Modular Architecture for StarCraft II with Deep Reinforcement Learning [[arXiv](https://arxiv.org/abs/1811.03555)]
 - DARCCC: Detecting Adversaries by Reconstruction from Class Conditional Capsules [[arXiv](https://arxiv.org/abs/1811.06969)]
 - Rethinking ImageNet Pre-training [[arXiv](https://arxiv.org/abs/1811.08883)]
 - Sampling Can Be Faster Than Optimization [[arXiv](https://arxiv.org/abs/1811.08413)]
