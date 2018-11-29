@@ -33,7 +33,6 @@
 - Gradient Descent Provably Optimizes Over-parameterized Neural Networks [[arXiv](https://arxiv.org/abs/1810.02054)]
 
 #### 2018-09
-- Deep Relevance Ranking Using Enhanced Document-Query Interactions [[arXiv](https://arxiv.org/abs/1809.01682)][[Code](https://github.com/nlpaueb/deep-relevance-ranking)]
 - Multi-Source Domain Adaptation with Mixture of Experts [[arXiv](https://arxiv.org/abs/1809.02256)][[Code](https://github.com/jiangfeng1124/transfer)]
 - Uncovering divergent linguistic information in word embeddings with lessons for intrinsic and extrinsic evaluation [[arXiv](https://arxiv.org/abs/1809.02094)] [[Code](https://github.com/artetxem/uncovec)]
 - Sparse Attentive Backtracking: Temporal CreditAssignment Through Reminding [[arXiv](https://arxiv.org/abs/1809.03702)]
