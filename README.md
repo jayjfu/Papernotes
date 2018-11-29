@@ -62,7 +62,7 @@
 #### 2018-07
 - A Survey of the Usages of Deep Learning in Natural Language Processing [[arXiv](https://arxiv.org/abs/1807.10854v1)]
 - Universal Transformers [[arXiv](https://arxiv.org/abs/1807.03819)] [[Code](https://github.com/tensorflow/tensor2tensor)]
-- Implementing Neural Turing Machines [[arXiv](https://arxiv.org/abs/1807.08518)]
+- Implementing Neural Turing Machines [[arXiv](https://arxiv.org/abs/1807.08518)] [[Code](https://github.com/MarkPKCollier/NeuralTuringMachine)]
 - Understanding and Improving Interpolation in Autoencoders via an Adversarial Regularizer [[arXiv](https://arxiv.org/abs/1807.07543)] [[Code](https://github.com/brain-research/acai)] [[Code](https://gist.github.com/kylemcdonald/e8ca989584b3b0e6526c0a737ed412f0)]
 - Glow: Generative Flow with Invertible 1x1 Convolutions [[arXiv](https://arxiv.org/abs/1807.03039)] [[Code](https://github.com/openai/glow)]
 - Representation Learning with Contrastive Predictive Coding [[arXiv](https://arxiv.org/abs/1807.03748)]
