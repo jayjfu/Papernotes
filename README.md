@@ -14,6 +14,7 @@
 - Large Scale GAN Training for High Fidelity Natural Image Synthesis [[arXiv](https://arxiv.org/abs/1809.11096)]
 
 #### 2018-11
+- Towards Explainable NLP: A Generative Explanation Framework for Text Classification [[arXiv](https://arxiv.org/abs/1811.00196v1)]
 - Automatic Paper Summary Generation from Visual and Textual Information [[arXiv](https://arxiv.org/abs/1811.06943v1)]
 - Modular Architecture for StarCraft II with Deep Reinforcement Learning [[arXiv](https://arxiv.org/abs/1811.03555)]
 - DARCCC: Detecting Adversaries by Reconstruction from Class Conditional Capsules [[arXiv](https://arxiv.org/abs/1811.06969)]
