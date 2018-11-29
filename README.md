@@ -78,7 +78,6 @@
 - Guided evolutionary strategies: escaping the curse of dimensionality in random search [[arXiv](https://arxiv.org/abs/1806.10230)]
 - Theory IIIb: Generalization in Deep Networks [[arXiv](https://arxiv.org/abs/1806.11379)]
 - Hierarchical Graph Representation Learning with Differentiable Pooling [[arXiv](https://arxiv.org/abs/1806.08804)]
-- On the Spectral Bias of Deep Neural Networks [[arXiv](https://arxiv.org/abs/1806.08734)]
 - Neural Network Models for Paraphrase Identification, Semantic Textual Similarity, Natural Language Inference, and Question Answering [[arXiv](https://arxiv.org/abs/1806.04330)] [[Code](https://github.com/lanwuwei/SPM_toolkit)]
 - Gaussian mixture models with Wasserstein distance [[arXiv](https://arxiv.org/abs/1806.04465)]
 - Relational recurrent neural networks [[arXiv](https://arxiv.org/abs/1806.01822)]
