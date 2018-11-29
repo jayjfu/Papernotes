@@ -25,7 +25,6 @@
 
 #### 2018-10
 - Three Mechanisms of Weight Decay Regularization [[arXiv](https://arxiv.org/abs/1810.12281v1)]
-- Deep Graph Convolutional Encoders for Structured Data to Text Generation [[arXiv](https://arxiv.org/abs/1810.09995v1)] [[Code](https://github.com/diegma/graph-2-text)]
 - Neural Nearest Neighbors Networks [[arXiv](https://arxiv.org/abs/1810.12575v1)] [[Code](https://github.com/visinf/n3net/)]
 - Variational Discriminator Bottleneck: Improving Imitation Learning, Inverse RL, and GANs by Constraining Information Flow [[arXiv](https://arxiv.org/abs/1810.00821)]
 - DropBlock: A regularization method for convolutional networks [[arXiv](https://arxiv.org/abs/1810.12890)]
