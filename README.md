@@ -22,6 +22,7 @@
 - Gradient Descent Finds Global Minima of Deep Neural Networks [[arXiv](https://arxiv.org/abs/1811.03804)]
 
 #### 2018-10
+- Neural Nearest Neighbors Networks [[arXiv](https://arxiv.org/abs/1810.12575v1)] [[Code](https://github.com/visinf/n3net/)]
 - Variational Discriminator Bottleneck: Improving Imitation Learning, Inverse RL, and GANs by Constraining Information Flow [[arXiv](https://arxiv.org/abs/1810.00821)]
 - DropBlock: A regularization method for convolutional networks [[arXiv](https://arxiv.org/abs/1810.12890)]
 - BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding [[arXiv](https://arxiv.org/abs/1810.04805)][[Code](https://github.com/google-research/bert)][[Code](https://github.com/codertimo/BERT-pytorch)]
