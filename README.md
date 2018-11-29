@@ -65,7 +65,7 @@
 - Implementing Neural Turing Machines [[arXiv](https://arxiv.org/abs/1807.08518)]
 - Understanding and Improving Interpolation in Autoencoders via an Adversarial Regularizer [[arXiv](https://arxiv.org/abs/1807.07543)]
 - TensorFuzz: Debugging Neural Networks with Coverage-Guided Fuzzing [[arXiv](https://arxiv.org/abs/1807.10875)]
-- Glow: Generative Flow with Invertible 1x1 Convolutions [[arXiv](https://arxiv.org/abs/1807.03039)]
+- Glow: Generative Flow with Invertible 1x1 Convolutions [[arXiv](https://arxiv.org/abs/1807.03039)] [[Code](https://github.com/openai/glow)]
 - Policy Optimization With Penalized Point Probability Distance: An Alternative To Proximal Policy Optimization [[arXiv](https://arxiv.org/abs/1807.00442)] [[Code](https://github.com/cxxgtxy/POP3D)]
 - Representation Learning with Contrastive Predictive Coding [[arXiv](https://arxiv.org/abs/1807.03748)]
 - Latent Alignment and Variational Attention [[arXiv](https://arxiv.org/abs/1807.03756)]
