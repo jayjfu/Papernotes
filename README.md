@@ -82,7 +82,6 @@
 - Neural Network Models for Paraphrase Identification, Semantic Textual Similarity, Natural Language Inference, and Question Answering [[arXiv](https://arxiv.org/abs/1806.04330)] [[Code](https://github.com/lanwuwei/SPM_toolkit)]
 - Gaussian mixture models with Wasserstein distance [[arXiv](https://arxiv.org/abs/1806.04465)]
 - Adversarial Reprogramming of Neural Networks [[arXiv](https://arxiv.org/abs/1806.11146)]
-- Error Compensated Quantized SGD and its Applications to Large-scale Distributed Optimization [[arXiv](https://arxiv.org/abs/1806.08054)]
 - Relational recurrent neural networks [[arXiv](https://arxiv.org/abs/1806.01822)]
 - RUDDER: Return Decomposition for Delayed Rewards [[arXiv](https://arxiv.org/abs/1806.07857)] [[Code](https://github.com/ml-jku/baselines-rudder)]
 - GLoMo: Unsupervisedly Learned Relational Graphs as Transferable Representations [[arXiv](https://arxiv.org/abs/1806.05662)]
