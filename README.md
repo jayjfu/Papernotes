@@ -54,7 +54,7 @@
 - Is Wasserstein all you need? [[arXiv](https://arxiv.org/abs/1808.09663)]
 - Training Deeper Neural Machine Translation Models with Transparent Attention [[arXiv](https://arxiv.org/abs/1808.07561)]
 - Contextual Parameter Generation for Universal Neural Machine Translation [[arXiv](https://arxiv.org/abs/1808.08493)][[Code](https://github.com/eaplatanios/symphony-mt)]
-- CoQA: A Conversational Question Answering Challenge [[arXiv](https://arxiv.org/abs/1808.07042)]
+- CoQA: A Conversational Question Answering Challenge [[arXiv](https://arxiv.org/abs/1808.07042)] [[dataset](https://stanfordnlp.github.io/coqa/)]
 - Learning deep representations by mutual information estimation and maximization [[arXiv](https://arxiv.org/abs/1808.06670)]
 - Large-Scale Study of Curiosity-Driven Learning [[arXiv](https://arxiv.org/abs/1808.04355)]
 - A Study of Reinforcement Learning for Neural Machine Translation [[arXiv](https://arxiv.org/abs/1808.08866)]
