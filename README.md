@@ -86,7 +86,6 @@
 - An empirical study on evaluation metrics of generative adversarial networks [[arXiv](https://arxiv.org/abs/1806.07755)]
 - Relational recurrent neural networks [[arXiv](https://arxiv.org/abs/1806.01822)]
 - RUDDER: Return Decomposition for Delayed Rewards [[arXiv](https://arxiv.org/abs/1806.07857)] [[Code](https://github.com/ml-jku/baselines-rudder)]
-- Playing Atari with Six Neurons [[arXiv](https://arxiv.org/abs/1806.01363)]
 - GLoMo: Unsupervisedly Learned Relational Graphs as Transferable Representations [[arXiv](https://arxiv.org/abs/1806.05662)]
 - Know What You Don't Know: Unanswerable Questions for SQuAD [[arXiv](https://arxiv.org/abs/1806.03822)] [[dataset](https://rajpurkar.github.io/SQuAD-explorer/)]
 - Relational inductive biases, deep learning, and graph networks [[arXiv](https://arxiv.org/abs/1806.01261)] [[Code](https://github.com/deepmind/graph_nets)]
