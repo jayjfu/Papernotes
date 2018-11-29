@@ -57,7 +57,7 @@
 - CoQA: A Conversational Question Answering Challenge [[arXiv](https://arxiv.org/abs/1808.07042)] [[dataset](https://stanfordnlp.github.io/coqa/)]
 - Learning deep representations by mutual information estimation and maximization [[arXiv](https://arxiv.org/abs/1808.06670)]
 - Large-Scale Study of Curiosity-Driven Learning [[arXiv](https://arxiv.org/abs/1808.04355)]
-- A Study of Reinforcement Learning for Neural Machine Translation [[arXiv](https://arxiv.org/abs/1808.08866)]
+- A Study of Reinforcement Learning for Neural Machine Translation [[arXiv](https://arxiv.org/abs/1808.08866)] [[Code](https://github.com/apeterswu/RL4NMT)]
 
 #### 2018-07
 - Implementing Neural Turing Machines [[arXiv](https://arxiv.org/abs/1807.08518)] [[Code](https://github.com/MarkPKCollier/NeuralTuringMachine)]
