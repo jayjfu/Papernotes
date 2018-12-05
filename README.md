@@ -37,6 +37,7 @@
 - Sparse Attentive Backtracking: Temporal CreditAssignment Through Reminding [[arXiv](https://arxiv.org/abs/1809.03702)]
 
 #### NIPS-18
+- Neural Ordinary Differential Equations
 - How Does Batch Normalization Help Optimization? [[arXiv](https://arxiv.org/abs/1805.11604)]
 - Learning Disentangled Joint Continuous and Discrete Representations [[arXiv](https://arxiv.org/abs/1804.00104)] [[Code](https://github.com/Schlumberger/joint-vae)]
 - Tree-to-tree Neural Networks for Program Translation [[arXiv](https://arxiv.org/abs/1802.03691)]
