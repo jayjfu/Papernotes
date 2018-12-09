@@ -37,7 +37,7 @@
 - Sparse Attentive Backtracking: Temporal CreditAssignment Through Reminding [[arXiv](https://arxiv.org/abs/1809.03702)]
 
 #### NIPS-18
-- Optimal Algorithms for Non-Smooth Distributed Optimization in Networks
+- Optimal Algorithms for Non-Smooth Distributed Optimization in Networks [[arXiv](https://arxiv.org/abs/1806.00291)]
 - Non-delusional Q-learning and value-iteration
 - Nearly tight sample complexity bounds for learning mixtures of Gaussians via sample compression schemes
 - Neural Ordinary Differential Equations [[arXiv](https://arxiv.org/abs/1806.07366)]
