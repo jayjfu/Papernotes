@@ -40,7 +40,7 @@
 - Optimal Algorithms for Non-Smooth Distributed Optimization in Networks
 - Non-delusional Q-learning and value-iteration
 - Nearly tight sample complexity bounds for learning mixtures of Gaussians via sample compression schemes
-- Neural Ordinary Differential Equations
+- Neural Ordinary Differential Equations [[arXiv](https://arxiv.org/abs/1806.07366)]
 - How Does Batch Normalization Help Optimization? [[arXiv](https://arxiv.org/abs/1805.11604)]
 - Learning Disentangled Joint Continuous and Discrete Representations [[arXiv](https://arxiv.org/abs/1804.00104)] [[Code](https://github.com/Schlumberger/joint-vae)]
 - Tree-to-tree Neural Networks for Program Translation [[arXiv](https://arxiv.org/abs/1802.03691)]
