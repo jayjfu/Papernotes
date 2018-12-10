@@ -17,6 +17,7 @@
 - Large Scale GAN Training for High Fidelity Natural Image Synthesis [[arXiv](https://arxiv.org/abs/1809.11096)]
 
 #### 2018-11
+- Guiding Policies with Language via Meta-Learning [[arXiv](https://arxiv.org/abs/1811.07882v1)]
 - Dataset Distillation [[arXiv](https://arxiv.org/abs/1811.10959v1)]
 - Deformable ConvNets v2: More Deformable, Better Results [[arXiv](https://arxiv.org/abs/1811.11168v2)]
 - GAN Dissection: Visualizing and Understanding Generative Adversarial Networks [[arXiv](https://arxiv.org/abs/1811.10597v1)]
