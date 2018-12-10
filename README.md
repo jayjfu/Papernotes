@@ -17,7 +17,7 @@
 - Large Scale GAN Training for High Fidelity Natural Image Synthesis [[arXiv](https://arxiv.org/abs/1809.11096)]
 
 #### 2018-11
-- Automatic Paper Summary Generation from Visual and Textual Information [[arXiv(https://arxiv.org/abs/1811.06943v1)]]
+- Automatic Paper Summary Generation from Visual and Textual Information [[arXiv](https://arxiv.org/abs/1811.06943v1)]
 - From Recognition to Cognition: Visual Commonsense Reasoning [[arXiv](https://arxiv.org/abs/1811.10830v1)]
 - Guiding Policies with Language via Meta-Learning [[arXiv](https://arxiv.org/abs/1811.07882v1)]
 - Dataset Distillation [[arXiv](https://arxiv.org/abs/1811.10959v1)]
