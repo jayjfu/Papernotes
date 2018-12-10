@@ -1,4 +1,7 @@
 # papernotes
+#### 2018-12
+- Bag of Tricks for Image Classification with Convolutional Neural Networks [[arXiv](https://arxiv.org/abs/1812.01187v2)]
+
 #### ICLR-19
 - Differentiable Learning-to-Normalize via Switchable Normalization [[arXiv](https://arxiv.org/abs/1806.10779)]
 - Enabling Factorized Piano Music Modeling and Generation with the MAESTRO Dataset [[arXiv](https://arxiv.org/abs/1810.12247)]
