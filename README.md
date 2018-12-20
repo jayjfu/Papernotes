@@ -1,5 +1,6 @@
 # papernotes
 #### 2018-12
+- SlowFast Networks for Video Recognition [[arXiv](https://arxiv.org/abs/1812.03982)]
 - Bag of Tricks for Image Classification with Convolutional Neural Networks [[arXiv](https://arxiv.org/abs/1812.01187v2)]
 
 #### ICLR-19
