@@ -1,5 +1,6 @@
 # papernotes
 #### 2018-12
+- Non-Adversarial Image Synthesis with Generative Latent Nearest Neighbors [[arXiv](https://arxiv.org/abs/1812.08985)]
 - SlowFast Networks for Video Recognition [[arXiv](https://arxiv.org/abs/1812.03982)]
 - Bag of Tricks for Image Classification with Convolutional Neural Networks [[arXiv](https://arxiv.org/abs/1812.01187v2)]
 
