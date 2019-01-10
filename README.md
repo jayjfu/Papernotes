@@ -1,5 +1,6 @@
 # papernotes
 #### 2018-12
+- On the Dimensionality of Word Embedding [[arXiv](https://arxiv.org/abs/1812.04224)]
 - Looking for ELMo's friends: Sentence-Level Pretraining Beyond Language Modeling [[arXiv](https://arxiv.org/abs/1812.10860)]
 - The Design and Implementation of XiaoIce, an Empathetic Social Chatbot [[arXiv](https://arxiv.org/abs/1812.08989)]
 - Non-Adversarial Image Synthesis with Generative Latent Nearest Neighbors [[arXiv](https://arxiv.org/abs/1812.08985)]
