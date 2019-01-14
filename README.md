@@ -1,4 +1,7 @@
 # papernotes
+#### 2019-01
+- Panoptic Feature Pyramid Networks [[arXiv](https://arxiv.org/abs/1901.02446v1)]
+
 #### 2018-12
 - On the Dimensionality of Word Embedding [[arXiv](https://arxiv.org/abs/1812.04224)]
 - Looking for ELMo's friends: Sentence-Level Pretraining Beyond Language Modeling [[arXiv](https://arxiv.org/abs/1812.10860)]
