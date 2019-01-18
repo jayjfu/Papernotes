@@ -3,6 +3,7 @@
 - Panoptic Feature Pyramid Networks [[arXiv](https://arxiv.org/abs/1901.02446v1)]
 
 #### 2018-12
+- An introduction to domain adaptation and transfer learning [[arXiv](https://arxiv.org/abs/1812.11806v2)]
 - A Tutorial on Deep Latent Variable Models of Natural Language [[arXiv](https://arxiv.org/abs/1812.06834v2)]
 - On the Dimensionality of Word Embedding [[arXiv](https://arxiv.org/abs/1812.04224)]
 - Looking for ELMo's friends: Sentence-Level Pretraining Beyond Language Modeling [[arXiv](https://arxiv.org/abs/1812.10860)]
