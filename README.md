@@ -49,7 +49,7 @@
 #### 2018-10
 - Three Mechanisms of Weight Decay Regularization [[arXiv](https://arxiv.org/abs/1810.12281v1)]
 - Neural Nearest Neighbors Networks [[arXiv](https://arxiv.org/abs/1810.12575v1)] [[Code](https://github.com/visinf/n3net/)]
-- Variational Discriminator Bottleneck: Improving Imitation Learning, Inverse RL, and GANs by Constraining Information Flow [[arXiv](https://arxiv.org/abs/1810.00821)]
+- Variational Discriminator Bottleneck: Improving Imitation Learning, Inverse RL, and GANs by Constraining Information Flow [[arXiv](https://arxiv.org/abs/1810.00821)] [[Code](https://github.com/akanazawa/vgan)]
 - DropBlock: A regularization method for convolutional networks [[arXiv](https://arxiv.org/abs/1810.12890)]
 - BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding [[arXiv](https://arxiv.org/abs/1810.04805)][[Code](https://github.com/google-research/bert)][[Code](https://github.com/codertimo/BERT-pytorch)]
 - Gradient Descent Provably Optimizes Over-parameterized Neural Networks [[arXiv](https://arxiv.org/abs/1810.02054)]
