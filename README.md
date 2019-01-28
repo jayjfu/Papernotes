@@ -29,6 +29,7 @@
 - Large Scale GAN Training for High Fidelity Natural Image Synthesis [[arXiv](https://arxiv.org/abs/1809.11096)]
 
 #### 2018-11
+- Gradient Harmonized Single-stage Detector [[arXiv](https://arxiv.org/abs/1811.05181)]
 - Few-Shot Generalization Across Dialogue Tasks [[arXiv](https://arxiv.org/abs/1811.11707v1)]
 - Unsupervised Transfer Learning for Spoken Language Understanding in Intelligent Agents [[arXiv](https://arxiv.org/abs/1811.05370v1)]
 - Automatic Paper Summary Generation from Visual and Textual Information [[arXiv](https://arxiv.org/abs/1811.06943v1)]
