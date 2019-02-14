@@ -1,5 +1,6 @@
 # papernotes
 #### 2019-01
+- Cross-lingual Language Model Pretraining [[arXiv](https://arxiv.org/abs/1901.07291)] [[Code](https://github.com/facebookresearch/XLM)]
 - The Evolved Transformer [[arXiv](https://arxiv.org/abs/1901.11117)]
 - Glyce: Glyph-vectors for Chinese Character Representations [[arXiv](https://arxiv.org/abs/1901.10125)] 
 - Transformer-XL: Attentive Language Models Beyond a Fixed-Length Context [[arXiv](https://arxiv.org/abs/1901.02860v1)] [[Code]()]
