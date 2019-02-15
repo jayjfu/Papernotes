@@ -1,5 +1,6 @@
 # papernotes
 #### 2019-01
+- Semi-Unsupervised Learning with Deep Generative Models: Clustering and Classifying using Ultra-Sparse Labels [[arXiv](https://arxiv.org/abs/1901.08560v1)]
 - Learning and Evaluating General Linguistic Intelligence [[arXiv](https://arxiv.org/abs/1901.11373v1)]
 - Identifying and Correcting Label Bias in Machine Learning [[arXiv](https://arxiv.org/abs/1901.04966v1)]
 - Attentive Neural Processes [[arXiv](https://arxiv.org/abs/1901.05761v1)]
