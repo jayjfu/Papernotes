@@ -1,5 +1,6 @@
 # papernotes
 #### 2019-01
+- Pay Less Attention with Lightweight and Dynamic Convolutions [[arXiv](https://arxiv.org/abs/1901.10430v1)]
 - Elimination of All Bad Local Minima in Deep Learning [[arXiv](https://arxiv.org/abs/1901.00279)]
 - Cross-lingual Language Model Pretraining [[arXiv](https://arxiv.org/abs/1901.07291)] [[Code](https://github.com/facebookresearch/XLM)]
 - The Evolved Transformer [[arXiv](https://arxiv.org/abs/1901.11117)]
