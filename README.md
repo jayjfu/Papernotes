@@ -1,5 +1,6 @@
 # papernotes
 #### 2019-01
+- Identifying and Correcting Label Bias in Machine Learning [[arXiv](https://arxiv.org/abs/1901.04966v1)]
 - Attentive Neural Processes [[arXiv](https://arxiv.org/abs/1901.05761v1)]
 - Pay Less Attention with Lightweight and Dynamic Convolutions [[arXiv](https://arxiv.org/abs/1901.10430v1)]
 - Elimination of All Bad Local Minima in Deep Learning [[arXiv](https://arxiv.org/abs/1901.00279)]
