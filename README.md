@@ -45,7 +45,6 @@
 - Gradient Harmonized Single-stage Detector [[arXiv](https://arxiv.org/abs/1811.05181)]
 - Few-Shot Generalization Across Dialogue Tasks [[arXiv](https://arxiv.org/abs/1811.11707v1)]
 - Unsupervised Transfer Learning for Spoken Language Understanding in Intelligent Agents [[arXiv](https://arxiv.org/abs/1811.05370v1)]
-- Automatic Paper Summary Generation from Visual and Textual Information [[arXiv](https://arxiv.org/abs/1811.06943v1)]
 - From Recognition to Cognition: Visual Commonsense Reasoning [[arXiv](https://arxiv.org/abs/1811.10830v1)]
 - Guiding Policies with Language via Meta-Learning [[arXiv](https://arxiv.org/abs/1811.07882v1)]
 - Dataset Distillation [[arXiv](https://arxiv.org/abs/1811.10959v1)]
