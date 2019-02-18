@@ -1,5 +1,6 @@
 # papernotes
 #### 2019-02 
+- Bag of Freebies for Training Object Detection Neural Networks [[arXiv](https://arxiv.org/abs/1902.04103)]
 - Parameter-Efficient Transfer Learning for NLP [[arXiv](https://arxiv.org/abs/1902.00751v1)]
 
 #### 2019-01
