@@ -110,7 +110,7 @@
 - Reaching Human-level Performance in Automatic Grammatical Error Correction: An Empirical Study [[arXiv](https://arxiv.org/abs/1807.01270)]
 
 #### 2018-06
-- Deep Self-Organization: Interpretable Discrete Representation Learning on Time Series [[arXiv](https://arxiv.org/abs/1806.02199)]
+- Deep Self-Organization: Interpretable Discrete Representation Learning on Time Series [[arXiv](https://arxiv.org/abs/1806.02199)] [[Code](https://github.com/ratschlab/SOM-VAE)]
 - DARTS: Differentiable Architecture Search [[arXiv](https://arxiv.org/abs/1806.09055v1)] [[Code](https://github.com/quark0/darts)]
 - Auto-Keras: Efficient Neural Architecture Search with Network Morphism [[arXiv](https://arxiv.org/abs/1806.10282)] [[Code](https://autokeras.com/)]
 - Design Challenges and Misconceptions in Neural Sequence Labeling [[arXiv](https://arxiv.org/abs/1806.04470)] [[Code](https://github.com/jiesutd/NCRFpp)]
