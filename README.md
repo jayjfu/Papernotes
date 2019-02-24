@@ -38,9 +38,8 @@
 - Ordered Neurons: Integrating Tree Structures into Recurrent Neural Networks [[arXiv](https://arxiv.org/abs/1810.09536)]
 - ALISTA: Analytic Weights Are As Good As Learned Weights in LISTA 
 - KnockoffGAN: Generating Knockoffs for Feature Selection using Generative Adversarial Networks 
-- Benchmarking Neural Network Robustness to Common Corruptions and Surface Variations [[arXiv](https://arxiv.org/abs/1807.01697)]
-- Rethinking the Value of Network Pruning [[arXiv](https://arxiv.org/abs/1810.05270)]
-- Shallow Learning For Deep Networks 
+- Benchmarking Neural Network Robustness to Common Corruptions and Surface Variations [[arXiv](https://arxiv.org/abs/1807.01697)] [[Code](https://github.com/hendrycks/robustness)]
+- Rethinking the Value of Network Pruning [[arXiv](https://arxiv.org/abs/1810.05270)] [[Code](https://github.com/Eric-mingjie/rethinking-network-pruning)]
 - Large Scale GAN Training for High Fidelity Natural Image Synthesis [[arXiv](https://arxiv.org/abs/1809.11096)]
 
 #### 2018-11
