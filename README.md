@@ -45,9 +45,6 @@
 
 #### 2018-11
 - Gradient Harmonized Single-stage Detector [[arXiv](https://arxiv.org/abs/1811.05181)] [[Code](https://github.com/libuyu/GHM_Detection)]
-- Few-Shot Generalization Across Dialogue Tasks [[arXiv](https://arxiv.org/abs/1811.11707v1)]
-- Unsupervised Transfer Learning for Spoken Language Understanding in Intelligent Agents [[arXiv](https://arxiv.org/abs/1811.05370v1)]
-- From Recognition to Cognition: Visual Commonsense Reasoning [[arXiv](https://arxiv.org/abs/1811.10830v1)]
 - Guiding Policies with Language via Meta-Learning [[arXiv](https://arxiv.org/abs/1811.07882v1)]
 - Dataset Distillation [[arXiv](https://arxiv.org/abs/1811.10959v1)]
 - GAN Dissection: Visualizing and Understanding Generative Adversarial Networks [[arXiv](https://arxiv.org/abs/1811.10597v1)] [[Code](https://github.com/CSAILVision/gandissect)]
