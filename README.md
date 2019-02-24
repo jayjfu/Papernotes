@@ -24,11 +24,11 @@
 - An introduction to domain adaptation and transfer learning [[arXiv](https://arxiv.org/abs/1812.11806v2)]
 - A Tutorial on Deep Latent Variable Models of Natural Language [[arXiv](https://arxiv.org/abs/1812.06834v2)]
 - On the Dimensionality of Word Embedding [[arXiv](https://arxiv.org/abs/1812.04224)]
-- Looking for ELMo's friends: Sentence-Level Pretraining Beyond Language Modeling [[arXiv](https://arxiv.org/abs/1812.10860)]
+- Looking for ELMo's friends: Sentence-Level Pretraining Beyond Language Modeling [[arXiv](https://arxiv.org/abs/1812.10860)] [[Code](https://github.com/jsalt18-sentence-repl/jiant)]
 - The Design and Implementation of XiaoIce, an Empathetic Social Chatbot [[arXiv](https://arxiv.org/abs/1812.08989)]
 - Non-Adversarial Image Synthesis with Generative Latent Nearest Neighbors [[arXiv](https://arxiv.org/abs/1812.08985)]
 - SlowFast Networks for Video Recognition [[arXiv](https://arxiv.org/abs/1812.03982)]
-- Bag of Tricks for Image Classification with Convolutional Neural Networks [[arXiv](https://arxiv.org/abs/1812.01187v2)]
+- Bag of Tricks for Image Classification with Convolutional Neural Networks [[arXiv](https://arxiv.org/abs/1812.01187v2)] [[Code](https://github.com/dmlc/gluon-cv)]
 
 #### ICLR-19
 - Differentiable Learning-to-Normalize via Switchable Normalization [[arXiv](https://arxiv.org/abs/1806.10779)] [[Code](https://github.com/switchablenorms/Switchable-Normalization)]
