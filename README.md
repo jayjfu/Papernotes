@@ -31,12 +31,12 @@
 - Bag of Tricks for Image Classification with Convolutional Neural Networks [[arXiv](https://arxiv.org/abs/1812.01187v2)]
 
 #### ICLR-19
-- Differentiable Learning-to-Normalize via Switchable Normalization [[arXiv](https://arxiv.org/abs/1806.10779)]
-- Enabling Factorized Piano Music Modeling and Generation with the MAESTRO Dataset [[arXiv](https://arxiv.org/abs/1810.12247)]
+- Differentiable Learning-to-Normalize via Switchable Normalization [[arXiv](https://arxiv.org/abs/1806.10779)] [[Code](https://github.com/switchablenorms/Switchable-Normalization)]
+- Enabling Factorized Piano Music Modeling and Generation with the MAESTRO Dataset [[arXiv](https://arxiv.org/abs/1810.12247)] [[dataset](https://g.co/magenta/maestro-dataset)]
 - ProMP: Proximal Meta-Policy Search [[arXiv](https://arxiv.org/abs/1810.06784)]
-- Slimmable Neural Networks
-- Ordered Neurons: Integrating Tree Structures into Recurrent Neural Networks [[arXiv](https://arxiv.org/abs/1810.09536)]
-- ALISTA: Analytic Weights Are As Good As Learned Weights in LISTA 
+- Slimmable Neural Networks [[arXiv](https://arxiv.org/abs/1812.08928)] [[Code](https://github.com/JiahuiYu/slimmable_networks)]
+- Ordered Neurons: Integrating Tree Structures into Recurrent Neural Networks [[arXiv](https://arxiv.org/abs/1810.09536)] [[Code](https://github.com/yikangshen/Ordered-Neurons)]
+- ALISTA: Analytic Weights Are As Good As Learned Weights in LISTA [[Code](https://github.com/xchen-tamu/alista)]
 - KnockoffGAN: Generating Knockoffs for Feature Selection using Generative Adversarial Networks 
 - Benchmarking Neural Network Robustness to Common Corruptions and Surface Variations [[arXiv](https://arxiv.org/abs/1807.01697)] [[Code](https://github.com/hendrycks/robustness)]
 - Rethinking the Value of Network Pruning [[arXiv](https://arxiv.org/abs/1810.05270)] [[Code](https://github.com/Eric-mingjie/rethinking-network-pruning)]
