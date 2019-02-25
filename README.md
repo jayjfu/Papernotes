@@ -6,7 +6,7 @@
 #### 2019-01
 - Multi-Task Deep Neural Networks for Natural Language Understanding [[arXiv](https://arxiv.org/abs/1901.11504)]
 - Learning from Dialogue after Deployment: Feed Yourself, Chatbot! [[arXiv](https://arxiv.org/abs/1901.05415v2)]
-- Semi-Unsupervised Learning with Deep Generative Models: Clustering and Classifying using Ultra-Sparse Labels [[arXiv](https://arxiv.org/abs/1901.08560v1)]
+- Semi-Unsupervised Learning with Deep Generative Models: Clustering and Classifying using Ultra-Sparse Labels [[arXiv](https://arxiv.org/abs/1901.08560v1)] [[Code](https://github.com/SemiUnsupervisedLearning/DGMs_for_semi-unsupervised_learning)]
 - Attentive Neural Processes [[arXiv](https://arxiv.org/abs/1901.05761v1)]
 - Pay Less Attention with Lightweight and Dynamic Convolutions [[arXiv](https://arxiv.org/abs/1901.10430v1)]
 - Cross-lingual Language Model Pretraining [[arXiv](https://arxiv.org/abs/1901.07291)] [[Code](https://github.com/facebookresearch/XLM)]
