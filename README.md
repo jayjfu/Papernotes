@@ -19,11 +19,8 @@
 - Panoptic Feature Pyramid Networks [[arXiv](https://arxiv.org/abs/1901.02446v1)]
 
 #### 2018-12
-- Massively Multilingual Sentence Embeddings for Zero-Shot Cross-Lingual Transfer and Beyond [[arXiv](https://arxiv.org/abs/1812.10464v1)]
-- Learning Not to Learn: Training Deep Neural Networks with Biased Data [[arXiv](https://arxiv.org/abs/1812.10352v1)]
-- An introduction to domain adaptation and transfer learning [[arXiv](https://arxiv.org/abs/1812.11806v2)]
 - A Tutorial on Deep Latent Variable Models of Natural Language [[arXiv](https://arxiv.org/abs/1812.06834v2)]
-- On the Dimensionality of Word Embedding [[arXiv](https://arxiv.org/abs/1812.04224)]
+- On the Dimensionality of Word Embedding [[arXiv](https://arxiv.org/abs/1812.04224)] [[Code](https://github.com/ziyin-dl/word-embedding-dimensionality-selection)]
 - Looking for ELMo's friends: Sentence-Level Pretraining Beyond Language Modeling [[arXiv](https://arxiv.org/abs/1812.10860)] [[Code](https://github.com/jsalt18-sentence-repl/jiant)]
 - The Design and Implementation of XiaoIce, an Empathetic Social Chatbot [[arXiv](https://arxiv.org/abs/1812.08989)]
 - Non-Adversarial Image Synthesis with Generative Latent Nearest Neighbors [[arXiv](https://arxiv.org/abs/1812.08985)]
