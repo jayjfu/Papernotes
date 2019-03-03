@@ -219,7 +219,7 @@
 
 #### ICLR-18
 - Bi-Directional Block Self-Attention for Fast and Memory-Efficient Sequence Modeling
-- i-RevNet: Deep Invertible Networks
+- i-RevNet: Deep Invertible Networks [[arXiv](https://arxiv.org/abs/1802.07088)] [[Code](https://github.com/jhjacobsen/pytorch-i-revnet)]
 - Hierarchical Representations for Efficient Architecture Search [[arXiv](https://arxiv.org/abs/1711.00436)]
 - Backpropagation through the Void: Optimizing control variates for black-box gradient estimation [[arXiv](https://arxiv.org/abs/1711.00123)] [[Code](https://github.com/duvenaud/relax)]
 - Deep Autoencoding Gaussian Mixture Model for Unsupervised Anomaly Detection
