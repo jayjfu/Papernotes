@@ -352,6 +352,9 @@
 #### 2016-04
 - Benchmarking Deep Reinforcement Learning for Continuous Control [[arXiv](https://arxiv.org/abs/1604.06778)] [[Code](https://github.com/rll/rllab)]
 
+#### 2016-03
+- Text Understanding with the Attention Sum Reader Network [[arXiv](https://arxiv.org/abs/1603.01547v2)]
+
 #### 2016-02
 - Associative Long Short-Term Memory [[arXiv](https://arxiv.org/abs/1602.03032)]
 
