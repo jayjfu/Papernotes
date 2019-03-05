@@ -1,5 +1,6 @@
 # papernotes
 #### 2019-02 
+- Topology of Learning in Artificial Neural Networks [[arXiv](https://arxiv.org/abs/1902.08160v1)]
 - A novel adaptive learning rate scheduler for deep neural networks [[arXiv](https://arxiv.org/abs/1902.07399)]
 - Bag of Freebies for Training Object Detection Neural Networks [[arXiv](https://arxiv.org/abs/1902.04103)]
 - Parameter-Efficient Transfer Learning for NLP [[arXiv](https://arxiv.org/abs/1902.00751v1)]
