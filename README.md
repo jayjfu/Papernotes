@@ -1,5 +1,6 @@
 # papernotes
 #### 2019-02 
+- End-to-End Open-Domain Question Answering with BERTserini [[arXiv](https://arxiv.org/abs/1902.01718v1)]
 - Embodied Multimodal Multitask Learning [[arXiv](https://arxiv.org/abs/1902.01385v1)]
 - An Embarrassingly Simple Approach for Transfer Learning from Pretrained Language Models [[arXiv](https://arxiv.org/abs/1902.10547v1)]
 - Simplifying Graph Convolutional Networks [[arXiv](https://arxiv.org/abs/1902.07153v1)] [[Code](https://github.com/Tiiiger/SGC)]
