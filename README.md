@@ -1,5 +1,6 @@
 # papernotes
 #### 2019-02 
+- An Embarrassingly Simple Approach for Transfer Learning from Pretrained Language Models [[arXiv](https://arxiv.org/abs/1902.10547v1)]
 - Simplifying Graph Convolutional Networks [[arXiv](https://arxiv.org/abs/1902.07153v1)] [[Code](https://github.com/Tiiiger/SGC)]
 - Superposition of many models into one [[arXiv](https://arxiv.org/abs/1902.05522v1)]
 - Topology of Learning in Artificial Neural Networks [[arXiv](https://arxiv.org/abs/1902.08160v1)]
