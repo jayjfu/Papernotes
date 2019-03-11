@@ -1,5 +1,6 @@
 # papernotes
 #### 2019-03
+- VideoFlow: A Flow-Based Generative Model for Video [[arXiv](https://arxiv.org/abs/1903.01434)]
 - High-Fidelity Image Generation With Fewer Labels [[arXiv](https://arxiv.org/abs/1903.02271)]
 
 #### 2019-02 
