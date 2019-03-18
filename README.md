@@ -1,10 +1,11 @@
 # papernotes
 #### 2019-03
-- RAVEN: A Dataset for Relational and Analogical Visual rEasoNing
+- RAVEN: A Dataset for Relational and Analogical Visual rEasoNing [[arXiv](https://arxiv.org/abs/1903.02741)]
 - VideoFlow: A Flow-Based Generative Model for Video [[arXiv](https://arxiv.org/abs/1903.01434)]
 - High-Fidelity Image Generation With Fewer Labels [[arXiv](https://arxiv.org/abs/1903.02271)]
 
 #### 2019-02 
+- Attention is not Explanation [[arXiv](https://arxiv.org/abs/1902.10186)]
 - End-to-End Open-Domain Question Answering with BERTserini [[arXiv](https://arxiv.org/abs/1902.01718v1)]
 - Embodied Multimodal Multitask Learning [[arXiv](https://arxiv.org/abs/1902.01385v1)]
 - An Embarrassingly Simple Approach for Transfer Learning from Pretrained Language Models [[arXiv](https://arxiv.org/abs/1902.10547v1)]
