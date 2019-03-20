@@ -12,7 +12,7 @@
 - Simplifying Graph Convolutional Networks [[arXiv](https://arxiv.org/abs/1902.07153v1)] [[Code](https://github.com/Tiiiger/SGC)]
 - Superposition of many models into one [[arXiv](https://arxiv.org/abs/1902.05522v1)]
 - Topology of Learning in Artificial Neural Networks [[arXiv](https://arxiv.org/abs/1902.08160v1)]
-- A novel adaptive learning rate scheduler for deep neural networks [[arXiv](https://arxiv.org/abs/1902.07399)]
+- A novel adaptive learning rate scheduler for deep neural networks [[arXiv](https://arxiv.org/abs/1902.07399)] [[Code](https://github.com/yrahul3910/adaptive-lr-dnn)]
 - Bag of Freebies for Training Object Detection Neural Networks [[arXiv](https://arxiv.org/abs/1902.04103)]
 - Parameter-Efficient Transfer Learning for NLP [[arXiv](https://arxiv.org/abs/1902.00751v1)]
 
