@@ -1,5 +1,6 @@
 # papernotes
 #### 2019-03
+- Semantic Image Synthesis with Spatially-Adaptive Normalization [[arXiv](https://arxiv.org/abs/1903.07291)]
 - RAVEN: A Dataset for Relational and Analogical Visual rEasoNing [[arXiv](https://arxiv.org/abs/1903.02741)]
 - VideoFlow: A Flow-Based Generative Model for Video [[arXiv](https://arxiv.org/abs/1903.01434)]
 - High-Fidelity Image Generation With Fewer Labels [[arXiv](https://arxiv.org/abs/1903.02271)]
