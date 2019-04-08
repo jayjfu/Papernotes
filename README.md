@@ -1,5 +1,6 @@
 # papernotes
 #### 2019-03
+- TensorMask: A Foundation for Dense Object Segmentation [[arXiv](https://arxiv.org/abs/1903.12174)]
 - Imperceptible, Robust, and Targeted Adversarial Examples for Automatic Speech Recognition [[arXiv](https://arxiv.org/abs/1903.10346)]
 - Semantic Image Synthesis with Spatially-Adaptive Normalization [[arXiv](https://arxiv.org/abs/1903.07291)]
 - RAVEN: A Dataset for Relational and Analogical Visual rEasoNing [[arXiv](https://arxiv.org/abs/1903.02741)]
