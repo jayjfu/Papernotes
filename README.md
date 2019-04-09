@@ -1,4 +1,7 @@
 # papernotes
+#### 2019-04
+- Single Path One-Shot Neural Architecture Search with Uniform Sampling [[arXiv](https://arxiv.org/abs/1904.00420)]
+
 #### 2019-03
 - TensorMask: A Foundation for Dense Object Segmentation [[arXiv](https://arxiv.org/abs/1903.12174)]
 - Imperceptible, Robust, and Targeted Adversarial Examples for Automatic Speech Recognition [[arXiv](https://arxiv.org/abs/1903.10346)]
