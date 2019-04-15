@@ -365,6 +365,9 @@
 #### 2016-08
 - SGDR: Stochastic Gradient Descent with Warm Restarts [[arXiv](https://arxiv.org/abs/1608.03983)] [[Code](https://github.com/loshchil/SGDR)]
 
+#### 2016-07
+- Bag of Tricks for Efficient Text Classification [[arXiv](https://arxiv.org/abs/1607.01759)] [[Code](https://github.com/facebookresearch/fastText)]
+
 #### 2016-06
 - A Thorough Examination of the CNN/Daily Mail Reading Comprehension Task [[arXiv](https://arxiv.org/abs/1606.02858v2)]
 - Convolution by Evolution: Differentiable Pattern Producing Networks [[arXiv](https://arxiv.org/abs/1606.02580)]
