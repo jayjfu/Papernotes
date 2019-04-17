@@ -1,5 +1,6 @@
 # papernotes
 #### 2019-04
+- What's in a Name? Reducing Bias in Bios without Access to Protected Attributes [[arXiv](https://arxiv.org/abs/1904.05233)]
 - An Attentive Survey of Attention Models [[arXiv](https://arxiv.org/abs/1904.02874)]
 - Neural Networks for Modeling Source Code Edits [[arXiv](https://arxiv.org/abs/1904.02818)]
 - Exploring Randomly Wired Neural Networks for Image Recognition [[arXiv](https://arxiv.org/abs/1904.01569)] [[Code](https://github.com/seungwonpark/RandWireNN)]
