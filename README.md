@@ -1,5 +1,6 @@
 # papernotes
 #### 2019-04
+- CNM: An Interpretable Complex-valued Network for Matching [[arXiv](https://arxiv.org/abs/1904.05298)] [[Code](https://github.com/wabyking/qnn)]
 - What's in a Name? Reducing Bias in Bios without Access to Protected Attributes [[arXiv](https://arxiv.org/abs/1904.05233)]
 - An Attentive Survey of Attention Models [[arXiv](https://arxiv.org/abs/1904.02874)]
 - Neural Networks for Modeling Source Code Edits [[arXiv](https://arxiv.org/abs/1904.02818)]
