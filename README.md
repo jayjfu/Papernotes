@@ -1,6 +1,6 @@
 # papernotes
 #### 2019-04
-- Exploring Randomly Wired Neural Networks for Image Recognition [[arXiv](https://arxiv.org/abs/1904.01569)]
+- Exploring Randomly Wired Neural Networks for Image Recognition [[arXiv](https://arxiv.org/abs/1904.01569)] [[Code](https://github.com/seungwonpark/RandWireNN)]
 - Analysing Mathematical Reasoning Abilities of Neural Models [[arXiv](https://arxiv.org/abs/1904.01557)] [[dataset](https://github.com/deepmind/mathematics_dataset)]
 - Reducing BERT Pre-Training Time from 3 Days to 76 Minutes [[arXiv](https://arxiv.org/abs/1904.00962)]
 - Single Path One-Shot Neural Architecture Search with Uniform Sampling [[arXiv](https://arxiv.org/abs/1904.00420)]
