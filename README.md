@@ -409,6 +409,9 @@
 #### 2014-11
 - Conditional Generative Adversarial Nets [[arXiv](https://arxiv.org/abs/1411.1784)]
 
+#### 2014-08
+- Convolutional Neural Networks for Sentence Classification [[arXiv](https://arxiv.org/abs/1408.5882)]
+
 #### 2014-06
 - Generative Adversarial Networks [[arXiv](https://arxiv.org/abs/1406.2661)]
 - Semi-Supervised Learning with Deep Generative Models [[arXiv](https://arxiv.org/abs/1406.5298)] [[Code](https://github.com/dpkingma/nips14-ssl)]
