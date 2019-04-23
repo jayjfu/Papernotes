@@ -11,6 +11,8 @@
 - Single Path One-Shot Neural Architecture Search with Uniform Sampling [[arXiv](https://arxiv.org/abs/1904.00420)]
 
 #### 2019-03
+- Cloze-driven Pretraining of Self-attention Networks [[arXiv](https://arxiv.org/abs/1903.07785v1)]
+- To Tune or Not to Tune? Adapting Pretrained Representations to Diverse Tasks [[arXiv](https://arxiv.org/abs/1903.05987v1)]
 - Fine-tune BERT for Extractive Summarization [[arXiv](https://arxiv.org/abs/1903.10318v1)] [[Code](https://github.com/nlpyang/BertSum)]
 - Semantic Image Synthesis with Spatially-Adaptive Normalization [[arXiv](https://arxiv.org/abs/1903.07291)] [[Code](https://github.com/NVlabs/SPADE)]
 - Mode Seeking Generative Adversarial Networks for Diverse Image Synthesis [[arXiv](https://arxiv.org/abs/1903.05628v4)] [[Code](https://github.com/HelenMao/MSGAN/)]
