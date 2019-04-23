@@ -11,7 +11,7 @@
 - Single Path One-Shot Neural Architecture Search with Uniform Sampling [[arXiv](https://arxiv.org/abs/1904.00420)]
 
 #### 2019-03
-- Deep Reinforcement Learning with Feedback-based Exploration [[arXiv](https://arxiv.org/abs/1903.06151v1)] [[Code(https://github.com/janscholten/ppmp)]
+- Deep Reinforcement Learning with Feedback-based Exploration [[arXiv](https://arxiv.org/abs/1903.06151v1)] [[Code](https://github.com/janscholten/ppmp)]
 - Tracking without bells and whistles [[arXiv](https://arxiv.org/abs/1903.05625v2)]
 - Learning Correspondence from the Cycle-Consistency of Time [[arXiv](https://arxiv.org/abs/1903.07593)] [[Code](https://github.com/xiaolonw/TimeCycle)]
 - Probing the Need for Visual Context in Multimodal Machine Translation [[arXiv](https://arxiv.org/abs/1903.08678)]
