@@ -11,6 +11,8 @@
 - Single Path One-Shot Neural Architecture Search with Uniform Sampling [[arXiv](https://arxiv.org/abs/1904.00420)]
 
 #### 2019-03
+- Semantic Image Synthesis with Spatially-Adaptive Normalization [[arXiv](https://arxiv.org/abs/1903.07291)] [[Code](https://github.com/NVlabs/SPADE)]
+- Mode Seeking Generative Adversarial Networks for Diverse Image Synthesis [[arXiv](https://arxiv.org/abs/1903.05628v4)] [[Code](https://github.com/HelenMao/MSGAN/)]
 - Deep Reinforcement Learning with Feedback-based Exploration [[arXiv](https://arxiv.org/abs/1903.06151v1)] [[Code](https://github.com/janscholten/ppmp)]
 - Tracking without bells and whistles [[arXiv](https://arxiv.org/abs/1903.05625v2)]
 - Learning Correspondence from the Cycle-Consistency of Time [[arXiv](https://arxiv.org/abs/1903.07593)] [[Code](https://github.com/xiaolonw/TimeCycle)]
