@@ -1,6 +1,7 @@
 # papernotes
+#### ICML-19
+
 #### 2019-04
-- DAG-GNN: DAG Structure Learning with Graph Neural Networks [[arXiv](https://arxiv.org/abs/1904.10098)] [[Code](https://github.com/fishmoon1234/DAG-GNN)]
 - Neural Message Passing for Multi-Label Classification [[arXiv](https://arxiv.org/abs/1904.08049)] [[Code](https://github.com/QData/LaMP)]
 - CNM: An Interpretable Complex-valued Network for Matching [[arXiv](https://arxiv.org/abs/1904.05298)] [[Code](https://github.com/wabyking/qnn)]
 - What's in a Name? Reducing Bias in Bios without Access to Protected Attributes [[arXiv](https://arxiv.org/abs/1904.05233)]
