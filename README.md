@@ -2,6 +2,7 @@
 #### ICML-19
 
 #### 2019-04
+- An Empirical Study of Spatial Attention Mechanisms in Deep Networks [[arXiv](https://arxiv.org/abs/1904.05873)]
 - Generating Long Sequences with Sparse Transformers [[arXiv](https://arxiv.org/abs/1904.10509)] [[Code](https://github.com/openai/sparse_attention)]
 - Neural Message Passing for Multi-Label Classification [[arXiv](https://arxiv.org/abs/1904.08049)] [[Code](https://github.com/QData/LaMP)]
 - CNM: An Interpretable Complex-valued Network for Matching [[arXiv](https://arxiv.org/abs/1904.05298)] [[Code](https://github.com/wabyking/qnn)]
