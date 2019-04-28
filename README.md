@@ -34,6 +34,7 @@
 - High-Fidelity Image Generation With Fewer Labels [[arXiv](https://arxiv.org/abs/1903.02271)]
 
 #### 2019-02 
+- A Simple Baseline for Bayesian Uncertainty in Deep Learning [[arXiv](https://arxiv.org/abs/1902.02476)] [[Code](https://github.com/wjmaddox/swa_gaussian)]
 - Attention is not Explanation [[arXiv](https://arxiv.org/abs/1902.10186)] [[Code](https://github.com/successar/AttentionExplanation)]
 - End-to-End Open-Domain Question Answering with BERTserini [[arXiv](https://arxiv.org/abs/1902.01718v1)]
 - Embodied Multimodal Multitask Learning [[arXiv](https://arxiv.org/abs/1902.01385v1)]
