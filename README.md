@@ -2,6 +2,7 @@
 #### ICML-19
 
 #### 2019-04
+- Drop an Octave: Reducing Spatial Redundancy in Convolutional Neural Networks with Octave Convolution [[arXiv](https://arxiv.org/abs/1904.05049)] [[Code](https://github.com/facebookresearch/OctConv)] [[Code](https://github.com/lxtGH/OctaveConv_pytorch)]
 - An Empirical Study of Spatial Attention Mechanisms in Deep Networks [[arXiv](https://arxiv.org/abs/1904.05873)]
 - Generating Long Sequences with Sparse Transformers [[arXiv](https://arxiv.org/abs/1904.10509)] [[Code](https://github.com/openai/sparse_attention)]
 - Neural Message Passing for Multi-Label Classification [[arXiv](https://arxiv.org/abs/1904.08049)] [[Code](https://github.com/QData/LaMP)]
