@@ -116,6 +116,7 @@
 - Neural-Symbolic VQA: Disentangling Reasoning from Vision and Language Understanding [[arXiv](https://arxiv.org/abs/1810.02338)]
 
 #### 2018-08
+- Understanding Back-Translation at Scale [[arXiv](https://arxiv.org/abs/1808.09381)] [[Code](https://github.com/pytorch/fairseq)]
 - Why Self-Attention? A Targeted Evaluation of Neural Machine Translation Architectures [[arXiv](https://arxiv.org/abs/1808.08946v3)]
 - Pervasive Attention: 2D Convolutional Neural Networks for Sequence-to-Sequence Prediction [[arXiv](https://arxiv.org/abs/1808.03867v3)] [[Code](https://github.com/elbayadm/attn2d)]
 - Learning Neural Templates for Text Generation [[arXiv](https://arxiv.org/abs/1808.10122)] [[Code](https://github.com/harvardnlp/neural-template-gen)]
