@@ -390,6 +390,7 @@
 - SeqGAN: Sequence Generative Adversarial Nets with Policy Gradient [[arXiv](https://arxiv.org/abs/1609.05473)] [[Code](https://github.com/LantaoYu/SeqGAN)]
 
 #### 2016-08
+- Densely Connected Convolutional Networks [[arXiv](https://arxiv.org/abs/1608.06993)] [[Code](https://github.com/liuzhuang13/DenseNet)]
 - SGDR: Stochastic Gradient Descent with Warm Restarts [[arXiv](https://arxiv.org/abs/1608.03983)] [[Code](https://github.com/loshchil/SGDR)]
 
 #### 2016-07
