@@ -396,6 +396,7 @@
 - SGDR: Stochastic Gradient Descent with Warm Restarts [[arXiv](https://arxiv.org/abs/1608.03983)] [[Code](https://github.com/loshchil/SGDR)]
 
 #### 2016-07
+- Enriching Word Vectors with Subword Information [[arXiv](https://arxiv.org/abs/1607.04606)] [[Code](https://github.com/facebookresearch/fastText)]
 - Bag of Tricks for Efficient Text Classification [[arXiv](https://arxiv.org/abs/1607.01759)] [[Code](https://github.com/facebookresearch/fastText)]
 
 #### 2016-06
