@@ -7,6 +7,7 @@
 - Unified Language Model Pre-training for Natural Language Understanding and Generation [[arXiv](https://arxiv.org/abs/1905.03197)] [[Code](https://github.com/xx/xx)]
 
 #### 2019-04
+- Think Again Networks, the Delta Loss, and an Application in Language Modeling [[arXiv](https://arxiv.org/abs/1904.11816)] [[Code](https://github.com/alexandres/awd-lstm-lm-ThinkNet)]
 - Survey on Automated Machine Learning [[arXiv](https://arxiv.org/abs/1904.12054)]
 - Unifying Human and Statistical Evaluation for Natural Language Generation [[arXiv](https://arxiv.org/abs/1904.02792)] [[Code](https://github.com/hughbzhang/HUSE)]
 - Drop an Octave: Reducing Spatial Redundancy in Convolutional Neural Networks with Octave Convolution [[arXiv](https://arxiv.org/abs/1904.05049)] [[Code](https://github.com/facebookresearch/OctConv)] [[Code](https://github.com/lxtGH/OctaveConv_pytorch)]
