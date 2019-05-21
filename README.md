@@ -1,5 +1,6 @@
 # papernotes
 #### ICML-19
+- Similarity of Neural Network Representations Revisited [[arXiv](https://arxiv.org/abs/1905.00414)]
 - MASS: Masked Sequence to Sequence Pre-training for Language Generation [[arXiv](https://arxiv.org/abs/1905.02450)] [[Code]()]
 
 #### 2019-05
@@ -24,13 +25,13 @@
 - Single Path One-Shot Neural Architecture Search with Uniform Sampling [[arXiv](https://arxiv.org/abs/1904.00420)]
 
 #### 2019-03
-- Cloze-driven Pretraining of Self-attention Networks [[arXiv](https://arxiv.org/abs/1903.07785v1)]
-- To Tune or Not to Tune? Adapting Pretrained Representations to Diverse Tasks [[arXiv](https://arxiv.org/abs/1903.05987v1)]
-- Fine-tune BERT for Extractive Summarization [[arXiv](https://arxiv.org/abs/1903.10318v1)] [[Code](https://github.com/nlpyang/BertSum)]
+- Cloze-driven Pretraining of Self-attention Networks [[arXiv](https://arxiv.org/abs/1903.07785)]
+- To Tune or Not to Tune? Adapting Pretrained Representations to Diverse Tasks [[arXiv](https://arxiv.org/abs/1903.05987)]
+- Fine-tune BERT for Extractive Summarization [[arXiv](https://arxiv.org/abs/1903.10318)] [[Code](https://github.com/nlpyang/BertSum)]
 - Semantic Image Synthesis with Spatially-Adaptive Normalization [[arXiv](https://arxiv.org/abs/1903.07291)] [[Code](https://github.com/NVlabs/SPADE)]
-- Mode Seeking Generative Adversarial Networks for Diverse Image Synthesis [[arXiv](https://arxiv.org/abs/1903.05628v4)] [[Code](https://github.com/HelenMao/MSGAN/)]
-- Deep Reinforcement Learning with Feedback-based Exploration [[arXiv](https://arxiv.org/abs/1903.06151v1)] [[Code](https://github.com/janscholten/ppmp)]
-- Tracking without bells and whistles [[arXiv](https://arxiv.org/abs/1903.05625v2)]
+- Mode Seeking Generative Adversarial Networks for Diverse Image Synthesis [[arXiv](https://arxiv.org/abs/1903.05628)] [[Code](https://github.com/HelenMao/MSGAN/)]
+- Deep Reinforcement Learning with Feedback-based Exploration [[arXiv](https://arxiv.org/abs/1903.06151)] [[Code](https://github.com/janscholten/ppmp)]
+- Tracking without bells and whistles [[arXiv](https://arxiv.org/abs/1903.05625)]
 - Learning Correspondence from the Cycle-Consistency of Time [[arXiv](https://arxiv.org/abs/1903.07593)] [[Code](https://github.com/xiaolonw/TimeCycle)]
 - Probing the Need for Visual Context in Multimodal Machine Translation [[arXiv](https://arxiv.org/abs/1903.08678)]
 - TensorMask: A Foundation for Dense Object Segmentation [[arXiv](https://arxiv.org/abs/1903.12174)]
@@ -43,36 +44,36 @@
 #### 2019-02 
 - A Simple Baseline for Bayesian Uncertainty in Deep Learning [[arXiv](https://arxiv.org/abs/1902.02476)] [[Code](https://github.com/wjmaddox/swa_gaussian)]
 - Attention is not Explanation [[arXiv](https://arxiv.org/abs/1902.10186)] [[Code](https://github.com/successar/AttentionExplanation)]
-- End-to-End Open-Domain Question Answering with BERTserini [[arXiv](https://arxiv.org/abs/1902.01718v1)]
-- Embodied Multimodal Multitask Learning [[arXiv](https://arxiv.org/abs/1902.01385v1)]
-- An Embarrassingly Simple Approach for Transfer Learning from Pretrained Language Models [[arXiv](https://arxiv.org/abs/1902.10547v1)]
-- Simplifying Graph Convolutional Networks [[arXiv](https://arxiv.org/abs/1902.07153v1)] [[Code](https://github.com/Tiiiger/SGC)]
-- Superposition of many models into one [[arXiv](https://arxiv.org/abs/1902.05522v1)]
-- Topology of Learning in Artificial Neural Networks [[arXiv](https://arxiv.org/abs/1902.08160v1)] [[Code](https://github.com/maximevictor/topo-learning)]
+- End-to-End Open-Domain Question Answering with BERTserini [[arXiv](https://arxiv.org/abs/1902.01718)]
+- Embodied Multimodal Multitask Learning [[arXiv](https://arxiv.org/abs/1902.01385)]
+- An Embarrassingly Simple Approach for Transfer Learning from Pretrained Language Models [[arXiv](https://arxiv.org/abs/1902.10547)]
+- Simplifying Graph Convolutional Networks [[arXiv](https://arxiv.org/abs/1902.07153)] [[Code](https://github.com/Tiiiger/SGC)]
+- Superposition of many models into one [[arXiv](https://arxiv.org/abs/1902.05522)]
+- Topology of Learning in Artificial Neural Networks [[arXiv](https://arxiv.org/abs/1902.08160)] [[Code](https://github.com/maximevictor/topo-learning)]
 - A novel adaptive learning rate scheduler for deep neural networks [[arXiv](https://arxiv.org/abs/1902.07399)] [[Code](https://github.com/yrahul3910/adaptive-lr-dnn)]
 - Bag of Freebies for Training Object Detection Neural Networks [[arXiv](https://arxiv.org/abs/1902.04103)]
-- Parameter-Efficient Transfer Learning for NLP [[arXiv](https://arxiv.org/abs/1902.00751v1)]
+- Parameter-Efficient Transfer Learning for NLP [[arXiv](https://arxiv.org/abs/1902.00751)]
 
 #### 2019-01
 - Multi-Task Deep Neural Networks for Natural Language Understanding [[arXiv](https://arxiv.org/abs/1901.11504)] [[Code](https://github.com/namisan/mt-dnn)]
-- Learning from Dialogue after Deployment: Feed Yourself, Chatbot! [[arXiv](https://arxiv.org/abs/1901.05415v2)]
-- Semi-Unsupervised Learning with Deep Generative Models: Clustering and Classifying using Ultra-Sparse Labels [[arXiv](https://arxiv.org/abs/1901.08560v1)] [[Code](https://github.com/SemiUnsupervisedLearning/DGMs_for_semi-unsupervised_learning)]
-- Attentive Neural Processes [[arXiv](https://arxiv.org/abs/1901.05761v1)]
-- Pay Less Attention with Lightweight and Dynamic Convolutions [[arXiv](https://arxiv.org/abs/1901.10430v1)]
+- Learning from Dialogue after Deployment: Feed Yourself, Chatbot! [[arXiv](https://arxiv.org/abs/1901.05415)]
+- Semi-Unsupervised Learning with Deep Generative Models: Clustering and Classifying using Ultra-Sparse Labels [[arXiv](https://arxiv.org/abs/1901.08560)] [[Code](https://github.com/SemiUnsupervisedLearning/DGMs_for_semi-unsupervised_learning)]
+- Attentive Neural Processes [[arXiv](https://arxiv.org/abs/1901.05761)]
+- Pay Less Attention with Lightweight and Dynamic Convolutions [[arXiv](https://arxiv.org/abs/1901.10430)]
 - Cross-lingual Language Model Pretraining [[arXiv](https://arxiv.org/abs/1901.07291)] [[Code](https://github.com/facebookresearch/XLM)]
 - The Evolved Transformer [[arXiv](https://arxiv.org/abs/1901.11117)]
 - Glyce: Glyph-vectors for Chinese Character Representations [[arXiv](https://arxiv.org/abs/1901.10125)] 
-- Transformer-XL: Attentive Language Models Beyond a Fixed-Length Context [[arXiv](https://arxiv.org/abs/1901.02860v1)] [[Code]()]
-- Panoptic Feature Pyramid Networks [[arXiv](https://arxiv.org/abs/1901.02446v1)]
+- Transformer-XL: Attentive Language Models Beyond a Fixed-Length Context [[arXiv](https://arxiv.org/abs/1901.02860)] [[Code]()]
+- Panoptic Feature Pyramid Networks [[arXiv](https://arxiv.org/abs/1901.02446)]
 
 #### 2018-12
-- A Tutorial on Deep Latent Variable Models of Natural Language [[arXiv](https://arxiv.org/abs/1812.06834v2)]
+- A Tutorial on Deep Latent Variable Models of Natural Language [[arXiv](https://arxiv.org/abs/1812.06834)]
 - On the Dimensionality of Word Embedding [[arXiv](https://arxiv.org/abs/1812.04224)] [[Code](https://github.com/ziyin-dl/word-embedding-dimensionality-selection)]
 - Looking for ELMo's friends: Sentence-Level Pretraining Beyond Language Modeling [[arXiv](https://arxiv.org/abs/1812.10860)] [[Code](https://github.com/jsalt18-sentence-repl/jiant)]
 - The Design and Implementation of XiaoIce, an Empathetic Social Chatbot [[arXiv](https://arxiv.org/abs/1812.08989)]
 - Non-Adversarial Image Synthesis with Generative Latent Nearest Neighbors [[arXiv](https://arxiv.org/abs/1812.08985)]
 - SlowFast Networks for Video Recognition [[arXiv](https://arxiv.org/abs/1812.03982)]
-- Bag of Tricks for Image Classification with Convolutional Neural Networks [[arXiv](https://arxiv.org/abs/1812.01187v2)] [[Code](https://github.com/dmlc/gluon-cv)]
+- Bag of Tricks for Image Classification with Convolutional Neural Networks [[arXiv](https://arxiv.org/abs/1812.01187)] [[Code](https://github.com/dmlc/gluon-cv)]
 
 #### ICLR-19
 - Differentiable Learning-to-Normalize via Switchable Normalization [[arXiv](https://arxiv.org/abs/1806.10779)] [[Code](https://github.com/switchablenorms/Switchable-Normalization)]
@@ -88,18 +89,18 @@
 
 #### 2018-11
 - Gradient Harmonized Single-stage Detector [[arXiv](https://arxiv.org/abs/1811.05181)] [[Code](https://github.com/libuyu/GHM_Detection)]
-- Guiding Policies with Language via Meta-Learning [[arXiv](https://arxiv.org/abs/1811.07882v1)]
-- Dataset Distillation [[arXiv](https://arxiv.org/abs/1811.10959v1)]
-- GAN Dissection: Visualizing and Understanding Generative Adversarial Networks [[arXiv](https://arxiv.org/abs/1811.10597v1)] [[Code](https://github.com/CSAILVision/gandissect)]
-- Towards Explainable NLP: A Generative Explanation Framework for Text Classification [[arXiv](https://arxiv.org/abs/1811.00196v1)]
+- Guiding Policies with Language via Meta-Learning [[arXiv](https://arxiv.org/abs/1811.07882)]
+- Dataset Distillation [[arXiv](https://arxiv.org/abs/1811.10959)]
+- GAN Dissection: Visualizing and Understanding Generative Adversarial Networks [[arXiv](https://arxiv.org/abs/1811.10597)] [[Code](https://github.com/CSAILVision/gandissect)]
+- Towards Explainable NLP: A Generative Explanation Framework for Text Classification [[arXiv](https://arxiv.org/abs/1811.00196)]
 - Rethinking ImageNet Pre-training [[arXiv](https://arxiv.org/abs/1811.08883)]
 - Sampling Can Be Faster Than Optimization [[arXiv](https://arxiv.org/abs/1811.08413)]
 - Are Deep Policy Gradient Algorithms Truly Policy Gradient Algorithms? [[arXiv](https://arxiv.org/abs/1811.02553)]
 - Gradient Descent Finds Global Minima of Deep Neural Networks [[arXiv](https://arxiv.org/abs/1811.03804)]
 
 #### 2018-10
-- Three Mechanisms of Weight Decay Regularization [[arXiv](https://arxiv.org/abs/1810.12281v1)]
-- Neural Nearest Neighbors Networks [[arXiv](https://arxiv.org/abs/1810.12575v1)] [[Code](https://github.com/visinf/n3net/)]
+- Three Mechanisms of Weight Decay Regularization [[arXiv](https://arxiv.org/abs/1810.12281)]
+- Neural Nearest Neighbors Networks [[arXiv](https://arxiv.org/abs/1810.12575)] [[Code](https://github.com/visinf/n3net/)]
 - Variational Discriminator Bottleneck: Improving Imitation Learning, Inverse RL, and GANs by Constraining Information Flow [[arXiv](https://arxiv.org/abs/1810.00821)] [[Code](https://github.com/akanazawa/vgan)]
 - DropBlock: A regularization method for convolutional networks [[arXiv](https://arxiv.org/abs/1810.12890)]
 - BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding [[arXiv](https://arxiv.org/abs/1810.04805)][[Code](https://github.com/google-research/bert)][[Code](https://github.com/codertimo/BERT-pytorch)]
@@ -119,13 +120,13 @@
 - Learning Disentangled Joint Continuous and Discrete Representations [[arXiv](https://arxiv.org/abs/1804.00104)] [[Code](https://github.com/Schlumberger/joint-vae)]
 - Tree-to-tree Neural Networks for Program Translation [[arXiv](https://arxiv.org/abs/1802.03691)]
 - Distilled Wasserstein Learning for Word Embedding and Topic Modeling [[arXiv](https://arxiv.org/abs/1809.04705)]
-- Reversible Recurrent Neural Networks [[arXiv](https://arxiv.org/abs/1810.10999v1)][[Code](https://github.com/matthewjmackay/reversible-rnn)]
+- Reversible Recurrent Neural Networks [[arXiv](https://arxiv.org/abs/1810.10999)][[Code](https://github.com/matthewjmackay/reversible-rnn)]
 - Neural-Symbolic VQA: Disentangling Reasoning from Vision and Language Understanding [[arXiv](https://arxiv.org/abs/1810.02338)]
 
 #### 2018-08
 - Understanding Back-Translation at Scale [[arXiv](https://arxiv.org/abs/1808.09381)] [[Code](https://github.com/pytorch/fairseq)]
-- Why Self-Attention? A Targeted Evaluation of Neural Machine Translation Architectures [[arXiv](https://arxiv.org/abs/1808.08946v3)]
-- Pervasive Attention: 2D Convolutional Neural Networks for Sequence-to-Sequence Prediction [[arXiv](https://arxiv.org/abs/1808.03867v3)] [[Code](https://github.com/elbayadm/attn2d)]
+- Why Self-Attention? A Targeted Evaluation of Neural Machine Translation Architectures [[arXiv](https://arxiv.org/abs/1808.08946)]
+- Pervasive Attention: 2D Convolutional Neural Networks for Sequence-to-Sequence Prediction [[arXiv](https://arxiv.org/abs/1808.03867)] [[Code](https://github.com/elbayadm/attn2d)]
 - Learning Neural Templates for Text Generation [[arXiv](https://arxiv.org/abs/1808.10122)] [[Code](https://github.com/harvardnlp/neural-template-gen)]
 - Is Wasserstein all you need? [[arXiv](https://arxiv.org/abs/1808.09663)]
 - Training Deeper Neural Machine Translation Models with Transparent Attention [[arXiv](https://arxiv.org/abs/1808.07561)]
@@ -148,7 +149,7 @@
 
 #### 2018-06
 - Deep Self-Organization: Interpretable Discrete Representation Learning on Time Series [[arXiv](https://arxiv.org/abs/1806.02199)] [[Code](https://github.com/ratschlab/SOM-VAE)]
-- DARTS: Differentiable Architecture Search [[arXiv](https://arxiv.org/abs/1806.09055v1)] [[Code](https://github.com/quark0/darts)]
+- DARTS: Differentiable Architecture Search [[arXiv](https://arxiv.org/abs/1806.09055)] [[Code](https://github.com/quark0/darts)]
 - Auto-Keras: Efficient Neural Architecture Search with Network Morphism [[arXiv](https://arxiv.org/abs/1806.10282)] [[Code](https://autokeras.com/)]
 - Design Challenges and Misconceptions in Neural Sequence Labeling [[arXiv](https://arxiv.org/abs/1806.04470)] [[Code](https://github.com/jiesutd/NCRFpp)]
 - Guided evolutionary strategies: escaping the curse of dimensionality in random search [[arXiv](https://arxiv.org/abs/1806.10230)]
@@ -181,17 +182,17 @@
 - Born Again Neural Networks [[arXiv](https://arxiv.org/abs/1805.04770)]
 - Convolutional CRFs for Semantic Segmentation [[arXiv](https://arxiv.org/abs/1805.04777)]  [[Code](https://github.com/MarvinTeichmann/ConvCRF)]
 - Did the Model Understand the Question? [[arXiv](https://arxiv.org/abs/1805.05492)] [[Code](https://github.com/pramodkaushik/acl18_results)]
-- From Word to Sense Embeddings: A Survey on Vector Representations of Meaning [[arXiv](https://arxiv.org/abs/1805.04032v2)]
+- From Word to Sense Embeddings: A Survey on Vector Representations of Meaning [[arXiv](https://arxiv.org/abs/1805.04032)]
 - Reinforcement Learning and Control as Probabilistic Inference: Tutorial and Review [[arXiv](https://arxiv.org/abs/1805.00909)]
 
 #### 2018-04
-- The Best of Both Worlds: Combining Recent Advances in Neural Machine Translation [[arXiv](https://arxiv.org/abs/1804.09849v2)]
+- The Best of Both Worlds: Combining Recent Advances in Neural Machine Translation [[arXiv](https://arxiv.org/abs/1804.09849)]
 - Linguistically-Informed Self-Attention for Semantic Role Labeling [[arXiv](https://arxiv.org/abs/1804.08199)]
 - Taskonomy: Disentangling Task Transfer Learning [[arXiv](https://arxiv.org/abs/1804.08328)] [[Code](https://github.com/StanfordVL/taskonomy)]
 - Unsupervised Discrete Sentence Representation Learning for Interpretable Neural Dialog Generation [[arXiv](https://arxiv.org/abs/1804.08069)] [[Code](https://github.com/snakeztc/NeuralDialog-LAED)]
 - Learning Semantic Textual Similarity from Conversations [[arXiv](https://arxiv.org/abs/1804.07754)]
-- When and Why are Pre-trained Word Embeddings Useful for Neural Machine Translation? [[arXiv](https://arxiv.org/abs/1804.06323v2)]
-- QANet: Combining Local Convolution with Global Self-Attention for Reading Comprehension [[arXiv](https://arxiv.org/abs/1804.09541v1)] [[Code](https://github.com/hengruo/QANet-pytorch)]
+- When and Why are Pre-trained Word Embeddings Useful for Neural Machine Translation? [[arXiv](https://arxiv.org/abs/1804.06323)]
+- QANet: Combining Local Convolution with Global Self-Attention for Reading Comprehension [[arXiv](https://arxiv.org/abs/1804.09541)] [[Code](https://github.com/hengruo/QANet-pytorch)]
 - Seq2Seq-Vis: A Visual Debugging Tool for Sequence-to-Sequence Models [[arXiv](https://arxiv.org/abs/1804.09299)] [[Code](https://github.com/HendrikStrobelt/Seq2Seq-Vis)]
 - Low Rank Structure of Learned Representations [[arXiv](https://arxiv.org/abs/1804.07090)]
 - Decoupled Networks [[arXiv](https://arxiv.org/abs/1804.08071)]
@@ -200,10 +201,10 @@
 - Learning to Map Context-Dependent Sentences to Executable Formal Queries [[arXiv](https://arxiv.org/abs/1804.06868)] [[Code](https://github.com/clic-lab/atis)]
 - Fortified Networks: Improving the Robustness of Deep Networks by Modeling the Manifold of Hidden Representations [[arXiv](https://arxiv.org/abs/1804.02485)]
 - Differentiable plasticity: training plastic neural networks with backpropagation [[arXiv](https://arxiv.org/abs/1804.02464)]
-- Learning General Purpose Distributed Sentence Representations via Large Scale Multi-task Learning [[arXiv](https://arxiv.org/abs/1804.00079v1)] [[Code](https://github.com/Maluuba/gensen)]
+- Learning General Purpose Distributed Sentence Representations via Large Scale Multi-task Learning [[arXiv](https://arxiv.org/abs/1804.00079)] [[Code](https://github.com/Maluuba/gensen)]
 
 #### 2018-03
-- An Empirical Evaluation of Generic Convolutional and Recurrent Networks for Sequence Modeling [[arXiv](https://arxiv.org/abs/1803.01271v2)] [[Code](https://github.com/locuslab/TCN)]
+- An Empirical Evaluation of Generic Convolutional and Recurrent Networks for Sequence Modeling [[arXiv](https://arxiv.org/abs/1803.01271)] [[Code](https://github.com/locuslab/TCN)]
 - Variance Networks: When Expectation Does Not Meet Your Expectations [[arXiv](https://arxiv.org/abs/1803.03764)]
 - Referring Relationships [[arXiv](https://arxiv.org/abs/1803.10362)]
 - Iterative Visual Reasoning Beyond Convolutions [[arXiv](https://arxiv.org/abs/1803.11189)]
@@ -211,8 +212,8 @@
 - Transparency by Design: Closing the Gap Between Performance and Interpretability in Visual Reasoning [[arXiv](https://arxiv.org/abs/1803.05268)]
 - A disciplined approach to neural network hyper-parameters: Part 1 -- learning rate, batch size, momentum, and weight decay [[arXiv](https://arxiv.org/abs/1803.09820)]
 - Feudal Reinforcement Learning for Dialogue Management in Large Domains [[arXiv](https://arxiv.org/abs/1803.03232)]
-- Universal Sentence Encoder [[arXiv](https://arxiv.org/abs/1803.11175v1)]
-- Averaging Weights Leads to Wider Optima and Better Generalization [[arXiv](https://arxiv.org/abs/1803.05407v1)]
+- Universal Sentence Encoder [[arXiv](https://arxiv.org/abs/1803.11175)]
+- Averaging Weights Leads to Wider Optima and Better Generalization [[arXiv](https://arxiv.org/abs/1803.05407)]
 - On the importance of single directions for generalization [[arXiv](https://arxiv.org/abs/1803.06959)]
 - Group Normalization [[arXiv](https://arxiv.org/abs/1803.08494)]
 - Compositional Attention Networks for Machine Reasoning [[arXiv](https://arxiv.org/abs/1803.03067)]
@@ -221,7 +222,7 @@
 #### 2018-02
 - Regularized Evolution for Image Classifier Architecture Search [[arXiv](https://arxiv.org/abs/1802.01548)]
 - Visual Interpretability for Deep Learning: a Survey [[arXiv](https://arxiv.org/abs/1802.00614)]
-- Deep contextualized word representation [[arXiv](https://arxiv.org/abs/1802.05365v2)]
+- Deep contextualized word representation [[arXiv](https://arxiv.org/abs/1802.05365)]
 - Loss Surfaces, Mode Connectivity, and Fast Ensembling of DNNs [[arXiv](https://arxiv.org/abs/1802.10026)] [[Code](https://github.com/timgaripov/dnn-mode-connectivity)]
 - Machine Theory of Mind [[arXiv](https://arxiv.org/abs/1802.07740)] 
 - Efficient Neural Architecture Search via Parameter Sharing [[arXiv](https://arxiv.org/abs/1802.03268)]
@@ -233,7 +234,7 @@
 - Obfuscated Gradients Give a False Sense of Security: Circumventing Defenses to Adversarial Examples [[arXiv](https://arxiv.org/abs/1802.00420)] [[Code](https://github.com/anishathalye/obfuscated-gradients)]
 
 #### 2018-01
-- Universal Language Model Fine-tuning for Text Classification [[arXiv](https://arxiv.org/abs/1801.06146v5)]
+- Universal Language Model Fine-tuning for Text Classification [[arXiv](https://arxiv.org/abs/1801.06146)]
 - Reinforced Self-Attention Network: a Hybrid of Hard and Soft Attention for Sequence Modeling [[arXiv](https://arxiv.org/abs/1801.10296)]
 - Quantum Computing in the NISQ era and beyond [[arXiv](https://arxiv.org/abs/1801.00862)]
 - Active Neural Localization [[arXiv](https://arxiv.org/abs/1801.08214)]
@@ -254,17 +255,17 @@
 #### 2017-12
 - Noisy Natural Gradient as Variational Inference [[arXiv](https://arxiv.org/abs/1712.02390)] [[Code](https://github.com/wlwkgus/NoisyNaturalGradient)]
 - Non-convex Optimization for Machine Learning [[arXiv](https://arxiv.org/abs/1712.07897)]
-- Improving Generalization Performance by Switching from Adam to SGD [[arXiv](https://arxiv.org/abs/1712.07628v1)]
-- Learning by Asking Questions [[arXiv](https://arxiv.org/abs/1712.01238v1)]
-- A Flexible Approach to Automated RNN Architecture Generation [[arXiv](https://arxiv.org/abs/1712.07316v1)]
+- Improving Generalization Performance by Switching from Adam to SGD [[arXiv](https://arxiv.org/abs/1712.07628)]
+- Learning by Asking Questions [[arXiv](https://arxiv.org/abs/1712.01238)]
+- A Flexible Approach to Automated RNN Architecture Generation [[arXiv](https://arxiv.org/abs/1712.07316)]
 - Lectures on Randomized Numerical Linear Algebra [[arXiv](https://arxiv.org/abs/1712.08880)]
 - Data Distillation: Towards Omni-Supervised Learning [[arXiv](https://arxiv.org/abs/1712.04440)]
-- Deep Learning Scaling is Predictable, Empirically [[arXiv](https://arxiv.org/abs/1712.00409v1)]
-- SGAN: An Alternative Training of Generative Adversarial Networks [[arXiv](https://arxiv.org/abs/1712.02330v1)]
-- The NarrativeQA Reading Comprehension Challenge [[arXiv](https://arxiv.org/abs/1712.07040v1)] [[dataset](https://github.com/deepmind/narrativeqa)]
+- Deep Learning Scaling is Predictable, Empirically [[arXiv](https://arxiv.org/abs/1712.00409)]
+- SGAN: An Alternative Training of Generative Adversarial Networks [[arXiv](https://arxiv.org/abs/1712.02330)]
+- The NarrativeQA Reading Comprehension Challenge [[arXiv](https://arxiv.org/abs/1712.07040)] [[dataset](https://github.com/deepmind/narrativeqa)]
 - Regularization and Optimization strategies in Deep Convolutional Neural Network [[arXiv](https://arxiv.org/abs/1712.04711)]
 - Mathematics of Deep Learning [[arXiv](https://arxiv.org/abs/1712.04741)]
-- Text Generation Based on Generative Adversarial Nets with Latent Variable [[arXiv](https://arxiv.org/abs/1712.00170v1)]
+- Text Generation Based on Generative Adversarial Nets with Latent Variable [[arXiv](https://arxiv.org/abs/1712.00170)]
 - Deliberation Networks: Sequence Generation Beyond One-Pass Decoding
 - Show-and-Fool: Crafting Adversarial Examples for Neural Image Captioning [[arXiv](https://arxiv.org/abs/1712.02051)] [[Code](https://github.com/huanzhang12/ImageCaptioningAttack)]
 
@@ -285,17 +286,17 @@
 - Matrix capsules with EM routing
 
 #### 2017-11
-- Hierarchical Representations for Efficient Architecture Search [[arXiv](https://arxiv.org/abs/1711.00436v2)]
-- Embedding Words as Distributions with a Bayesian Skip-gram Model [[arXiv](https://arxiv.org/abs/1711.11027v1)]
+- Hierarchical Representations for Efficient Architecture Search [[arXiv](https://arxiv.org/abs/1711.00436)]
+- Embedding Words as Distributions with a Bayesian Skip-gram Model [[arXiv](https://arxiv.org/abs/1711.11027)]
 - Deep Image Prior [[arXiv](https://arxiv.org/abs/1711.10925)] [[Code](https://github.com/DmitryUlyanov/deep-image-prior)]
-- MinimalRNN: Toward More Interpretable and Trainable Recurrent Neural Networks [[arXiv](https://arxiv.org/abs/1711.06788v1)]
-- Are You Talking to Me? Reasoned Visual Dialog Generation through Adversarial Learning [[arXiv](https://arxiv.org/abs/1711.07613v1)]
-- Neural Text Generation: A Practical Guide [[arXiv](https://arxiv.org/abs/1711.09534v1)]
+- MinimalRNN: Toward More Interpretable and Trainable Recurrent Neural Networks [[arXiv](https://arxiv.org/abs/1711.06788)]
+- Are You Talking to Me? Reasoned Visual Dialog Generation through Adversarial Learning [[arXiv](https://arxiv.org/abs/1711.07613)]
+- Neural Text Generation: A Practical Guide [[arXiv](https://arxiv.org/abs/1711.09534)]
 - Memory Aware Synapses: Learning what (not) to forget [[arXiv](https://arxiv.org/abs/1711.09601)]
 - Are GANs Created Equal? A Large-Scale Study [[arXiv](https://arxiv.org/abs/1711.10337)]
 - Distilling a Neural Network Into a Soft Decision Tree [[arXiv](https://arxiv.org/abs/1711.09784)]
 - SVCCA: Singular Vector Canonical Correlation Analysis for Deep Learning Dynamics and Interpretability [[arXiv](https://arxiv.org/abs/1706.05806)] [[Code](https://github.com/google/svcca)]
-- Non-local Neural Networks [[arXiv](https://arxiv.org/abs/1711.07971v1)]
+- Non-local Neural Networks [[arXiv](https://arxiv.org/abs/1711.07971)]
 - Pushing the Limits of Paraphrastic Sentence Embeddings with Millions of Machine Translations [[arXiv](https://arxiv.org/abs/1711.05732)] [[dataset](https://github.com/jwieting)] [[Code](https://github.com/jwieting)]
 - Still not systematic after all these years: On the compositional skills of sequence-to-sequence recurrent networks [[arXiv](https://arxiv.org/abs/1711.00350)] [[dataset](https://github.com/brendenlake/SCAN)]
 - Neural Discrete Representation Learning [[arXiv](https://arxiv.org/abs/1711.00937)]
@@ -312,7 +313,7 @@
 #### NIPS-17
 - Improved Training of Wasserstein GANs [[arXiv](https://arxiv.org/abs/1704.00028)] [[Code](https://github.com/igul222/improved_wgan_training)] [[Code](https://github.com/caogang/wgan-gp)]
 - The Reversible Residual Network: Backpropagation Without Storing Activations [[arXiv](https://arxiv.org/abs/1707.04585)] [[Code](https://github.com/renmengye/revnet-public)] [[Code](https://github.com/tbung/pytorch-revnet)]
-- Plan, Attend, Generate: Planning for Sequence-to-Sequence Models [[arXiv](https://arxiv.org/abs/1711.10462v1)]
+- Plan, Attend, Generate: Planning for Sequence-to-Sequence Models [[arXiv](https://arxiv.org/abs/1711.10462)]
 - REBAR: Low-variance, unbiased gradient estimates for discrete latent variable models [[arXiv](https://arxiv.org/abs/1703.07370)] [[Code](https://github.com/tensorflow/models/tree/master/research/rebar)]
 - Poincaré Embeddings for Learning Hierarchical Representations [[arXiv](https://arxiv.org/abs/1705.08039)]
 - Character-Level Language Modeling with Recurrent Highway Hypernetworks [[Code](https://github.com/jsuarez5341/Recurrent-Highway-Hypernetworks-NIPS)] 
@@ -382,7 +383,7 @@
 
 #### 2016-11
 - A Joint Many-Task Model: Growing a Neural Network for Multiple NLP Tasks [[arXiv](https://arxiv.org/abs/1611.01587)]
-- Image-to-Image Translation with Conditional Adversarial Networks [[arXiv](https://arxiv.org/abs/1611.07004v2)] [[Code](https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix)]
+- Image-to-Image Translation with Conditional Adversarial Networks [[arXiv](https://arxiv.org/abs/1611.07004)] [[Code](https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix)]
 
 #### 2016-10
 - Using Fast Weights to Attend to the Recent Past [[arXiv](https://arxiv.org/abs/1610.06258)]
@@ -401,7 +402,7 @@
 - Bag of Tricks for Efficient Text Classification [[arXiv](https://arxiv.org/abs/1607.01759)] [[Code](https://github.com/facebookresearch/fastText)]
 
 #### 2016-06
-- A Thorough Examination of the CNN/Daily Mail Reading Comprehension Task [[arXiv](https://arxiv.org/abs/1606.02858v2)]
+- A Thorough Examination of the CNN/Daily Mail Reading Comprehension Task [[arXiv](https://arxiv.org/abs/1606.02858)]
 - Convolution by Evolution: Differentiable Pattern Producing Networks [[arXiv](https://arxiv.org/abs/1606.02580)]
 - Conditional Image Generation with PixelCNN Decoders [[arXiv](https://arxiv.org/abs/1606.05328)]
 - InfoGAN: Interpretable Representation Learning by Information Maximizing Generative Adversarial Nets [[arXiv](https://arxiv.org/abs/1606.03657)]
@@ -410,7 +411,7 @@
 - Benchmarking Deep Reinforcement Learning for Continuous Control [[arXiv](https://arxiv.org/abs/1604.06778)] [[Code](https://github.com/rll/rllab)]
 
 #### 2016-03
-- Text Understanding with the Attention Sum Reader Network [[arXiv](https://arxiv.org/abs/1603.01547v2)]
+- Text Understanding with the Attention Sum Reader Network [[arXiv](https://arxiv.org/abs/1603.01547)]
 
 #### 2016-02
 - Associative Long Short-Term Memory [[arXiv](https://arxiv.org/abs/1602.03032)]
