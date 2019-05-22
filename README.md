@@ -1,5 +1,6 @@
 # papernotes
 #### ICML-19
+- Making Convolutional Networks Shift-Invariant Again [[arXiv](https://arxiv.org/abs/1904.11486)] [[Code](https://github.com/adobe/antialiased-cnns)]
 - Similarity of Neural Network Representations Revisited [[arXiv](https://arxiv.org/abs/1905.00414)]
 - MASS: Masked Sequence to Sequence Pre-training for Language Generation [[arXiv](https://arxiv.org/abs/1905.02450)] [[Code]()]
 
