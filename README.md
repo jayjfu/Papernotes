@@ -9,6 +9,8 @@
 
 #### 2019-04
 - Joint Discriminative and Generative Learning for Person Re-identification [[arXiv](https://arxiv.org/abs/1904.07223)]
+
+[comment]: <> (zhengzhedong, CVPR oral)
 - Unsupervised Data Augmentation [[arXiv](https://arxiv.org/abs/1904.12848)]
 - A Closer Look at Few-shot Classification [[arXiv](https://arxiv.org/abs/1904.04232)] [[Code](https://github.com/wyharveychen/CloserLookFewShot)]
 - Attention Augmented Convolutional Networks [[arXiv](Attention Augmented Convolutional Networks)]
