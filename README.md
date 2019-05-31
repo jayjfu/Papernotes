@@ -380,7 +380,6 @@
 - OpenNMT: Open-Source Toolkit for Neural Machine Translation [[arXiv](https://arxiv.org/abs/1701.02810)] [[Code](https://github.com/OpenNMT/OpenNMT)] [[Code](https://github.com/OpenNMT/OpenNMT-py)]
 
 #### ICLR-17
-- Categorical Reparameterization with Gumbel-Softmax [[arXiv](https://arxiv.org/abs/1611.01144)]
 - Adversarial Training Methods for Semi-Supervised Text Classification [[arXiv](https://arxiv.org/abs/1605.07725)] [[Code](https://github.com/tensorflow/models/tree/master/research/adversarial_text)]
 - Structured Attention Networks [[arXiv](https://arxiv.org/abs/1702.00887)] [[Code](https://github.com/harvardnlp/struct-attn)]
 - Learning End-to-End Goal-Oriented Dialog [[arXiv](https://arxiv.org/abs/1605.07683)] [[dataset](http://fb.ai/babi)]
@@ -390,6 +389,7 @@
 - Introspection: Accelerating Neural Network Training By Learning Weight Evolution [[arXiv](https://arxiv.org/abs/1704.04959)]
 
 #### 2016-11
+- Categorical Reparameterization with Gumbel-Softmax [[arXiv](https://arxiv.org/abs/1611.01144)]
 - A Joint Many-Task Model: Growing a Neural Network for Multiple NLP Tasks [[arXiv](https://arxiv.org/abs/1611.01587)]
 - Image-to-Image Translation with Conditional Adversarial Networks [[arXiv](https://arxiv.org/abs/1611.07004)] [[Code](https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix)]
 
