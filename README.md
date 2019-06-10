@@ -1,4 +1,7 @@
 # papernotes
+#### 2019-06
+- Selfie: Self-supervised Pretraining for Image Embedding [[arXiv](https://arxiv.org/abs/1906.02940)] 
+
 #### ICML-19
 - Making Convolutional Networks Shift-Invariant Again [[arXiv](https://arxiv.org/abs/1904.11486)] [[Code](https://github.com/adobe/antialiased-cnns)]
 - Similarity of Neural Network Representations Revisited [[arXiv](https://arxiv.org/abs/1905.00414)]
