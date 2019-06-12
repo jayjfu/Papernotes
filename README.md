@@ -2,6 +2,11 @@
 #### 2019-06
 - Selfie: Self-supervised Pretraining for Image Embedding [[arXiv](https://arxiv.org/abs/1906.02940)] 
 
+#### ACL-19
+- Analyzing Multi-Head Self-Attention: Specialized Heads Do the Heavy Lifting, the Rest Can Be Pruned [[arXiv](https://arxiv.org/abs/1905.09418)] [[Code](https://github.com/lena-voita/the-story-of-heads)]
+- PaperRobot: Incremental Draft Generation of Scientific Ideas [[arXiv](https://arxiv.org/abs/1905.07870)] [[Code](https://github.com/EagleW/PaperRobot)]
+- BERT Rediscovers the Classical NLP Pipeline [[arXiv](https://arxiv.org/abs/1905.05950)]
+
 #### ICML-19
 - On Variational Bounds of Mutual Information [[arXiv](https://arxiv.org/abs/1905.06922)]
 - Making Convolutional Networks Shift-Invariant Again [[arXiv](https://arxiv.org/abs/1904.11486)] [[Code](https://github.com/adobe/antialiased-cnns)]
@@ -57,6 +62,8 @@
 - RAVEN: A Dataset for Relational and Analogical Visual rEasoNing [[arXiv](https://arxiv.org/abs/1903.02741)]
 - VideoFlow: A Flow-Based Generative Model for Video [[arXiv](https://arxiv.org/abs/1903.01434)]
 - High-Fidelity Image Generation With Fewer Labels [[arXiv](https://arxiv.org/abs/1903.02271)]
+
+#### NAACL-19
 
 #### 2019-02 
 - A Simple Baseline for Bayesian Uncertainty in Deep Learning [[arXiv](https://arxiv.org/abs/1902.02476)] [[Code](https://github.com/wjmaddox/swa_gaussian)]
