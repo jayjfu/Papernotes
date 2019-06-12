@@ -8,6 +8,10 @@
 - MASS: Masked Sequence to Sequence Pre-training for Language Generation [[arXiv](https://arxiv.org/abs/1905.02450)] [[Code]()]
 
 #### 2019-05
+- Data-Efficient Image Recognition with Contrastive Predictive Coding [[arXiv](https://arxiv.org/abs/1905.09272)]
+- Learning What and Where to Transfer [[arXiv](https://arxiv.org/abs/1905.05901)]
+- Object Detection in 20 Years: A Survey [[arXiv](https://arxiv.org/abs/1905.05055)]
+- EfficientNet: Rethinking Model Scaling for Convolutional Neural Networks [[arXiv](https://arxiv.org/abs/1905.11946)] [[Code](https://github.com/tensorflow/tpu/tree/master/models/official/efficientnet)]
 - Adversarial Examples Are Not Bugs, They Are Features [[arXiv](https://arxiv.org/abs/1905.02175)]
 - Unified Language Model Pre-training for Natural Language Understanding and Generation [[arXiv](https://arxiv.org/abs/1905.03197)] [[Code](https://github.com/xx/xx)]
 
