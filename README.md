@@ -9,6 +9,7 @@
 - MASS: Masked Sequence to Sequence Pre-training for Language Generation [[arXiv](https://arxiv.org/abs/1905.02450)] [[Code]()]
 
 #### 2019-05
+- Multi-Sample Dropout for Accelerated Training and Better Generalization [[arXiv](https://arxiv.org/abs/1905.09788)]
 - Data-Efficient Image Recognition with Contrastive Predictive Coding [[arXiv](https://arxiv.org/abs/1905.09272)]
 - Learning What and Where to Transfer [[arXiv](https://arxiv.org/abs/1905.05901)]
 - Object Detection in 20 Years: A Survey [[arXiv](https://arxiv.org/abs/1905.05055)]
