@@ -1,5 +1,6 @@
 # papernotes
 #### 2019-06
+- XLNet: Generalized Autoregressive Pretraining for Language Understanding [[arXiv](https://arxiv.org/abs/1906.08237)] [[Code](https://github.com/zihangdai/xlnet)]
 - Selfie: Self-supervised Pretraining for Image Embedding [[arXiv](https://arxiv.org/abs/1906.02940)] 
 
 #### ACL-19
