@@ -4,6 +4,7 @@
 - Selfie: Self-supervised Pretraining for Image Embedding [[arXiv](https://arxiv.org/abs/1906.02940)] 
 
 #### ACL-19
+- ERNIE: Enhanced Language Representation with Informative Entities [[arXiv](https://arxiv.org/abs/1905.07129)] [[Code](https://github.com/thunlp/ERNIE)]
 - Analyzing Multi-Head Self-Attention: Specialized Heads Do the Heavy Lifting, the Rest Can Be Pruned [[arXiv](https://arxiv.org/abs/1905.09418)] [[Code](https://github.com/lena-voita/the-story-of-heads)]
 - PaperRobot: Incremental Draft Generation of Scientific Ideas [[arXiv](https://arxiv.org/abs/1905.07870)] [[Code](https://github.com/EagleW/PaperRobot)]
 - BERT Rediscovers the Classical NLP Pipeline [[arXiv](https://arxiv.org/abs/1905.05950)]
