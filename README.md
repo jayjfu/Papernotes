@@ -16,6 +16,7 @@
 - MASS: Masked Sequence to Sequence Pre-training for Language Generation [[arXiv](https://arxiv.org/abs/1905.02450)] [[Code]()]
 
 #### 2019-05
+- An Explicitly Relational Neural Network Architecture [[arXiv](https://arxiv.org/abs/1905.10307)]
 - A Survey on Neural Architecture Search [[arXiv](https://arxiv.org/abs/1905.01392)]
 - Multi-Sample Dropout for Accelerated Training and Better Generalization [[arXiv](https://arxiv.org/abs/1905.09788)]
 - Data-Efficient Image Recognition with Contrastive Predictive Coding [[arXiv](https://arxiv.org/abs/1905.09272)]
