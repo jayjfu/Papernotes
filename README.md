@@ -69,6 +69,7 @@
 - High-Fidelity Image Generation With Fewer Labels [[arXiv](https://arxiv.org/abs/1903.02271)]
 
 #### NAACL-19
+- CNM: An Interpretable Complex-valued Network for Matching [[arXiv](https://arxiv.org/abs/1904.05298)] [[Code](https://github.com/wabyking/qnn)]
 
 #### 2019-02 
 - A Simple Baseline for Bayesian Uncertainty in Deep Learning [[arXiv](https://arxiv.org/abs/1902.02476)] [[Code](https://github.com/wjmaddox/swa_gaussian)]
