@@ -118,6 +118,7 @@
 - Large Scale GAN Training for High Fidelity Natural Image Synthesis [[arXiv](https://arxiv.org/abs/1809.11096)]
 
 #### 2018-11
+- Differentiating Concepts and Instances for Knowledge Graph Embedding [[arXiv](https://arxiv.org/abs/1811.04588)]  [[Code](https://github.com/davidlvxin/TransC)]
 - Gradient Harmonized Single-stage Detector [[arXiv](https://arxiv.org/abs/1811.05181)] [[Code](https://github.com/libuyu/GHM_Detection)]
 - Guiding Policies with Language via Meta-Learning [[arXiv](https://arxiv.org/abs/1811.07882)]
 - Dataset Distillation [[arXiv](https://arxiv.org/abs/1811.10959)]
