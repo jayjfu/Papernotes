@@ -1,5 +1,8 @@
 # papernotes
 #### 2019-06
+- Keeping Notes: Conditional Natural Language Generation with a Scratchpad Mechanism [[arXiv](https://arxiv.org/abs/1906.05275)]
+- Visualizing and Measuring the Geometry of BERT [[arXiv](https://arxiv.org/abs/1906.02715)]
+- What Does BERT Look At? An Analysis of BERT's Attention [[arXiv](https://arxiv.org/abs/1906.04341)] [[Code](https://github.com/clarkkev/attention-analysis)]
 - Modern Deep Reinforcement Learning Algorithms [[arXiv](https://arxiv.org/abs/1906.10025)] [[Code](https://github.com/FortsAndMills/Learning-Reinforcement-Learning/tree/master/LRL)]
 - When Does Label Smoothing Help? [[arXiv](https://arxiv.org/abs/1906.02629)]
 - Large Scale Structure of Neural Network Loss Landscapes [[arXiv](https://arxiv.org/abs/1906.04724)]
