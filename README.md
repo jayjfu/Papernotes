@@ -1,5 +1,8 @@
 # papernotes
 #### 2019-06
+- Generative Adversarial Networks: A Survey and Taxonomy [[arXiv](https://arxiv.org/abs/1906.01529)]
+- Weight Agnostic Neural Networks [[arXiv](https://arxiv.org/abs/1906.04358)]
+- An Introduction to Variational Autoencoders [[arXiv](https://arxiv.org/abs/1906.02691)]
 - XLNet: Generalized Autoregressive Pretraining for Language Understanding [[arXiv](https://arxiv.org/abs/1906.08237)] [[Code](https://github.com/zihangdai/xlnet)]
 - Selfie: Self-supervised Pretraining for Image Embedding [[arXiv](https://arxiv.org/abs/1906.02940)] 
 
