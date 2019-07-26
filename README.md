@@ -1,5 +1,6 @@
 # papernotes
 #### 2019-06
+- Generating Diverse High-Fidelity Images with VQ-VAE-2 [[arXiv](https://arxiv.org/abs/1906.00446)]
 - Keeping Notes: Conditional Natural Language Generation with a Scratchpad Mechanism [[arXiv](https://arxiv.org/abs/1906.05275)]
 - Visualizing and Measuring the Geometry of BERT [[arXiv](https://arxiv.org/abs/1906.02715)]
 - What Does BERT Look At? An Analysis of BERT's Attention [[arXiv](https://arxiv.org/abs/1906.04341)] [[Code](https://github.com/clarkkev/attention-analysis)]
