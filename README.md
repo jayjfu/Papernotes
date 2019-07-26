@@ -26,6 +26,7 @@
 - MASS: Masked Sequence to Sequence Pre-training for Language Generation [[arXiv](https://arxiv.org/abs/1905.02450)] [[Code]()]
 
 #### 2019-05
+- MixMatch: A Holistic Approach to Semi-Supervised Learning [[arXiv](https://arxiv.org/abs/1905.02249)] [[Code](https://github.com/google-research/mixmatch)]
 - Data-Efficient Image Recognition with Contrastive Predictive Coding [[arXiv](https://arxiv.org/abs/1905.09272)]
 - An Explicitly Relational Neural Network Architecture [[arXiv](https://arxiv.org/abs/1905.10307)]
 - A Survey on Neural Architecture Search [[arXiv](https://arxiv.org/abs/1905.01392)]
