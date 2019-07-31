@@ -21,6 +21,7 @@
 - BERT Rediscovers the Classical NLP Pipeline [[arXiv](https://arxiv.org/abs/1905.05950)]
 
 #### ICML-19
+- Challenging Common Assumptions in the Unsupervised Learning of Disentangled Representations [[arXiv](https://arxiv.org/abs/1811.12359)] [[Code](https://github.com/google-research/disentanglement_lib)]
 - On Variational Bounds of Mutual Information [[arXiv](https://arxiv.org/abs/1905.06922)]
 - Making Convolutional Networks Shift-Invariant Again [[arXiv](https://arxiv.org/abs/1904.11486)] [[Code](https://github.com/adobe/antialiased-cnns)]
 - Similarity of Neural Network Representations Revisited [[arXiv](https://arxiv.org/abs/1905.00414)]
