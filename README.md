@@ -1,5 +1,6 @@
 # papernotes
 #### 2019-06
+- Weight Agnostic Neural Networks [[arXiv](https://arxiv.org/abs/1906.04358)]
 - Generating Diverse High-Fidelity Images with VQ-VAE-2 [[arXiv](https://arxiv.org/abs/1906.00446)]
 - Keeping Notes: Conditional Natural Language Generation with a Scratchpad Mechanism [[arXiv](https://arxiv.org/abs/1906.05275)]
 - Visualizing and Measuring the Geometry of BERT [[arXiv](https://arxiv.org/abs/1906.02715)]
