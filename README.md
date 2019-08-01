@@ -1,5 +1,6 @@
 # papernotes
 #### 2019-06
+- Stacked Capsule Autoencoders [[arXiv](https://arxiv.org/abs/1906.06818)]
 - Is Attention Interpretable? [[arXiv](https://arxiv.org/abs/1906.03731)] [[Code](https://github.com/serrano-s/attn-tests)]
 - Weight Agnostic Neural Networks [[arXiv](https://arxiv.org/abs/1906.04358)]
 - Generating Diverse High-Fidelity Images with VQ-VAE-2 [[arXiv](https://arxiv.org/abs/1906.00446)]
