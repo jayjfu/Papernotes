@@ -1,5 +1,6 @@
 # papernotes
 #### 2019-06
+- Modern Deep Reinforcement Learning Algorithms [[arXiv](https://arxiv.org/abs/1906.10025)]
 - Stacked Capsule Autoencoders [[arXiv](https://arxiv.org/abs/1906.06818)]
 - Is Attention Interpretable? [[arXiv](https://arxiv.org/abs/1906.03731)] [[Code](https://github.com/serrano-s/attn-tests)]
 - Weight Agnostic Neural Networks [[arXiv](https://arxiv.org/abs/1906.04358)]
