@@ -124,6 +124,7 @@
 - Bag of Tricks for Image Classification with Convolutional Neural Networks [[arXiv](https://arxiv.org/abs/1812.01187)] [[Code](https://github.com/dmlc/gluon-cv)]
 
 #### ICLR-19
+- RotatE: Knowledge Graph Embedding by Relational Rotation in Complex Space [[arXiv](https://arxiv.org/abs/1902.10197)] [[Code](https://github.com/DeepGraphLearning/KnowledgeGraphEmbedding)]
 - Differentiable Learning-to-Normalize via Switchable Normalization [[arXiv](https://arxiv.org/abs/1806.10779)] [[Code](https://github.com/switchablenorms/Switchable-Normalization)]
 - Enabling Factorized Piano Music Modeling and Generation with the MAESTRO Dataset [[arXiv](https://arxiv.org/abs/1810.12247)] [[dataset](https://g.co/magenta/maestro-dataset)]
 - ProMP: Proximal Meta-Policy Search [[arXiv](https://arxiv.org/abs/1810.06784)]
