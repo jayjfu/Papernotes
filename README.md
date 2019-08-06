@@ -81,9 +81,7 @@
 - Probing the Need for Visual Context in Multimodal Machine Translation [[arXiv](https://arxiv.org/abs/1903.08678)]
 - TensorMask: A Foundation for Dense Object Segmentation [[arXiv](https://arxiv.org/abs/1903.12174)]
 - Imperceptible, Robust, and Targeted Adversarial Examples for Automatic Speech Recognition [[arXiv](https://arxiv.org/abs/1903.10346)]
-- Semantic Image Synthesis with Spatially-Adaptive Normalization [[arXiv](https://arxiv.org/abs/1903.07291)]
-- RAVEN: A Dataset for Relational and Analogical Visual rEasoNing [[arXiv](https://arxiv.org/abs/1903.02741)]
-- VideoFlow: A Flow-Based Generative Model for Video [[arXiv](https://arxiv.org/abs/1903.01434)]
+- Semantic Image Synthesis with Spatially-Adaptive Normalization [[arXiv](https://arxiv.org/abs/1903.07291)] [[Code](https://github.com/NVlabs/SPADE)]
 - High-Fidelity Image Generation With Fewer Labels [[arXiv](https://arxiv.org/abs/1903.02271)] [[Code](https://github.com/google/compare_gan)]
 
 #### NAACL-19
