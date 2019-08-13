@@ -1,5 +1,6 @@
 # papernotes
 #### 2019-06
+- COMET: Commonsense Transformers for Automatic Knowledge Graph Construction [[arXiv](https://arxiv.org/abs/1906.05317)] [[Code](https://github.com/atcbosselut/comet-commonsense)]
 - Deep Learning Recommendation Model for Personalization and Recommendation Systems [[arXiv](https://arxiv.org/abs/1906.00091)] [[Code](https://github.com/facebookresearch/dlrm)]
 - Modern Deep Reinforcement Learning Algorithms [[arXiv](https://arxiv.org/abs/1906.10025)]
 - Stacked Capsule Autoencoders [[arXiv](https://arxiv.org/abs/1906.06818)]
