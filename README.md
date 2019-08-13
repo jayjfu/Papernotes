@@ -1,5 +1,6 @@
 # papernotes
 #### 2019-06
+- Deep Learning Recommendation Model for Personalization and Recommendation Systems [[arXiv](https://arxiv.org/abs/1906.00091)] [[Code](https://github.com/facebookresearch/dlrm)]
 - Modern Deep Reinforcement Learning Algorithms [[arXiv](https://arxiv.org/abs/1906.10025)]
 - Stacked Capsule Autoencoders [[arXiv](https://arxiv.org/abs/1906.06818)]
 - Is Attention Interpretable? [[arXiv](https://arxiv.org/abs/1906.03731)] [[Code](https://github.com/serrano-s/attn-tests)]
