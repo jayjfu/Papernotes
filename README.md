@@ -65,11 +65,7 @@
 - CNM: An Interpretable Complex-valued Network for Matching [[arXiv](https://arxiv.org/abs/1904.05298)] [[Code](https://github.com/wabyking/qnn)]
 - What's in a Name? Reducing Bias in Bios without Access to Protected Attributes [[arXiv](https://arxiv.org/abs/1904.05233)]
 - An Attentive Survey of Attention Models [[arXiv](https://arxiv.org/abs/1904.02874)]
-- Neural Networks for Modeling Source Code Edits [[arXiv](https://arxiv.org/abs/1904.02818)]
-- Exploring Randomly Wired Neural Networks for Image Recognition [[arXiv](https://arxiv.org/abs/1904.01569)] [[Code](https://github.com/seungwonpark/RandWireNN)]
 - Analysing Mathematical Reasoning Abilities of Neural Models [[arXiv](https://arxiv.org/abs/1904.01557)] [[dataset](https://github.com/deepmind/mathematics_dataset)]
-- Reducing BERT Pre-Training Time from 3 Days to 76 Minutes [[arXiv](https://arxiv.org/abs/1904.00962)]
-- Single Path One-Shot Neural Architecture Search with Uniform Sampling [[arXiv](https://arxiv.org/abs/1904.00420)]
 
 #### 2019-03
 - To Tune or Not to Tune? Adapting Pretrained Representations to Diverse Tasks [[arXiv](https://arxiv.org/abs/1903.05987)]
