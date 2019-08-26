@@ -53,7 +53,7 @@
 [comment]: <> (zhengzhedong, CVPR oral)
 - Unsupervised Data Augmentation [[arXiv](https://arxiv.org/abs/1904.12848)]
 - A Closer Look at Few-shot Classification [[arXiv](https://arxiv.org/abs/1904.04232)] [[Code](https://github.com/wyharveychen/CloserLookFewShot)]
-- Attention Augmented Convolutional Networks [[arXiv](Attention Augmented Convolutional Networks)]
+- Attention Augmented Convolutional Networks [[arXiv](https://arxiv.org/abs/1904.09925)]
 - GCNet: Non-local Networks Meet Squeeze-Excitation Networks and Beyond [[arXiv](https://arxiv.org/abs/1904.11492)] [[Code](https://github.com/xvjiarui/GCNet)]
 - Think Again Networks, the Delta Loss, and an Application in Language Modeling [[arXiv](https://arxiv.org/abs/1904.11816)] [[Code](https://github.com/alexandres/awd-lstm-lm-ThinkNet)]
 - Survey on Automated Machine Learning [[arXiv](https://arxiv.org/abs/1904.12054)]
