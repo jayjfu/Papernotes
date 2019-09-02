@@ -48,13 +48,9 @@
 - Unified Language Model Pre-training for Natural Language Understanding and Generation [[arXiv](https://arxiv.org/abs/1905.03197)] [[Code](https://github.com/xx/xx)]
 
 #### 2019-04
-- Joint Discriminative and Generative Learning for Person Re-identification [[arXiv](https://arxiv.org/abs/1904.07223)]
-
-[comment]: <> (zhengzhedong, CVPR oral)
-- Unsupervised Data Augmentation [[arXiv](https://arxiv.org/abs/1904.12848)]
+- Unsupervised Data Augmentation [[arXiv](https://arxiv.org/abs/1904.12848)] [[Code](https://github.com/google-research/uda)]
 - A Closer Look at Few-shot Classification [[arXiv](https://arxiv.org/abs/1904.04232)] [[Code](https://github.com/wyharveychen/CloserLookFewShot)]
 - Attention Augmented Convolutional Networks [[arXiv](https://arxiv.org/abs/1904.09925)]
-- GCNet: Non-local Networks Meet Squeeze-Excitation Networks and Beyond [[arXiv](https://arxiv.org/abs/1904.11492)] [[Code](https://github.com/xvjiarui/GCNet)]
 - Survey on Automated Machine Learning [[arXiv](https://arxiv.org/abs/1904.12054)]
 - Unifying Human and Statistical Evaluation for Natural Language Generation [[arXiv](https://arxiv.org/abs/1904.02792)] [[Code](https://github.com/hughbzhang/HUSE)]
 - Generating Long Sequences with Sparse Transformers [[arXiv](https://arxiv.org/abs/1904.10509)] [[Code](https://github.com/openai/sparse_attention)]
