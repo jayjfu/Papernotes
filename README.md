@@ -1,5 +1,6 @@
 # papernotes
 #### 2019-08
+- Attention on Attention for Image Captioning [[arXiv](https://arxiv.org/abs/1908.06954)] [[Code](https://github.com/husthuaan/AoANet)]
 - Attention is not not Explanation [[arXiv](https://arxiv.org/abs/1908.04626)] [[Code](https://github.com/sarahwie/attention)]
 - One Model To Rule Them All [[arXiv](https://arxiv.org/abs/1908.03015)]
 - The HSIC Bottleneck: Deep Learning without Back-Propagation [[arXiv](https://arxiv.org/abs/1908.01580)]
