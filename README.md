@@ -1,5 +1,7 @@
 # papernotes
 #### 2019-08
+- SenseBERT: Driving Some Sense into BERT [[arXiv](https://arxiv.org/abs/1908.05646)]
+- On the Validity of Self-Attention as Explanation in Transformer Models [[arXiv](https://arxiv.org/abs/1908.04211)]
 - Attention on Attention for Image Captioning [[arXiv](https://arxiv.org/abs/1908.06954)] [[Code](https://github.com/husthuaan/AoANet)]
 - Attention is not not Explanation [[arXiv](https://arxiv.org/abs/1908.04626)] [[Code](https://github.com/sarahwie/attention)]
 - One Model To Rule Them All [[arXiv](https://arxiv.org/abs/1908.03015)]
