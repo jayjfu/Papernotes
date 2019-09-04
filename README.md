@@ -1,4 +1,9 @@
 # papernotes
+#### 2019-08
+- Attention is not not Explanation [[arXiv](https://arxiv.org/abs/1908.04626)] [[Code](https://github.com/sarahwie/attention)]
+- One Model To Rule Them All [[arXiv](https://arxiv.org/abs/1908.03015)]
+- The HSIC Bottleneck: Deep Learning without Back-Propagation [[arXiv](https://arxiv.org/abs/1908.01580)]
+
 #### 2019-06
 - COMET: Commonsense Transformers for Automatic Knowledge Graph Construction [[arXiv](https://arxiv.org/abs/1906.05317)] [[Code](https://github.com/atcbosselut/comet-commonsense)]
 - Deep Learning Recommendation Model for Personalization and Recommendation Systems [[arXiv](https://arxiv.org/abs/1906.00091)] [[Code](https://github.com/facebookresearch/dlrm)]
