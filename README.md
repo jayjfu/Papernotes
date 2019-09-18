@@ -57,7 +57,6 @@
 - Object Detection in 20 Years: A Survey [[arXiv](https://arxiv.org/abs/1905.05055)]
 - EfficientNet: Rethinking Model Scaling for Convolutional Neural Networks [[arXiv](https://arxiv.org/abs/1905.11946)] [[Code](https://github.com/tensorflow/tpu/tree/master/models/official/efficientnet)]
 - Adversarial Examples Are Not Bugs, They Are Features [[arXiv](https://arxiv.org/abs/1905.02175)]
-- Unified Language Model Pre-training for Natural Language Understanding and Generation [[arXiv](https://arxiv.org/abs/1905.03197)] [[Code](https://github.com/xx/xx)]
 
 #### 2019-04
 - Unsupervised Data Augmentation [[arXiv](https://arxiv.org/abs/1904.12848)] [[Code](https://github.com/google-research/uda)]
