@@ -48,11 +48,8 @@
 
 #### 2019-05
 - MixMatch: A Holistic Approach to Semi-Supervised Learning [[arXiv](https://arxiv.org/abs/1905.02249)] [[Code](https://github.com/google-research/mixmatch)]
-- Data-Efficient Image Recognition with Contrastive Predictive Coding [[arXiv](https://arxiv.org/abs/1905.09272)]
 - An Explicitly Relational Neural Network Architecture [[arXiv](https://arxiv.org/abs/1905.10307)]
 - A Survey on Neural Architecture Search [[arXiv](https://arxiv.org/abs/1905.01392)]
-- Multi-Sample Dropout for Accelerated Training and Better Generalization [[arXiv](https://arxiv.org/abs/1905.09788)]
-- Data-Efficient Image Recognition with Contrastive Predictive Coding [[arXiv](https://arxiv.org/abs/1905.09272)]
 - Learning What and Where to Transfer [[arXiv](https://arxiv.org/abs/1905.05901)]
 - Object Detection in 20 Years: A Survey [[arXiv](https://arxiv.org/abs/1905.05055)]
 - EfficientNet: Rethinking Model Scaling for Convolutional Neural Networks [[arXiv](https://arxiv.org/abs/1905.11946)] [[Code](https://github.com/tensorflow/tpu/tree/master/models/official/efficientnet)]
