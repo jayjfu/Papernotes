@@ -1,7 +1,12 @@
 # papernotes
 <!-- 2019-04， 郑哲东， CVPR2019（Oral） -->
 #### 2019-10
+- DistilBERT, a distilled version of BERT: smaller, faster, cheaper and lighter [[arXiv](https://arxiv.org/abs/1910.01108)]
 - Generalized Inner Loop Meta-Learning [[arXiv](https://arxiv.org/abs/1910.01727)] [[Code](https://github.com/facebookresearch/higher)]
+
+#### 2019-09
+- Wider Networks Learn Better Features [[arXiv](https://arxiv.org/abs/1909.11572)]
+- Gradient Descent: The Ultimate Optimizer [[arXiv](https://arxiv.org/abs/1909.13371)]
 
 #### 2019-08
 - SenseBERT: Driving Some Sense into BERT [[arXiv](https://arxiv.org/abs/1908.05646)]
