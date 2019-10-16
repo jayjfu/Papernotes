@@ -5,6 +5,9 @@
 - Generalized Inner Loop Meta-Learning [[arXiv](https://arxiv.org/abs/1910.01727)] [[Code](https://github.com/facebookresearch/higher)]
 
 #### 2019-09
+- Q-BERT: Hessian Based Ultra Low Precision Quantization of BERT [[arXiv](https://arxiv.org/abs/1909.05840)]
+- Meta-Learning with Implicit Gradients [[arXiv](https://arxiv.org/abs/1909.04630)]
+- Unsupervised Domain Adaptation through Self-Supervision [[arXiv](https://arxiv.org/abs/1909.11825)] [[Code](https://github.com/yueatsprograms/uda_release)]
 - Wider Networks Learn Better Features [[arXiv](https://arxiv.org/abs/1909.11572)]
 - Gradient Descent: The Ultimate Optimizer [[arXiv](https://arxiv.org/abs/1909.13371)]
 
