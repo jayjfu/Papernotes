@@ -20,6 +20,7 @@
 - The HSIC Bottleneck: Deep Learning without Back-Propagation [[arXiv](https://arxiv.org/abs/1908.01580)]
 
 #### 2019-07
+- Lookahead Optimizer: k steps forward, 1 step back [[arXiv](https://arxiv.org/abs/1907.08610)]
 - Automated Machine Learning in Practice: State of the Art and Recent Results [[arXiv](https://arxiv.org/abs/1907.08392)]
 - OmniNet: A unified architecture for multi-modal multi-task learning [[arXiv](https://arxiv.org/abs/1907.07804)]
 - Are We Really Making Much Progress? A Worrying Analysis of Recent Neural Recommendation Approaches [[arXiv](https://arxiv.org/abs/1907.06902)] [[Code](https://github.com/MaurizioFD/RecSys2019_DeepLearning_Evaluation)]
