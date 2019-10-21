@@ -20,6 +20,10 @@
 - The HSIC Bottleneck: Deep Learning without Back-Propagation [[arXiv](https://arxiv.org/abs/1908.01580)]
 
 #### 2019-07
+- Automated Machine Learning in Practice: State of the Art and Recent Results [[arXiv](https://arxiv.org/abs/1907.08392)]
+- OmniNet: A unified architecture for multi-modal multi-task learning [[arXiv](https://arxiv.org/abs/1907.07804)]
+- Are We Really Making Much Progress? A Worrying Analysis of Recent Neural Recommendation Approaches [[arXiv](https://arxiv.org/abs/1907.06902)] [[Code](https://github.com/MaurizioFD/RecSys2019_DeepLearning_Evaluation)]
+- A Differentiable Programming System to Bridge Machine Learning and Scientific Computing [[arXiv](https://arxiv.org/abs/1907.07587)]
 - Probing Neural Network Comprehension of Natural Language Arguments [[arXiv](https://arxiv.org/abs/1907.07355)]
 - Efficient Video Generation on Complex Datasets [[arXiv](https://arxiv.org/abs/1907.06571)]
 
