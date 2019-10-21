@@ -20,6 +20,7 @@
 - The HSIC Bottleneck: Deep Learning without Back-Propagation [[arXiv](https://arxiv.org/abs/1908.01580)]
 
 #### 2019-07
+- Probing Neural Network Comprehension of Natural Language Arguments [[arXiv](https://arxiv.org/abs/1907.07355)]
 - Efficient Video Generation on Complex Datasets [[arXiv](https://arxiv.org/abs/1907.06571)]
 
 #### 2019-06
