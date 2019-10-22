@@ -20,6 +20,7 @@
 - The HSIC Bottleneck: Deep Learning without Back-Propagation [[arXiv](https://arxiv.org/abs/1908.01580)]
 
 #### 2019-07
+- ERNIE 2.0: A Continual Pre-training Framework for Language Understanding [[arXiv](https://arxiv.org/abs/1907.12412)] [[Code](https://github.com/PaddlePaddle/ERNIE)]
 - RoBERTa: A Robustly Optimized BERT Pretraining Approach [[arXiv](https://arxiv.org/abs/1907.11692)] [[Code](https://github.com/pytorch/fairseq)]
 - Lookahead Optimizer: k steps forward, 1 step back [[arXiv](https://arxiv.org/abs/1907.08610)]
 - Automated Machine Learning in Practice: State of the Art and Recent Results [[arXiv](https://arxiv.org/abs/1907.08392)]
