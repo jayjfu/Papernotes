@@ -60,6 +60,7 @@
 - BERT Rediscovers the Classical NLP Pipeline [[arXiv](https://arxiv.org/abs/1905.05950)]
 
 #### ICML-19
+- Bayesian Generative Active Deep Learning [[arXiv](https://arxiv.org/abs/1904.11643)]
 - Rates of Convergence for Sparse Variational Gaussian Process Regression [[arXiv](https://arxiv.org/abs/1903.03571)]
 - Challenging Common Assumptions in the Unsupervised Learning of Disentangled Representations [[arXiv](https://arxiv.org/abs/1811.12359)] [[Code](https://github.com/google-research/disentanglement_lib)]
 - On Variational Bounds of Mutual Information [[arXiv](https://arxiv.org/abs/1905.06922)]
