@@ -1,6 +1,12 @@
 # papernotes
 <!-- 2019-04， 郑哲东， CVPR2019（Oral） -->
+#### 2019-11
+- Self-training with Noisy Student improves ImageNet classification [[arXiv](https://arxiv.org/abs/1911.04252)]
+- Real-Time Reinforcement Learning [[arXiv](https://arxiv.org/abs/1911.04448)]
+
 #### 2019-10
+- BANANAS: Bayesian Optimization with Neural Architectures for Neural Architecture Search [[arXiv](https://arxiv.org/abs/1910.11858)]
+- Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer [[arXiv](https://arxiv.org/abs/1910.10683)] [[Code](https://github.com/google-research/text-to-text-transfer-transformer)]
 - DistilBERT, a distilled version of BERT: smaller, faster, cheaper and lighter [[arXiv](https://arxiv.org/abs/1910.01108)]
 - Generalized Inner Loop Meta-Learning [[arXiv](https://arxiv.org/abs/1910.01727)] [[Code](https://github.com/facebookresearch/higher)]
 
