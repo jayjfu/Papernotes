@@ -20,6 +20,7 @@
 - Gradient Descent: The Ultimate Optimizer [[arXiv](https://arxiv.org/abs/1909.13371)]
 
 #### 2019-08
+- Implicit Deep Learning [[arXiv](https://arxiv.org/abs/1908.06315)]
 - One Model To Rule Them All [[arXiv](https://arxiv.org/abs/1908.03015)]
 - AutoML: A Survey of the State-of-the-Art [[arXiv](https://arxiv.org/abs/1908.00709)]
 - SenseBERT: Driving Some Sense into BERT [[arXiv](https://arxiv.org/abs/1908.05646)]
