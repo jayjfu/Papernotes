@@ -1,6 +1,8 @@
 # papernotes
 <!-- 2019-04， 郑哲东， CVPR2019（Oral） -->
 #### 2019-11
+- Mastering Atari, Go, Chess and Shogi by Planning with a Learned Model [[arXiv](https://arxiv.org/abs/1911.08265)]
+- EfficientDet: Scalable and Efficient Object Detection [[arXiv](https://arxiv.org/abs/1911.09070)]
 - Momentum Contrast for Unsupervised Visual Representation Learning [[arXiv](https://arxiv.org/abs/1911.05722)]
 - Real-Time Reinforcement Learning [[arXiv](https://arxiv.org/abs/1911.04448)]
 - Self-training with Noisy Student improves ImageNet classification [[arXiv](https://arxiv.org/abs/1911.04252)]
