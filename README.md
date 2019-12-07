@@ -1,6 +1,10 @@
 # papernotes
 <!-- 2019-04， 郑哲东， CVPR2019（Oral） -->
 #### 2019-11
+- Single Headed Attention RNN: Stop Thinking With Your Head [[arXiv](https://arxiv.org/abs/1911.11423)] [[Code](https://github.com/smerity/sha-rnn)]
+- Causality for Machine Learning [[arXiv](https://arxiv.org/abs/1911.10500)]
+- What's Hidden in a Randomly Weighted Neural Network? [[arXiv](https://arxiv.org/abs/1911.13299)]
+- Rigging the Lottery: Making All Tickets Winners [[arXiv](https://arxiv.org/abs/1911.11134)]
 - Mastering Atari, Go, Chess and Shogi by Planning with a Learned Model [[arXiv](https://arxiv.org/abs/1911.08265)]
 - EfficientDet: Scalable and Efficient Object Detection [[arXiv](https://arxiv.org/abs/1911.09070)]
 - Momentum Contrast for Unsupervised Visual Representation Learning [[arXiv](https://arxiv.org/abs/1911.05722)]
