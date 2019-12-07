@@ -1,6 +1,9 @@
 # papernotes
 <!-- 2019-04， 郑哲东， CVPR2019（Oral） -->
 #### 2019-11
+- Generating Interactive Worlds with Text [[arXiv](https://arxiv.org/abs/1911.09194)]
+- ConveRT: Efficient and Accurate Conversational Representations from Transformers [[arXiv](https://arxiv.org/abs/1911.03688)] [[Code](https://github.com/PolyAI-LDN/polyai-models)]
+- On the Relationship between Self-Attention and Convolutional Layers [[arXiv](https://arxiv.org/abs/1911.03584)] [[Code](https://github.com/epfml/attention-cnn/tree/arxiv-v1)]
 - Single Headed Attention RNN: Stop Thinking With Your Head [[arXiv](https://arxiv.org/abs/1911.11423)] [[Code](https://github.com/smerity/sha-rnn)]
 - Causality for Machine Learning [[arXiv](https://arxiv.org/abs/1911.10500)]
 - What's Hidden in a Randomly Weighted Neural Network? [[arXiv](https://arxiv.org/abs/1911.13299)]
