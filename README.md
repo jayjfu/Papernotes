@@ -22,6 +22,7 @@
 - Generalized Inner Loop Meta-Learning [[arXiv](https://arxiv.org/abs/1910.01727)] [[Code](https://github.com/facebookresearch/higher)]
 
 #### 2019-09
+- Ab-Initio Solution of the Many-Electron Schrödinger Equation with Deep Neural Networks [[arXiv](https://arxiv.org/abs/1909.02487)]
 - Q-BERT: Hessian Based Ultra Low Precision Quantization of BERT [[arXiv](https://arxiv.org/abs/1909.05840)]
 - Meta-Learning with Implicit Gradients [[arXiv](https://arxiv.org/abs/1909.04630)]
 - Unsupervised Domain Adaptation through Self-Supervision [[arXiv](https://arxiv.org/abs/1909.11825)] [[Code](https://github.com/yueatsprograms/uda_release)]
