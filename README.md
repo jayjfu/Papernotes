@@ -15,6 +15,7 @@
 - Self-training with Noisy Student improves ImageNet classification [[arXiv](https://arxiv.org/abs/1911.04252)]
 
 #### 2019-10
+- BART: Denoising Sequence-to-Sequence Pre-training for Natural Language Generation, Translation, and Comprehension [[arXiv](https://arxiv.org/abs/1910.13461)]
 - Contrastive Representation Distillation [[arXiv](https://arxiv.org/abs/1910.10699)] [[Code](https://github.com/HobbitLong/RepDistiller)]
 - BANANAS: Bayesian Optimization with Neural Architectures for Neural Architecture Search [[arXiv](https://arxiv.org/abs/1910.11858)]
 - Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer [[arXiv](https://arxiv.org/abs/1910.10683)] [[Code](https://github.com/google-research/text-to-text-transfer-transformer)]
