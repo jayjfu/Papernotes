@@ -15,6 +15,7 @@
 - Self-training with Noisy Student improves ImageNet classification [[arXiv](https://arxiv.org/abs/1911.04252)]
 
 #### 2019-10
+- Specializing Word Embeddings (for Parsing) by Information Bottleneck [[arXiv](https://arxiv.org/abs/1910.00163)]
 - BART: Denoising Sequence-to-Sequence Pre-training for Natural Language Generation, Translation, and Comprehension [[arXiv](https://arxiv.org/abs/1910.13461)]
 - Contrastive Representation Distillation [[arXiv](https://arxiv.org/abs/1910.10699)] [[Code](https://github.com/HobbitLong/RepDistiller)]
 - BANANAS: Bayesian Optimization with Neural Architectures for Neural Architecture Search [[arXiv](https://arxiv.org/abs/1910.11858)]
@@ -23,6 +24,7 @@
 - Generalized Inner Loop Meta-Learning [[arXiv](https://arxiv.org/abs/1910.01727)] [[Code](https://github.com/facebookresearch/higher)]
 
 #### 2019-09
+- Designing and Interpreting Probes with Control Tasks [[arXiv](https://arxiv.org/abs/1909.03368)]
 - Do NLP Models Know Numbers? Probing Numeracy in Embeddings [[arXiv](https://arxiv.org/abs/1909.07940)]
 - Ab-Initio Solution of the Many-Electron Schrödinger Equation with Deep Neural Networks [[arXiv](https://arxiv.org/abs/1909.02487)]
 - Q-BERT: Hessian Based Ultra Low Precision Quantization of BERT [[arXiv](https://arxiv.org/abs/1909.05840)]
