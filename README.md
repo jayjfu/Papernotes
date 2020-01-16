@@ -1,6 +1,7 @@
 # papernotes
 <!-- 2019-04， 郑哲东， CVPR2019（Oral） -->
 #### 2019-11
+- DialoGPT: Large-Scale Generative Pre-training for Conversational Response Generation [[arXiv](https://arxiv.org/abs/1911.00536)] [[Code](https://github.com/microsoft/DialoGPT)]
 - Self-training with Noisy Student improves ImageNet classification [[arXiv](https://arxiv.org/abs/1911.04252)]
 - Generating Interactive Worlds with Text [[arXiv](https://arxiv.org/abs/1911.09194)]
 - ConveRT: Efficient and Accurate Conversational Representations from Transformers [[arXiv](https://arxiv.org/abs/1911.03688)] [[Code](https://github.com/PolyAI-LDN/polyai-models)]
