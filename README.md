@@ -1,6 +1,7 @@
 # papernotes
 <!-- 2019-04， 郑哲东， CVPR2019（Oral） -->
 #### 2019-11
+- Self-training with Noisy Student improves ImageNet classification [[arXiv](https://arxiv.org/abs/1911.04252)]
 - Generating Interactive Worlds with Text [[arXiv](https://arxiv.org/abs/1911.09194)]
 - ConveRT: Efficient and Accurate Conversational Representations from Transformers [[arXiv](https://arxiv.org/abs/1911.03688)] [[Code](https://github.com/PolyAI-LDN/polyai-models)]
 - On the Relationship between Self-Attention and Convolutional Layers [[arXiv](https://arxiv.org/abs/1911.03584)] [[Code](https://github.com/epfml/attention-cnn/tree/arxiv-v1)]
