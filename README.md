@@ -35,6 +35,9 @@
 - Wider Networks Learn Better Features [[arXiv](https://arxiv.org/abs/1909.11572)]
 - Gradient Descent: The Ultimate Optimizer [[arXiv](https://arxiv.org/abs/1909.13371)]
 
+#### NIPS-20
+- Putting An End to End-to-End: Gradient-Isolated Learning of Representations [[arXiv](https://arxiv.org/abs/1905.11786)]
+
 #### 2019-08
 - Once for All: Train One Network and Specialize it for Efficient Deployment [[arXiv](https://arxiv.org/abs/1908.09791)] [[Code](https://github.com/intel/mkl-dnn)]
 - Implicit Deep Learning [[arXiv](https://arxiv.org/abs/1908.06315)]
