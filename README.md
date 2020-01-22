@@ -36,6 +36,7 @@
 - Gradient Descent: The Ultimate Optimizer [[arXiv](https://arxiv.org/abs/1909.13371)]
 
 #### NIPS-20
+- Unified Language Model Pre-training for Natural Language Understanding and Generation [[arXiv](https://arxiv.org/abs/1905.03197)]
 - Putting An End to End-to-End: Gradient-Isolated Learning of Representations [[arXiv](https://arxiv.org/abs/1905.11786)]
 
 #### 2019-08
