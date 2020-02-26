@@ -1,6 +1,7 @@
 # papernotes
 <!-- 2019-04， 郑哲东， CVPR2019（Oral） -->
 #### 2019-12
+- Reinforcement Learning Upside Down: Don't Predict Rewards -- Just Map Them to Actions [[arXiv](https://arxiv.org/abs/1912.02875)]
 - Dota 2 with Large Scale Deep Reinforcement Learning [[arXiv](https://arxiv.org/abs/1912.06680)]
 
 #### 2019-11
