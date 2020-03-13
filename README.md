@@ -1,10 +1,15 @@
 # papernotes
 <!-- 2019-04， 郑哲东， CVPR2019（Oral） -->
 #### 2019-02
-- Fine-Tuning Pretrained Language Models: Weight Initializations, Data Orders, and Early Stopping [[arXiv](https://arxiv.org/abs/2002.06305v1)]
-- fastai: A Layered API for Deep Learning [[arXiv](https://arxiv.org/abs/2002.04688v2)] [[Code](https://github.com/fastai/fastai)]
-- How Good is the Bayes Posterior in Deep Neural Networks Really? [[arXiv](https://arxiv.org/abs/2002.02405v1)]
-- A Simple Framework for Contrastive Learning of Visual Representations [[arXiv](https://arxiv.org/abs/2002.05709v1)] 
+- On Feature Normalization and Data Augmentation [[arXiv](https://arxiv.org/abs/2002.11102)]
+- Bayesian Deep Learning and a Probabilistic Perspective of Generalization [[arXiv](https://arxiv.org/abs/2002.08791)]
+- Self-Distillation Amplifies Regularization in Hilbert Space [[arXiv](https://arxiv.org/abs/2002.05715)]
+- Batch Normalization Biases Deep Residual Networks Towards Shallow Paths [[arXiv](https://arxiv.org/abs/2002.10444)]
+- A Primer in BERTology: What we know about how BERT works [[arXiv](https://arxiv.org/abs/2002.12327)]
+- Fine-Tuning Pretrained Language Models: Weight Initializations, Data Orders, and Early Stopping [[arXiv](https://arxiv.org/abs/2002.06305)]
+- fastai: A Layered API for Deep Learning [[arXiv](https://arxiv.org/abs/2002.04688)] [[Code](https://github.com/fastai/fastai)]
+- How Good is the Bayes Posterior in Deep Neural Networks Really? [[arXiv](https://arxiv.org/abs/2002.02405)]
+- A Simple Framework for Contrastive Learning of Visual Representations [[arXiv](https://arxiv.org/abs/2002.05709)] 
 
 #### 2019-12
 - Reinforcement Learning Upside Down: Don't Predict Rewards -- Just Map Them to Actions [[arXiv](https://arxiv.org/abs/1912.02875)]
