@@ -1,5 +1,11 @@
 # papernotes
 <!-- 2019-04， 郑哲东， CVPR2019（Oral） -->
+#### 2019-02
+- Fine-Tuning Pretrained Language Models: Weight Initializations, Data Orders, and Early Stopping [[arXiv](https://arxiv.org/abs/2002.06305v1)]
+- fastai: A Layered API for Deep Learning [[arXiv](https://arxiv.org/abs/2002.04688v2)] [[Code](https://github.com/fastai/fastai)]
+- How Good is the Bayes Posterior in Deep Neural Networks Really? [[arXiv](https://arxiv.org/abs/2002.02405v1)]
+- A Simple Framework for Contrastive Learning of Visual Representations [[arXiv](https://arxiv.org/abs/2002.05709v1)] 
+
 #### 2019-12
 - Reinforcement Learning Upside Down: Don't Predict Rewards -- Just Map Them to Actions [[arXiv](https://arxiv.org/abs/1912.02875)]
 - Dota 2 with Large Scale Deep Reinforcement Learning [[arXiv](https://arxiv.org/abs/1912.06680)]
