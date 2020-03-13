@@ -1,6 +1,7 @@
 # papernotes
 <!-- 2019-04， 郑哲东， CVPR2019（Oral） -->
 #### 2019-02
+- Transformers as Soft Reasoners over Language [[arXiv](https://arxiv.org/abs/2002.05867)]
 - On Feature Normalization and Data Augmentation [[arXiv](https://arxiv.org/abs/2002.11102)]
 - Bayesian Deep Learning and a Probabilistic Perspective of Generalization [[arXiv](https://arxiv.org/abs/2002.08791)]
 - Self-Distillation Amplifies Regularization in Hilbert Space [[arXiv](https://arxiv.org/abs/2002.05715)]
