@@ -13,6 +13,7 @@
 - A Simple Framework for Contrastive Learning of Visual Representations [[arXiv](https://arxiv.org/abs/2002.05709)] 
 
 #### 2019-12
+- Advances and Open Problems in Federated Learning [[arXiv](https://arxiv.org/abs/1912.04977)]
 - PointRend: Image Segmentation as Rendering [[arXiv](https://arxiv.org/abs/1912.08193)] 
 - Reinforcement Learning Upside Down: Don't Predict Rewards -- Just Map Them to Actions [[arXiv](https://arxiv.org/abs/1912.02875)]
 - Dota 2 with Large Scale Deep Reinforcement Learning [[arXiv](https://arxiv.org/abs/1912.06680)]
