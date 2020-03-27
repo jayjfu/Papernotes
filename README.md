@@ -12,6 +12,9 @@
 - How Good is the Bayes Posterior in Deep Neural Networks Really? [[arXiv](https://arxiv.org/abs/2002.02405)]
 - A Simple Framework for Contrastive Learning of Visual Representations [[arXiv](https://arxiv.org/abs/2002.05709)] 
 
+#### 2020-01
+- Reformer: The Efficient Transformer [[arXiv](https://arxiv.org/abs/2001.04451)]
+
 #### 2019-12
 - Advances and Open Problems in Federated Learning [[arXiv](https://arxiv.org/abs/1912.04977)]
 - PointRend: Image Segmentation as Rendering [[arXiv](https://arxiv.org/abs/1912.08193)] 
