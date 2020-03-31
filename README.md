@@ -21,6 +21,9 @@
 - Reinforcement Learning Upside Down: Don't Predict Rewards -- Just Map Them to Actions [[arXiv](https://arxiv.org/abs/1912.02875)]
 - Dota 2 with Large Scale Deep Reinforcement Learning [[arXiv](https://arxiv.org/abs/1912.06680)]
 
+#### ICLR-19
+- Causal Discovery with Reinforcement Learning [[arXiv](https://arxiv.org/abs/1906.04477)] [[Code](https://github.com/huawei-noah/trustworthyAI/tree/master/Causal_Structure_Learning/Causal_Discovery_RL)]
+
 #### 2019-11
 - DialoGPT: Large-Scale Generative Pre-training for Conversational Response Generation [[arXiv](https://arxiv.org/abs/1911.00536)] [[Code](https://github.com/microsoft/DialoGPT)]
 - Self-training with Noisy Student improves ImageNet classification [[arXiv](https://arxiv.org/abs/1911.04252)]
