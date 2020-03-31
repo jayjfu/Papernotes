@@ -513,6 +513,7 @@
 - Bag of Tricks for Efficient Text Classification [[arXiv](https://arxiv.org/abs/1607.01759)] [[Code](https://github.com/facebookresearch/fastText)]
 
 #### 2016-06
+- Gaussian Error Linear Units (GELUs) [[arXiv](https://arxiv.org/abs/1606.08415)] 
 - A Thorough Examination of the CNN/Daily Mail Reading Comprehension Task [[arXiv](https://arxiv.org/abs/1606.02858)]
 - Convolution by Evolution: Differentiable Pattern Producing Networks [[arXiv](https://arxiv.org/abs/1606.02580)]
 - Conditional Image Generation with PixelCNN Decoders [[arXiv](https://arxiv.org/abs/1606.05328)]
