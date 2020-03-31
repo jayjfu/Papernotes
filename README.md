@@ -22,6 +22,7 @@
 - Dota 2 with Large Scale Deep Reinforcement Learning [[arXiv](https://arxiv.org/abs/1912.06680)]
 
 #### ICLR-20
+- Neural Arithmetic Units [[arXiv](https://arxiv.org/abs/2001.05016)] [[Code](https://github.com/AndreasMadsen/stable-nalu)]
 - Causal Discovery with Reinforcement Learning [[arXiv](https://arxiv.org/abs/1906.04477)] [[Code](https://github.com/huawei-noah/trustworthyAI/tree/master/Causal_Structure_Learning/Causal_Discovery_RL)]
 
 #### 2019-11
