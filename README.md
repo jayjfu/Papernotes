@@ -1,5 +1,13 @@
 # papernotes
 <!-- 2019-04， 郑哲东， CVPR2019（Oral） -->
+#### 2019-04
+- CURL: Contrastive Unsupervised Representations for Reinforcement Learning [[arXiv](https://arxiv.org/abs/2004.04136)]
+
+#### 2019-03
+- ELECTRA: Pre-training Text Encoders as Discriminators Rather Than Generators [[arXiv](https://arxiv.org/abs/2003.10555)] [[Code](https://github.com/google-research/electra)]
+- A Survey of Deep Learning for Scientific Discovery [[arXiv](A Survey of Deep Learning for Scientific Discovery)]
+- Designing Network Design Spaces [[arXiv](https://arxiv.org/abs/2003.13678)] [[Code](https://github.com/facebookresearch/pycls)] 
+
 #### 2019-02
 - Transformers as Soft Reasoners over Language [[arXiv](https://arxiv.org/abs/2002.05867)]
 - On Feature Normalization and Data Augmentation [[arXiv](https://arxiv.org/abs/2002.11102)]
