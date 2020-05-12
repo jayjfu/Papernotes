@@ -536,6 +536,7 @@
 - Benchmarking Deep Reinforcement Learning for Continuous Control [[arXiv](https://arxiv.org/abs/1604.06778)] [[Code](https://github.com/rll/rllab)]
 
 #### 2016-03
+- XGBoost: A Scalable Tree Boosting System [[arXiv](https://arxiv.org/abs/1603.02754)]
 - Text Understanding with the Attention Sum Reader Network [[arXiv](https://arxiv.org/abs/1603.01547)]
 
 #### 2016-02
