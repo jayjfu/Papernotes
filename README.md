@@ -1,6 +1,7 @@
 # papernotes
 <!-- 2019-04， 郑哲东， CVPR2019（Oral） -->
 #### 2019-04
+- Neural Additive Models: Interpretable Machine Learning with Neural Nets [[arXiv](https://arxiv.org/abs/2004.13912)]
 - Adversarial Latent Autoencoders [[arXiv](https://arxiv.org/abs/2004.04467)] [[Code](https://github.com/podgorskiy/ALAE)]
 - Supervised Contrastive Learning [[arXiv](https://arxiv.org/abs/2004.11362)]
 - CURL: Contrastive Unsupervised Representations for Reinforcement Learning [[arXiv](https://arxiv.org/abs/2004.04136)]
