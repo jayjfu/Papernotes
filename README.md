@@ -1,6 +1,9 @@
 # papernotes
 <!-- 2019-04， 郑哲东， CVPR2019（Oral） -->
 #### 2019-04
+- TLDR: Extreme Summarization of Scientific Documents [[arXiv](https://arxiv.org/abs/2004.15011)] [[Code](https://github.com/allenai/scitldr)]
+- Pretrained Transformers Improve Out-of-Distribution Robustness [[arXiv](https://arxiv.org/abs/2004.06100)] [[Code](https://github.com/camelop/NLP-Robustness)]
+- Longformer: The Long-Document Transformer [[arXiv](https://arxiv.org/abs/2004.05150)] [[Code](https://github.com/allenai/longformer)]
 - Neural Additive Models: Interpretable Machine Learning with Neural Nets [[arXiv](https://arxiv.org/abs/2004.13912)]
 - Adversarial Latent Autoencoders [[arXiv](https://arxiv.org/abs/2004.04467)] [[Code](https://github.com/podgorskiy/ALAE)]
 - Supervised Contrastive Learning [[arXiv](https://arxiv.org/abs/2004.11362)]
