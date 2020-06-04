@@ -10,6 +10,7 @@
 - CURL: Contrastive Unsupervised Representations for Reinforcement Learning [[arXiv](https://arxiv.org/abs/2004.04136)]
 
 #### 2019-03
+- AutoGluon-Tabular: Robust and Accurate AutoML for Structured Data [[arXiv](https://arxiv.org/abs/2003.06505)] [[Code](https://github.com/awslabs/autogluon)]
 - ELECTRA: Pre-training Text Encoders as Discriminators Rather Than Generators [[arXiv](https://arxiv.org/abs/2003.10555)] [[Code](https://github.com/google-research/electra)]
 - A Survey of Deep Learning for Scientific Discovery [[arXiv](A Survey of Deep Learning for Scientific Discovery)]
 - Designing Network Design Spaces [[arXiv](https://arxiv.org/abs/2003.13678)] [[Code](https://github.com/facebookresearch/pycls)] 
