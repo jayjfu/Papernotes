@@ -31,6 +31,7 @@
 - Reformer: The Efficient Transformer [[arXiv](https://arxiv.org/abs/2001.04451)]
 
 #### 2019-12
+- Optimization for deep learning: theory and algorithms [[arXiv](https://arxiv.org/abs/1912.08957)] 
 - Advances and Open Problems in Federated Learning [[arXiv](https://arxiv.org/abs/1912.04977)]
 - PointRend: Image Segmentation as Rendering [[arXiv](https://arxiv.org/abs/1912.08193)] 
 - Reinforcement Learning Upside Down: Don't Predict Rewards -- Just Map Them to Actions [[arXiv](https://arxiv.org/abs/1912.02875)]
