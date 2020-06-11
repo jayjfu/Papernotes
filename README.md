@@ -1,5 +1,11 @@
 # papernotes
 <!-- 2019-04， 郑哲东， CVPR2019（Oral） -->
+#### 2019-05
+- What makes for good views for contrastive learning [[arXiv](https://arxiv.org/abs/2005.10243)] [[Code](https://github.com/HobbitLong/PyContrast)]
+- Planning to Explore via Self-Supervised World Models [[arXiv](https://arxiv.org/abs/2005.05960)]
+- Offline Reinforcement Learning: Tutorial, Review, and Perspectives on Open Problems [[arXiv](https://arxiv.org/abs/2005.01643)]
+- Synthesizer: Rethinking Self-Attention in Transformer Models [[arXiv](https://arxiv.org/abs/2005.00743)] 
+
 #### 2019-04
 - TLDR: Extreme Summarization of Scientific Documents [[arXiv](https://arxiv.org/abs/2004.15011)] [[Code](https://github.com/allenai/scitldr)]
 - Pretrained Transformers Improve Out-of-Distribution Robustness [[arXiv](https://arxiv.org/abs/2004.06100)] [[Code](https://github.com/camelop/NLP-Robustness)]
