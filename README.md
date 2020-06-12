@@ -1,12 +1,15 @@
 # papernotes
 <!-- 2019-04， 郑哲东， CVPR2019（Oral） -->
-#### 2019-05
+#### 2020-05
+- Efficient and Scalable Bayesian Neural Nets with Rank-1 Factors [[arXiv](https://arxiv.org/abs/2005.07186)] [[Code](https://github.com/google/edward2)]
+- Language Models are Few-Shot Learners [[arXiv](https://arxiv.org/abs/2005.14165)]
+- Understanding Contrastive Representation Learning through Alignment and Uniformity on the Hypersphere [[arXiv](https://arxiv.org/abs/2005.10242)] [[Code](https://github.com/SsnL/align_uniform)]
 - What makes for good views for contrastive learning [[arXiv](https://arxiv.org/abs/2005.10243)] [[Code](https://github.com/HobbitLong/PyContrast)]
 - Planning to Explore via Self-Supervised World Models [[arXiv](https://arxiv.org/abs/2005.05960)]
 - Offline Reinforcement Learning: Tutorial, Review, and Perspectives on Open Problems [[arXiv](https://arxiv.org/abs/2005.01643)]
 - Synthesizer: Rethinking Self-Attention in Transformer Models [[arXiv](https://arxiv.org/abs/2005.00743)] 
 
-#### 2019-04
+#### 2020-04
 - TLDR: Extreme Summarization of Scientific Documents [[arXiv](https://arxiv.org/abs/2004.15011)] [[Code](https://github.com/allenai/scitldr)]
 - Pretrained Transformers Improve Out-of-Distribution Robustness [[arXiv](https://arxiv.org/abs/2004.06100)] [[Code](https://github.com/camelop/NLP-Robustness)]
 - Longformer: The Long-Document Transformer [[arXiv](https://arxiv.org/abs/2004.05150)] [[Code](https://github.com/allenai/longformer)]
@@ -15,13 +18,13 @@
 - Supervised Contrastive Learning [[arXiv](https://arxiv.org/abs/2004.11362)]
 - CURL: Contrastive Unsupervised Representations for Reinforcement Learning [[arXiv](https://arxiv.org/abs/2004.04136)]
 
-#### 2019-03
+#### 2020-03
 - AutoGluon-Tabular: Robust and Accurate AutoML for Structured Data [[arXiv](https://arxiv.org/abs/2003.06505)] [[Code](https://github.com/awslabs/autogluon)]
 - ELECTRA: Pre-training Text Encoders as Discriminators Rather Than Generators [[arXiv](https://arxiv.org/abs/2003.10555)] [[Code](https://github.com/google-research/electra)]
 - A Survey of Deep Learning for Scientific Discovery [[arXiv](A Survey of Deep Learning for Scientific Discovery)]
 - Designing Network Design Spaces [[arXiv](https://arxiv.org/abs/2003.13678)] [[Code](https://github.com/facebookresearch/pycls)] 
 
-#### 2019-02
+#### 2020-02
 - Transformers as Soft Reasoners over Language [[arXiv](https://arxiv.org/abs/2002.05867)]
 - On Feature Normalization and Data Augmentation [[arXiv](https://arxiv.org/abs/2002.11102)]
 - Bayesian Deep Learning and a Probabilistic Perspective of Generalization [[arXiv](https://arxiv.org/abs/2002.08791)]
