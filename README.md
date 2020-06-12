@@ -1,6 +1,9 @@
 # papernotes
 <!-- 2019-04， 郑哲东， CVPR2019（Oral） -->
 #### 2020-05
+- Human Instruction-Following with Deep Reinforcement Learning via Transfer-Learning from Text [[arXiv](https://arxiv.org/abs/2005.09382)]
+- Flowtron: an Autoregressive Flow-based Generative Network for Text-to-Speech Synthesis [[arXiv](https://arxiv.org/abs/2005.05957)] [[Code](https://github.com/NVIDIA/flowtron)]
+- Grounding Language in Play [[arXiv](https://arxiv.org/abs/2005.07648)]
 - Efficient and Scalable Bayesian Neural Nets with Rank-1 Factors [[arXiv](https://arxiv.org/abs/2005.07186)] [[Code](https://github.com/google/edward2)]
 - Language Models are Few-Shot Learners [[arXiv](https://arxiv.org/abs/2005.14165)]
 - Understanding Contrastive Representation Learning through Alignment and Uniformity on the Hypersphere [[arXiv](https://arxiv.org/abs/2005.10242)] [[Code](https://github.com/SsnL/align_uniform)]
