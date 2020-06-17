@@ -22,6 +22,7 @@
 - CURL: Contrastive Unsupervised Representations for Reinforcement Learning [[arXiv](https://arxiv.org/abs/2004.04136)]
 
 #### 2020-03
+- ReZero is All You Need: Fast Convergence at Large Depth [[arXiv](https://arxiv.org/abs/2003.04887)] [[Code](https://github.com/majumderb/rezero)]
 - AutoGluon-Tabular: Robust and Accurate AutoML for Structured Data [[arXiv](https://arxiv.org/abs/2003.06505)] [[Code](https://github.com/awslabs/autogluon)]
 - ELECTRA: Pre-training Text Encoders as Discriminators Rather Than Generators [[arXiv](https://arxiv.org/abs/2003.10555)] [[Code](https://github.com/google-research/electra)]
 - A Survey of Deep Learning for Scientific Discovery [[arXiv](A Survey of Deep Learning for Scientific Discovery)]
