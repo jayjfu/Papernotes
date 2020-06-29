@@ -22,6 +22,7 @@
 - CURL: Contrastive Unsupervised Representations for Reinforcement Learning [[arXiv](https://arxiv.org/abs/2004.04136)]
 
 #### 2020-03
+- Agent57: Outperforming the Atari Human Benchmark [[arXiv](https://arxiv.org/abs/2003.13350)]
 - Talking-Heads Attention [[arXiv](https://arxiv.org/abs/2003.02436)]  
 - ReZero is All You Need: Fast Convergence at Large Depth [[arXiv](https://arxiv.org/abs/2003.04887)] [[Code](https://github.com/majumderb/rezero)]
 - AutoGluon-Tabular: Robust and Accurate AutoML for Structured Data [[arXiv](https://arxiv.org/abs/2003.06505)] [[Code](https://github.com/awslabs/autogluon)]
