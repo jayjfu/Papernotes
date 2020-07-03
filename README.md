@@ -594,6 +594,9 @@
 - Generative Adversarial Networks [[arXiv](https://arxiv.org/abs/1406.2661)]
 - Semi-Supervised Learning with Deep Generative Models [[arXiv](https://arxiv.org/abs/1406.5298)] [[Code](https://github.com/dpkingma/nips14-ssl)]
 
+#### 2014-03
+- DeepWalk: Online Learning of Social Representations [[arXiv](https://arxiv.org/abs/1403.6652)]
+
 #### 2013-12
 - Auto-Encoding Variational Bayes [[arXiv](https://arxiv.org/abs/1312.6114)]
 
