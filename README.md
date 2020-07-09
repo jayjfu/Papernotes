@@ -13,6 +13,7 @@
 - Synthesizer: Rethinking Self-Attention in Transformer Models [[arXiv](https://arxiv.org/abs/2005.00743)] 
 
 #### 2020-04
+- Evolving Normalization-Activation Layers [[arXiv](https://arxiv.org/abs/2004.02967)]
 - TLDR: Extreme Summarization of Scientific Documents [[arXiv](https://arxiv.org/abs/2004.15011)] [[Code](https://github.com/allenai/scitldr)]
 - Pretrained Transformers Improve Out-of-Distribution Robustness [[arXiv](https://arxiv.org/abs/2004.06100)] [[Code](https://github.com/camelop/NLP-Robustness)]
 - Longformer: The Long-Document Transformer [[arXiv](https://arxiv.org/abs/2004.05150)] [[Code](https://github.com/allenai/longformer)]
