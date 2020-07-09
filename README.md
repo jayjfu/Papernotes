@@ -48,6 +48,7 @@
 - Reformer: The Efficient Transformer [[arXiv](https://arxiv.org/abs/2001.04451)]
 
 #### 2019-12
+- Neural Tangents: Fast and Easy Infinite Neural Networks in Python [[arXiv](https://arxiv.org/abs/1912.02803)] [[Code](https://github.com/google/neural-tangents)]
 - Optimization for deep learning: theory and algorithms [[arXiv](https://arxiv.org/abs/1912.08957)] 
 - Advances and Open Problems in Federated Learning [[arXiv](https://arxiv.org/abs/1912.04977)]
 - PointRend: Image Segmentation as Rendering [[arXiv](https://arxiv.org/abs/1912.08193)] 
