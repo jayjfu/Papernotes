@@ -13,6 +13,7 @@
 - Synthesizer: Rethinking Self-Attention in Transformer Models [[arXiv](https://arxiv.org/abs/2005.00743)] 
 
 #### 2020-04
+- NBDT: Neural-Backed Decision Trees [[arXiv](https://arxiv.org/abs/2004.00221)] [[Code](https://github.com/alvinwan/neural-backed-decision-trees)]
 - YOLOv4: Optimal Speed and Accuracy of Object Detection [[arXiv](https://arxiv.org/abs/2004.10934)] [[Code](https://github.com/AlexeyAB/darknet)]
 - ResNeSt: Split-Attention Networks [[arXiv](https://arxiv.org/abs/2004.08955)] [[Code](https://github.com/zhanghang1989/ResNeSt)]
 - Evolving Normalization-Activation Layers [[arXiv](https://arxiv.org/abs/2004.02967)]
