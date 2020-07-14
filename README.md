@@ -62,6 +62,7 @@
 - Dota 2 with Large Scale Deep Reinforcement Learning [[arXiv](https://arxiv.org/abs/1912.06680)]
 
 #### ICLR-20
+- Decoupling Representation and Classifier for Long-Tailed Recognition [[arXiv](https://arxiv.org/abs/1910.09217)] [[Code](https://github.com/facebookresearch/classifier-balancing)]
 - Poly-encoders: Transformer Architectures and Pre-training Strategies for Fast and Accurate Multi-sentence Scoring [[arXiv](https://arxiv.org/abs/1905.01969)] [[Code](https://github.com/facebookresearch/ParlAI)]
 - Your Classifier is Secretly an Energy Based Model and You Should Treat it Like One [[arXiv](https://arxiv.org/abs/1912.03263)]
 - Neural Arithmetic Units [[arXiv](https://arxiv.org/abs/2001.05016)] [[Code](https://github.com/AndreasMadsen/stable-nalu)]
