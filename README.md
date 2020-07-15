@@ -3,6 +3,7 @@
 <!-- 2020-04， Xingyi Zhou + Dequan Wang， https://github.com/xingyizhou/CenterNet Star:4.3K -->
 <!-- 2019-04， 郑哲东， CVPR2019（Oral） -->
 #### 2020-05
+- Neural Controlled Differential Equations for Irregular Time Series [[arXiv](https://arxiv.org/abs/2005.08926)] [[Code](https://github.com/patrick-kidger/NeuralCDE)]
 - Human Instruction-Following with Deep Reinforcement Learning via Transfer-Learning from Text [[arXiv](https://arxiv.org/abs/2005.09382)]
 - Flowtron: an Autoregressive Flow-based Generative Network for Text-to-Speech Synthesis [[arXiv](https://arxiv.org/abs/2005.05957)] [[Code](https://github.com/NVIDIA/flowtron)]
 - Grounding Language in Play [[arXiv](https://arxiv.org/abs/2005.07648)]
