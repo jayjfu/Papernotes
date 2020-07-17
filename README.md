@@ -16,6 +16,7 @@
 - Synthesizer: Rethinking Self-Attention in Transformer Models [[arXiv](https://arxiv.org/abs/2005.00743)] 
 
 #### 2020-04
+- CURL: Contrastive Unsupervised Representations for Reinforcement Learning [[arXiv](https://arxiv.org/abs/2004.04136)] [[Code](https://github.com/MishaLaskin/curl)] 
 - Adversarial Latent Autoencoders [[arXiv](https://arxiv.org/abs/2004.04467)] [[Code](https://github.com/podgorskiy/ALAE)]
 - NBDT: Neural-Backed Decision Trees [[arXiv](https://arxiv.org/abs/2004.00221)] [[Code](https://github.com/alvinwan/neural-backed-decision-trees)]
 - YOLOv4: Optimal Speed and Accuracy of Object Detection [[arXiv](https://arxiv.org/abs/2004.10934)] [[Code](https://github.com/AlexeyAB/darknet)]
