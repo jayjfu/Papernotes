@@ -3,7 +3,11 @@
 <!-- 2020-04， Xingyi Zhou + Dequan Wang， https://github.com/xingyizhou/CenterNet Star:4.3K -->
 <!-- 2019-04， 郑哲东， CVPR2019（Oral） -->
 
+#### 2020-07
+- Not All Unlabeled Data are Equal: Learning to Weight Data in Semi-supervised Learning [[arXiv](https://arxiv.org/abs/2007.01293)]
+
 #### 2020-06
+- A Tutorial on VAEs: From Bayes' Rule to Lossless Compression [[arXiv](https://arxiv.org/abs/2006.10273)]
 - Fourier Features Let Networks Learn High Frequency Functions in Low Dimensional Domains [[arXiv](https://arxiv.org/abs/2006.10739)]
 - Implicit Neural Representations with Periodic Activation Functions [[arXiv](https://arxiv.org/abs/2006.09661)] [[Code](https://github.com/vsitzmann/siren)]
 - Big Self-Supervised Models are Strong Semi-Supervised Learners [[arXiv](https://arxiv.org/abs/2006.10029)] [[Code](https://github.com/google-research/simclr)]
