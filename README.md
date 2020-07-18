@@ -4,6 +4,10 @@
 <!-- 2019-04， 郑哲东， CVPR2019（Oral） -->
 
 #### 2020-06
+- Fourier Features Let Networks Learn High Frequency Functions in Low Dimensional Domains [[arXiv](https://arxiv.org/abs/2006.10739)]
+- Implicit Neural Representations with Periodic Activation Functions [[arXiv](https://arxiv.org/abs/2006.09661)] [[Code](https://github.com/vsitzmann/siren)]
+- Big Self-Supervised Models are Strong Semi-Supervised Learners [[arXiv](https://arxiv.org/abs/2006.10029)] [[Code](https://github.com/google-research/simclr)]
+- Transformers are RNNs: Fast Autoregressive Transformers with Linear Attention [[arXiv](https://arxiv.org/abs/2006.16236)]
 - Acme: A Research Framework for Distributed Reinforcement Learning [[arXiv](https://arxiv.org/abs/2006.00979)] [[Code](https://github.com/deepmind/acme)]
 
 #### 2020-05
