@@ -4,9 +4,13 @@
 <!-- 2019-04， 郑哲东， CVPR2019（Oral） -->
 
 #### 2020-07
+- Approximate Nearest Neighbor Negative Contrastive Learning for Dense Text Retrieval [[arXiv](https://arxiv.org/abs/2007.00808)] [[Code](https://github.com/microsoft/ANCE)]
+- Facts as Experts: Adaptable and Interpretable Neural Memory over Symbolic Knowledge [[arXiv](https://arxiv.org/abs/2007.00849)]
+- Language-agnostic BERT Sentence Embedding [[arXiv](https://arxiv.org/abs/2007.01852)]
 - Not All Unlabeled Data are Equal: Learning to Weight Data in Semi-supervised Learning [[arXiv](https://arxiv.org/abs/2007.01293)]
 
 #### 2020-06
+- Limits to Depth Efficiencies of Self-Attention [[arXiv](https://arxiv.org/abs/2006.12467)]
 - A Tutorial on VAEs: From Bayes' Rule to Lossless Compression [[arXiv](https://arxiv.org/abs/2006.10273)]
 - Fourier Features Let Networks Learn High Frequency Functions in Low Dimensional Domains [[arXiv](https://arxiv.org/abs/2006.10739)]
 - Implicit Neural Representations with Periodic Activation Functions [[arXiv](https://arxiv.org/abs/2006.09661)] [[Code](https://github.com/vsitzmann/siren)]
