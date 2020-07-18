@@ -2,6 +2,10 @@
 <!-- 2020-ACL, FNLP: Ming Zhong + Danqing Wang + Zhan Shi + Xiaonan Li -->
 <!-- 2020-04， Xingyi Zhou + Dequan Wang， https://github.com/xingyizhou/CenterNet Star:4.3K -->
 <!-- 2019-04， 郑哲东， CVPR2019（Oral） -->
+
+#### 2020-06
+- Acme: A Research Framework for Distributed Reinforcement Learning [[arXiv](https://arxiv.org/abs/2006.00979)] [[Code](https://github.com/deepmind/acme)]
+
 #### 2020-05
 - Neural Controlled Differential Equations for Irregular Time Series [[arXiv](https://arxiv.org/abs/2005.08926)] [[Code](https://github.com/patrick-kidger/NeuralCDE)]
 - Human Instruction-Following with Deep Reinforcement Learning via Transfer-Learning from Text [[arXiv](https://arxiv.org/abs/2005.09382)]
