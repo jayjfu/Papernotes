@@ -50,6 +50,9 @@
 - Supervised Contrastive Learning [[arXiv](https://arxiv.org/abs/2004.11362)]
 - CURL: Contrastive Unsupervised Representations for Reinforcement Learning [[arXiv](https://arxiv.org/abs/2004.04136)]
 
+#### ICML-20
+- AutoML-Zero: Evolving Machine Learning Algorithms From Scratch [[arXiv](https://arxiv.org/abs/2003.03384)] [[Code](https://github.com/google-research/google-research/tree/master/automl_zero#automl-zero)]
+
 #### 2020-03
 - XTREME: A Massively Multilingual Multi-task Benchmark for Evaluating Cross-lingual Generalization [[arXiv](https://arxiv.org/abs/2003.11080)] [[Code](https://github.com/google-research/xtreme)]
 - Validation Set Evaluation can be Wrong: An Evaluator-Generator Approach for Maximizing Online Performance of Ranking in E-commerce [[arXiv](https://arxiv.org/abs/2003.11941)]
