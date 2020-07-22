@@ -10,6 +10,7 @@
 - Not All Unlabeled Data are Equal: Learning to Weight Data in Semi-supervised Learning [[arXiv](https://arxiv.org/abs/2007.01293)]
 
 #### 2020-06
+- Search-based User Interest Modeling with Lifelong Sequential Behavior Data for Click-Through Rate Prediction [[arXiv](https://arxiv.org/abs/2006.05639)]
 - Soft Gradient Boosting Machine [[arXiv](https://arxiv.org/abs/2006.04059)]
 - Limits to Depth Efficiencies of Self-Attention [[arXiv](https://arxiv.org/abs/2006.12467)]
 - A Tutorial on VAEs: From Bayes' Rule to Lossless Compression [[arXiv](https://arxiv.org/abs/2006.10273)]
