@@ -51,6 +51,7 @@
 - CURL: Contrastive Unsupervised Representations for Reinforcement Learning [[arXiv](https://arxiv.org/abs/2004.04136)]
 
 #### ICML-20
+- On Learning Sets of Symmetric Elements [[arXiv](https://arxiv.org/abs/2002.08599)]
 - AutoML-Zero: Evolving Machine Learning Algorithms From Scratch [[arXiv](https://arxiv.org/abs/2003.03384)] [[Code](https://github.com/google-research/google-research/tree/master/automl_zero#automl-zero)]
 
 #### 2020-03
