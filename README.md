@@ -22,6 +22,7 @@
 - Acme: A Research Framework for Distributed Reinforcement Learning [[arXiv](https://arxiv.org/abs/2006.00979)] [[Code](https://github.com/deepmind/acme)]
 
 #### 2020-05
+- Beyond Accuracy: Behavioral Testing of NLP models with CheckList [[arXiv](https://arxiv.org/abs/2005.04118)] [[Code](https://github.com/marcotcr/checklist)]
 - Neural Controlled Differential Equations for Irregular Time Series [[arXiv](https://arxiv.org/abs/2005.08926)] [[Code](https://github.com/patrick-kidger/NeuralCDE)]
 - Human Instruction-Following with Deep Reinforcement Learning via Transfer-Learning from Text [[arXiv](https://arxiv.org/abs/2005.09382)]
 - Flowtron: an Autoregressive Flow-based Generative Network for Text-to-Speech Synthesis [[arXiv](https://arxiv.org/abs/2005.05957)] [[Code](https://github.com/NVIDIA/flowtron)]
