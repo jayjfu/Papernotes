@@ -175,7 +175,7 @@
 - When Does Label Smoothing Help? [[arXiv](https://arxiv.org/abs/1906.02629)]
 - Large Scale Structure of Neural Network Loss Landscapes [[arXiv](https://arxiv.org/abs/1906.04724)]
 - Stand-Alone Self-Attention in Vision Models [[arXiv](https://arxiv.org/abs/1906.05909)]
-- Generative Adversarial Networks: A Survey and Taxonomy [[arXiv](https://arxiv.org/abs/1906.01529)]
+- Generative Adversarial Networks: A Survey and Taxonomy [[arXiv](https://arxiv.org/abs/1906.01529)] [[Code](https://github.com/sheqi/GAN_Review)]
 - Weight Agnostic Neural Networks [[arXiv](https://arxiv.org/abs/1906.04358)]
 - An Introduction to Variational Autoencoders [[arXiv](https://arxiv.org/abs/1906.02691)]
 - XLNet: Generalized Autoregressive Pretraining for Language Understanding [[arXiv](https://arxiv.org/abs/1906.08237)] [[Code](https://github.com/zihangdai/xlnet)]
