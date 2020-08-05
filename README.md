@@ -163,8 +163,7 @@
 #### 2019-06
 - COMET: Commonsense Transformers for Automatic Knowledge Graph Construction [[arXiv](https://arxiv.org/abs/1906.05317)] [[Code](https://github.com/atcbosselut/comet-commonsense)]
 - Deep Learning Recommendation Model for Personalization and Recommendation Systems [[arXiv](https://arxiv.org/abs/1906.00091)] [[Code](https://github.com/facebookresearch/dlrm)]
-- Modern Deep Reinforcement Learning Algorithms [[arXiv](https://arxiv.org/abs/1906.10025)]
-- Stacked Capsule Autoencoders [[arXiv](https://arxiv.org/abs/1906.06818)]
+- Stacked Capsule Autoencoders [[arXiv](https://arxiv.org/abs/1906.06818)] [[Code](https://github.com/google-research/google-research/tree/master/stacked_capsule_autoencoders)]
 - Is Attention Interpretable? [[arXiv](https://arxiv.org/abs/1906.03731)] [[Code](https://github.com/serrano-s/attn-tests)]
 - Generating Diverse High-Fidelity Images with VQ-VAE-2 [[arXiv](https://arxiv.org/abs/1906.00446)]
 - Visualizing and Measuring the Geometry of BERT [[arXiv](https://arxiv.org/abs/1906.02715)]
