@@ -10,6 +10,7 @@
 - Not All Unlabeled Data are Equal: Learning to Weight Data in Semi-supervised Learning [[arXiv](https://arxiv.org/abs/2007.01293)]
 
 #### 2020-06
+- Embedding-based Retrieval in Facebook Search [[arXiv](https://arxiv.org/abs/2006.11632)]
 - Deep Isometric Learning for Visual Recognition [[arXiv](https://arxiv.org/abs/2006.16992)] [[Code](https://github.com/HaozhiQi/ISONet)]
 - Search-based User Interest Modeling with Lifelong Sequential Behavior Data for Click-Through Rate Prediction [[arXiv](https://arxiv.org/abs/2006.05639)]
 - Soft Gradient Boosting Machine [[arXiv](https://arxiv.org/abs/2006.04059)]
