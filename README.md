@@ -4,6 +4,10 @@
 <!-- 2019-04， 郑哲东， CVPR2019（Oral） -->
 
 #### 2020-07
+- Accelerating 3D Deep Learning with PyTorch3D [[arXiv](https://arxiv.org/abs/2007.08501)]
+- Graph Structure of Neural Networks [[arXiv](https://arxiv.org/abs/2007.06559)]
+- Big Bird: Transformers for Longer Sequences [[arXiv](https://arxiv.org/abs/2007.14062)]
+- NVAE: A Deep Hierarchical Variational Autoencoder [[arXiv](https://arxiv.org/abs/2007.03898)]
 - Approximate Nearest Neighbor Negative Contrastive Learning for Dense Text Retrieval [[arXiv](https://arxiv.org/abs/2007.00808)] [[Code](https://github.com/microsoft/ANCE)]
 - Facts as Experts: Adaptable and Interpretable Neural Memory over Symbolic Knowledge [[arXiv](https://arxiv.org/abs/2007.00849)]
 - Language-agnostic BERT Sentence Embedding [[arXiv](https://arxiv.org/abs/2007.01852)]
