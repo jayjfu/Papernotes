@@ -4,6 +4,8 @@
 <!-- 2019-04， 郑哲东， CVPR2019（Oral） -->
 
 #### 2020-07
+- Contrastive Code Representation Learning [[arXiv](https://arxiv.org/abs/2007.04973)] [[Code](https://github.com/parasj/contracode)]
+- Strong Generalization and Efficiency in Neural Programs [[arXiv](https://arxiv.org/abs/2007.03629)] 
 - Accelerating 3D Deep Learning with PyTorch3D [[arXiv](https://arxiv.org/abs/2007.08501)]
 - Graph Structure of Neural Networks [[arXiv](https://arxiv.org/abs/2007.06559)]
 - Big Bird: Transformers for Longer Sequences [[arXiv](https://arxiv.org/abs/2007.14062)]
