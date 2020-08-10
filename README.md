@@ -4,6 +4,8 @@
 <!-- 2019-04， 郑哲东， CVPR2019（Oral） -->
 
 #### 2020-07
+- The Lottery Ticket Hypothesis for Pre-trained BERT Networks [[arXiv](https://arxiv.org/abs/2007.12223)] [[Code](https://github.com/TAMU-VITA/BERT-Tickets)]
+- Do Transformers Need Deep Long-Range Memory [[arXiv](https://arxiv.org/abs/2007.03356)]
 - RetrieveGAN: Image Synthesis via Differentiable Patch Retrieval [[arXiv](https://arxiv.org/abs/2007.08513)]
 - Contrastive Learning for Unpaired Image-to-Image Translation [[arXiv](https://arxiv.org/abs/2007.15651)] [[Code](https://github.com/taesungp/contrastive-unpaired-translation)]
 - Do Adversarially Robust ImageNet Models Transfer Better? [[arXiv](https://arxiv.org/abs/2007.08489)] [[Code](https://github.com/Microsoft/robust-models-transfer)]
