@@ -4,6 +4,7 @@
 <!-- 2019-04， 郑哲东， CVPR2019（Oral） -->
 
 #### 2020-07
+- Graph Structure of Neural Networks [[arXiv](https://arxiv.org/abs/2007.06559)]
 - Towards Learning Convolutions from Scratch [[arXiv](https://arxiv.org/abs/2007.13657)]
 - The Lottery Ticket Hypothesis for Pre-trained BERT Networks [[arXiv](https://arxiv.org/abs/2007.12223)] [[Code](https://github.com/TAMU-VITA/BERT-Tickets)]
 - Do Transformers Need Deep Long-Range Memory [[arXiv](https://arxiv.org/abs/2007.03356)]
