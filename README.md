@@ -170,9 +170,7 @@
 - Automated Machine Learning in Practice: State of the Art and Recent Results [[arXiv](https://arxiv.org/abs/1907.08392)]
 - OmniNet: A unified architecture for multi-modal multi-task learning [[arXiv](https://arxiv.org/abs/1907.07804)]
 - Are We Really Making Much Progress? A Worrying Analysis of Recent Neural Recommendation Approaches [[arXiv](https://arxiv.org/abs/1907.06902)] [[Code](https://github.com/MaurizioFD/RecSys2019_DeepLearning_Evaluation)]
-- A Differentiable Programming System to Bridge Machine Learning and Scientific Computing [[arXiv](https://arxiv.org/abs/1907.07587)]
-- Probing Neural Network Comprehension of Natural Language Arguments [[arXiv](https://arxiv.org/abs/1907.07355)]
-- Efficient Video Generation on Complex Datasets [[arXiv](https://arxiv.org/abs/1907.06571)]
+- A Differentiable Programming System to Bridge Machine Learning and Scientific Computing [[arXiv](https://arxiv.org/abs/1907.07587)] [[Code](https://github.com/MikeInnes/zygote-paper)]
 
 #### 2019-06
 - COMET: Commonsense Transformers for Automatic Knowledge Graph Construction [[arXiv](https://arxiv.org/abs/1906.05317)] [[Code](https://github.com/atcbosselut/comet-commonsense)]
