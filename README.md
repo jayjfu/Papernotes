@@ -3,6 +3,9 @@
 <!-- 2020-04， Xingyi Zhou + Dequan Wang， https://github.com/xingyizhou/CenterNet Star:4.3K -->
 <!-- 2019-04， 郑哲东， CVPR2019（Oral） -->
 
+#### 2020-08
+- Hopfield Networks is All You Need [[arXiv](https://arxiv.org/abs/2008.02217)] [[Code](https://github.com/ml-jku/hopfield-layers)]
+
 #### 2020-07
 - Graph Structure of Neural Networks [[arXiv](https://arxiv.org/abs/2007.06559)]
 - Towards Learning Convolutions from Scratch [[arXiv](https://arxiv.org/abs/2007.13657)]
