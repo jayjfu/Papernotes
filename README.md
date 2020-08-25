@@ -7,6 +7,7 @@
 - Hopfield Networks is All You Need [[arXiv](https://arxiv.org/abs/2008.02217)] [[Code](https://github.com/ml-jku/hopfield-layers)]
 
 #### 2020-07
+- Finite Versus Infinite Neural Networks: an Empirical Study [[arXiv](https://arxiv.org/abs/2007.15801)]
 - Graph Structure of Neural Networks [[arXiv](https://arxiv.org/abs/2007.06559)]
 - Towards Learning Convolutions from Scratch [[arXiv](https://arxiv.org/abs/2007.13657)]
 - The Lottery Ticket Hypothesis for Pre-trained BERT Networks [[arXiv](https://arxiv.org/abs/2007.12223)] [[Code](https://github.com/TAMU-VITA/BERT-Tickets)]
