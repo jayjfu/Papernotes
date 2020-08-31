@@ -4,6 +4,7 @@
 <!-- 2019-04， 郑哲东， CVPR2019（Oral） -->
 
 #### 2020-08
+- The Language Interpretability Tool: Extensible, Interactive Visualizations and Analysis for NLP Models [[arXiv](https://arxiv.org/abs/2008.05122)] [[Code](https://github.com/PAIR-code/lit)]
 - Hopfield Networks is All You Need [[arXiv](https://arxiv.org/abs/2008.02217)] [[Code](https://github.com/ml-jku/hopfield-layers)]
 
 #### 2020-07
