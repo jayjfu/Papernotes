@@ -54,6 +54,7 @@
 - Synthesizer: Rethinking Self-Attention in Transformer Models [[arXiv](https://arxiv.org/abs/2005.00743)] 
 
 #### 2020-04
+- The AI Economist: Improving Equality and Productivity with AI-Driven Tax Policies [[arXiv](https://arxiv.org/abs/2004.13332)] [[Code](https://github.com/salesforce/ai-economist)]
 - CURL: Contrastive Unsupervised Representations for Reinforcement Learning [[arXiv](https://arxiv.org/abs/2004.04136)] [[Code](https://github.com/MishaLaskin/curl)] 
 - Adversarial Latent Autoencoders [[arXiv](https://arxiv.org/abs/2004.04467)] [[Code](https://github.com/podgorskiy/ALAE)]
 - NBDT: Neural-Backed Decision Trees [[arXiv](https://arxiv.org/abs/2004.00221)] [[Code](https://github.com/alvinwan/neural-backed-decision-trees)]
