@@ -149,9 +149,6 @@
 - Ab-Initio Solution of the Many-Electron Schrödinger Equation with Deep Neural Networks [[arXiv](https://arxiv.org/abs/1909.02487)]
 - Q-BERT: Hessian Based Ultra Low Precision Quantization of BERT [[arXiv](https://arxiv.org/abs/1909.05840)]
 - Meta-Learning with Implicit Gradients [[arXiv](https://arxiv.org/abs/1909.04630)]
-- Unsupervised Domain Adaptation through Self-Supervision [[arXiv](https://arxiv.org/abs/1909.11825)] [[Code](https://github.com/yueatsprograms/uda_release)]
-- Wider Networks Learn Better Features [[arXiv](https://arxiv.org/abs/1909.11572)]
-- Gradient Descent: The Ultimate Optimizer [[arXiv](https://arxiv.org/abs/1909.13371)]
 
 #### NIPS-19
 - Learning Disentangled Representations for Recommendation [[arXiv](https://arxiv.org/abs/1910.14238)] [[Code](https://jianxinma.github.io/disentangle-recsys.html)]
