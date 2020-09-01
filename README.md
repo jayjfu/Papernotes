@@ -154,9 +154,9 @@
 - Gradient Descent: The Ultimate Optimizer [[arXiv](https://arxiv.org/abs/1909.13371)]
 
 #### NIPS-19
-- Learning Disentangled Representations for Recommendation [[arXiv](https://arxiv.org/abs/1910.14238)]
-- Unified Language Model Pre-training for Natural Language Understanding and Generation [[arXiv](https://arxiv.org/abs/1905.03197)]
-- Putting An End to End-to-End: Gradient-Isolated Learning of Representations [[arXiv](https://arxiv.org/abs/1905.11786)]
+- Learning Disentangled Representations for Recommendation [[arXiv](https://arxiv.org/abs/1910.14238)] [[Code](https://jianxinma.github.io/disentangle-recsys.html)]
+- Unified Language Model Pre-training for Natural Language Understanding and Generation [[arXiv](https://arxiv.org/abs/1905.03197)] [[Code](https://github.com/microsoft/unilm)]
+- Putting An End to End-to-End: Gradient-Isolated Learning of Representations [[arXiv](https://arxiv.org/abs/1905.11786)] [[Code](https://github.com/loeweX/Greedy_InfoMax)]
 
 #### 2019-08
 - Once for All: Train One Network and Specialize it for Efficient Deployment [[arXiv](https://arxiv.org/abs/1908.09791)] [[Code](https://github.com/intel/mkl-dnn)]
