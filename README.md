@@ -4,6 +4,12 @@
 <!-- 2019-04， 郑哲东， CVPR2019（Oral） -->
 
 #### 2020-08
+- Language Models as Knowledge Bases: On Entity Representations, Storage Capacity, and Paraphrased Queries [[arXiv](https://arxiv.org/abs/2008.09036)]
+- Offline Meta-Reinforcement Learning with Advantage Weighting [[arXiv](https://arxiv.org/abs/2008.06043)]
+- Compression of Deep Learning Models for Text: A Survey [[arXiv](https://arxiv.org/abs/2008.05221)]
+- learn2learn: A Library for Meta-Learning Research [[arXiv](https://arxiv.org/abs/2008.12284)] [[Code](https://github.com/learnables/learn2learn)]
+- Training Deep Neural Networks Without Batch Normalization [[arXiv](https://arxiv.org/abs/2008.07970)]
+- The Hessian Penalty: A Weak Prior for Unsupervised Disentanglement [[arXiv](https://arxiv.org/abs/2008.10599)] [[Code](https://github.com/wpeebles/hessian_penalty)]
 - The Language Interpretability Tool: Extensible, Interactive Visualizations and Analysis for NLP Models [[arXiv](https://arxiv.org/abs/2008.05122)] [[Code](https://github.com/PAIR-code/lit)]
 - Hopfield Networks is All You Need [[arXiv](https://arxiv.org/abs/2008.02217)] [[Code](https://github.com/ml-jku/hopfield-layers)]
 
