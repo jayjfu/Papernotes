@@ -4,6 +4,7 @@
 <!-- 2019-04， 郑哲东， CVPR2019（Oral） -->
 
 #### 2020-08
+- DeLighT: Very Deep and Light-weight Transformer [[arXiv](https://arxiv.org/abs/2008.00623)] [[Code](https://github.com/sacmehta/delight)]
 - Deep Search Query Intent Understanding [[arXiv](https://arxiv.org/abs/2008.06759)]
 - Language Models as Knowledge Bases: On Entity Representations, Storage Capacity, and Paraphrased Queries [[arXiv](https://arxiv.org/abs/2008.09036)]
 - Offline Meta-Reinforcement Learning with Advantage Weighting [[arXiv](https://arxiv.org/abs/2008.06043)]
