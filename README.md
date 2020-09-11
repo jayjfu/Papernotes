@@ -146,9 +146,9 @@
 - Specializing Word Embeddings (for Parsing) by Information Bottleneck [[arXiv](https://arxiv.org/abs/1910.00163)]
 - BART: Denoising Sequence-to-Sequence Pre-training for Natural Language Generation, Translation, and Comprehension [[arXiv](https://arxiv.org/abs/1910.13461)]
 - Contrastive Representation Distillation [[arXiv](https://arxiv.org/abs/1910.10699)] [[Code](https://github.com/HobbitLong/RepDistiller)]
-- BANANAS: Bayesian Optimization with Neural Architectures for Neural Architecture Search [[arXiv](https://arxiv.org/abs/1910.11858)]
+- BANANAS: Bayesian Optimization with Neural Architectures for Neural Architecture Search [[arXiv](https://arxiv.org/abs/1910.11858)] [[Code](https://github.com/naszilla/bananas)]
 - Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer [[arXiv](https://arxiv.org/abs/1910.10683)] [[Code](https://github.com/google-research/text-to-text-transfer-transformer)]
-- DistilBERT, a distilled version of BERT: smaller, faster, cheaper and lighter [[arXiv](https://arxiv.org/abs/1910.01108)]
+- DistilBERT, a distilled version of BERT: smaller, faster, cheaper and lighter [[arXiv](https://arxiv.org/abs/1910.01108)] [[Code](https://github.com/huggingface/transformers)]
 - Generalized Inner Loop Meta-Learning [[arXiv](https://arxiv.org/abs/1910.01727)] [[Code](https://github.com/facebookresearch/higher)]
 
 #### 2019-09
