@@ -3,6 +3,9 @@
 <!-- 2020-04， Xingyi Zhou + Dequan Wang， https://github.com/xingyizhou/CenterNet Star:4.3K -->
 <!-- 2019-04， 郑哲东， CVPR2019（Oral） -->
 
+#### 2020-09
+- Generative Language Modeling for Automated Theorem Proving [[arXiv](https://arxiv.org/abs/2009.03393)]
+
 #### 2020-08
 - DeLighT: Very Deep and Light-weight Transformer [[arXiv](https://arxiv.org/abs/2008.00623)] [[Code](https://github.com/sacmehta/delight)]
 - Deep Search Query Intent Understanding [[arXiv](https://arxiv.org/abs/2008.06759)]
