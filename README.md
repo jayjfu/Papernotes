@@ -137,10 +137,10 @@
 - What's Hidden in a Randomly Weighted Neural Network? [[arXiv](https://arxiv.org/abs/1911.13299)]
 - Rigging the Lottery: Making All Tickets Winners [[arXiv](https://arxiv.org/abs/1911.11134)]
 - Mastering Atari, Go, Chess and Shogi by Planning with a Learned Model [[arXiv](https://arxiv.org/abs/1911.08265)]
-- EfficientDet: Scalable and Efficient Object Detection [[arXiv](https://arxiv.org/abs/1911.09070)]
-- Momentum Contrast for Unsupervised Visual Representation Learning [[arXiv](https://arxiv.org/abs/1911.05722)]
-- Real-Time Reinforcement Learning [[arXiv](https://arxiv.org/abs/1911.04448)]
-- Self-training with Noisy Student improves ImageNet classification [[arXiv](https://arxiv.org/abs/1911.04252)]
+- EfficientDet: Scalable and Efficient Object Detection [[arXiv](https://arxiv.org/abs/1911.09070)] [[Code](https://github.com/google/automl/tree/master/efficientdet)]
+- Momentum Contrast for Unsupervised Visual Representation Learning [[arXiv](https://arxiv.org/abs/1911.05722)] [[Code](https://github.com/facebookresearch/moco)]
+- Real-Time Reinforcement Learning [[arXiv](https://arxiv.org/abs/1911.04448)] [[Code](https://github.com/rmst/rtrl)]
+- Self-training with Noisy Student improves ImageNet classification [[arXiv](https://arxiv.org/abs/1911.04252)] [[Code](https://github.com/google-research/noisystudent)]
 
 #### 2019-10
 - Specializing Word Embeddings (for Parsing) by Information Bottleneck [[arXiv](https://arxiv.org/abs/1910.00163)]
