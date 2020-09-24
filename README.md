@@ -4,6 +4,7 @@
 <!-- 2019-04， 郑哲东， CVPR2019（Oral） -->
 
 #### 2020-09
+- Efficient Transformers: A Survey [[arXiv](https://arxiv.org/abs/2009.06732)]
 - Generative Language Modeling for Automated Theorem Proving [[arXiv](https://arxiv.org/abs/2009.03393)]
 
 #### 2020-08
