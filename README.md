@@ -130,10 +130,6 @@
 - Causal Discovery with Reinforcement Learning [[arXiv](https://arxiv.org/abs/1906.04477)] [[Code](https://github.com/huawei-noah/trustworthyAI/tree/master/Causal_Structure_Learning/Causal_Discovery_RL)]
 
 #### 2019-11
-- DialoGPT: Large-Scale Generative Pre-training for Conversational Response Generation [[arXiv](https://arxiv.org/abs/1911.00536)] [[Code](https://github.com/microsoft/DialoGPT)]
-- Self-training with Noisy Student improves ImageNet classification [[arXiv](https://arxiv.org/abs/1911.04252)]
-- Generating Interactive Worlds with Text [[arXiv](https://arxiv.org/abs/1911.09194)]
-- ConveRT: Efficient and Accurate Conversational Representations from Transformers [[arXiv](https://arxiv.org/abs/1911.03688)] [[Code](https://github.com/PolyAI-LDN/polyai-models)]
 - On the Relationship between Self-Attention and Convolutional Layers [[arXiv](https://arxiv.org/abs/1911.03584)] [[Code](https://github.com/epfml/attention-cnn/tree/arxiv-v1)]
 - Single Headed Attention RNN: Stop Thinking With Your Head [[arXiv](https://arxiv.org/abs/1911.11423)] [[Code](https://github.com/smerity/sha-rnn)]
 - Rigging the Lottery: Making All Tickets Winners [[arXiv](https://arxiv.org/abs/1911.11134)] [[Code](https://github.com/google-research/rigl)]
