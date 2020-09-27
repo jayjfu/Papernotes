@@ -116,9 +116,8 @@
 
 #### 2019-12
 - Neural Tangents: Fast and Easy Infinite Neural Networks in Python [[arXiv](https://arxiv.org/abs/1912.02803)] [[Code](https://github.com/google/neural-tangents)]
-- Optimization for deep learning: theory and algorithms [[arXiv](https://arxiv.org/abs/1912.08957)] 
 - Advances and Open Problems in Federated Learning [[arXiv](https://arxiv.org/abs/1912.04977)]
-- PointRend: Image Segmentation as Rendering [[arXiv](https://arxiv.org/abs/1912.08193)] 
+- PointRend: Image Segmentation as Rendering [[arXiv](https://arxiv.org/abs/1912.08193)] [[Code](https://github.com/facebookresearch/detectron2/tree/master/projects/PointRend)]
 - Reinforcement Learning Upside Down: Don't Predict Rewards -- Just Map Them to Actions [[arXiv](https://arxiv.org/abs/1912.02875)]
 - Dota 2 with Large Scale Deep Reinforcement Learning [[arXiv](https://arxiv.org/abs/1912.06680)]
 
