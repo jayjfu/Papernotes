@@ -112,7 +112,7 @@
 - A Simple Framework for Contrastive Learning of Visual Representations [[arXiv](https://arxiv.org/abs/2002.05709)] 
 
 #### 2020-01
-- Reformer: The Efficient Transformer [[arXiv](https://arxiv.org/abs/2001.04451)]
+- Reformer: The Efficient Transformer [[arXiv](https://arxiv.org/abs/2001.04451)] [[Code](https://github.com/google/trax/tree/master/trax/models/reformer)]
 
 #### 2019-12
 - Neural Tangents: Fast and Easy Infinite Neural Networks in Python [[arXiv](https://arxiv.org/abs/1912.02803)] [[Code](https://github.com/google/neural-tangents)]
