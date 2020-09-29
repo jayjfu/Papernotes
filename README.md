@@ -108,8 +108,8 @@
 - A Primer in BERTology: What we know about how BERT works [[arXiv](https://arxiv.org/abs/2002.12327)]
 - Fine-Tuning Pretrained Language Models: Weight Initializations, Data Orders, and Early Stopping [[arXiv](https://arxiv.org/abs/2002.06305)]
 - fastai: A Layered API for Deep Learning [[arXiv](https://arxiv.org/abs/2002.04688)] [[Code](https://github.com/fastai/fastai)]
-- How Good is the Bayes Posterior in Deep Neural Networks Really? [[arXiv](https://arxiv.org/abs/2002.02405)]
-- A Simple Framework for Contrastive Learning of Visual Representations [[arXiv](https://arxiv.org/abs/2002.05709)] 
+- How Good is the Bayes Posterior in Deep Neural Networks Really? [[arXiv](https://arxiv.org/abs/2002.02405)] [[Code](https://github.com/google-research/google-research/tree/master/cold_posterior_bnn)]
+- A Simple Framework for Contrastive Learning of Visual Representations [[arXiv](https://arxiv.org/abs/2002.05709)] [[Code](https://github.com/google-research/simclr)]
 
 #### 2020-01
 - Reformer: The Efficient Transformer [[arXiv](https://arxiv.org/abs/2001.04451)] [[Code](https://github.com/google/trax/tree/master/trax/models/reformer)]
