@@ -100,11 +100,9 @@
 - Designing Network Design Spaces [[arXiv](https://arxiv.org/abs/2003.13678)] [[Code](https://github.com/facebookresearch/pycls)] 
 
 #### 2020-02
-- Transformers as Soft Reasoners over Language [[arXiv](https://arxiv.org/abs/2002.05867)]
-- On Feature Normalization and Data Augmentation [[arXiv](https://arxiv.org/abs/2002.11102)]
-- Bayesian Deep Learning and a Probabilistic Perspective of Generalization [[arXiv](https://arxiv.org/abs/2002.08791)]
+- On Feature Normalization and Data Augmentation [[arXiv](https://arxiv.org/abs/2002.11102)] [[Code](https://github.com/Boyiliee/MoEx)]
+- Bayesian Deep Learning and a Probabilistic Perspective of Generalization [[arXiv](https://arxiv.org/abs/2002.08791)] [[Code](https://github.com/izmailovpavel/understandingbdl)]
 - Self-Distillation Amplifies Regularization in Hilbert Space [[arXiv](https://arxiv.org/abs/2002.05715)]
-- Batch Normalization Biases Deep Residual Networks Towards Shallow Paths [[arXiv](https://arxiv.org/abs/2002.10444)]
 - A Primer in BERTology: What we know about how BERT works [[arXiv](https://arxiv.org/abs/2002.12327)]
 - Fine-Tuning Pretrained Language Models: Weight Initializations, Data Orders, and Early Stopping [[arXiv](https://arxiv.org/abs/2002.06305)]
 - fastai: A Layered API for Deep Learning [[arXiv](https://arxiv.org/abs/2002.04688)] [[Code](https://github.com/fastai/fastai)]
