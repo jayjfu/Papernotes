@@ -2,6 +2,8 @@
 <!-- 2020-ACL, FNLP: Ming Zhong + Danqing Wang + Zhan Shi + Xiaonan Li -->
 <!-- 2020-04， Xingyi Zhou + Dequan Wang， https://github.com/xingyizhou/CenterNet Star:4.3K -->
 <!-- 2019-04， 郑哲东， CVPR2019（Oral） -->
+#### 2020-10
+- AdaBelief Optimizer: Adapting Stepsizes by the Belief in Observed Gradients [[arXiv](https://arxiv.org/abs/2010.07468)] [[Code](https://github.com/juntang-zhuang/Adabelief-Optimizer)]
 
 #### 2020-09
 - Efficient Transformers: A Survey [[arXiv](https://arxiv.org/abs/2009.06732)]
