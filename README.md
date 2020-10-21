@@ -8,6 +8,9 @@
 - AdaBelief Optimizer: Adapting Stepsizes by the Belief in Observed Gradients [[arXiv](https://arxiv.org/abs/2010.07468)] [[Code](https://github.com/juntang-zhuang/Adabelief-Optimizer)]
 
 #### 2020-09
+- Tasks, stability, architecture, and compute: Training more effective learned optimizers, and using them to train themselves [[arXiv](https://arxiv.org/abs/2009.11243)]
+- A Unifying Review of Deep and Shallow Anomaly Detection [[arXiv](https://arxiv.org/abs/2009.11732)]
+- Rethinking Attention with Performers [[arXiv](https://arxiv.org/abs/2009.14794)] [[Code](https://github.com/google-research/google-research/tree/master/performer/fast_self_attention)]
 - Principles and Practice of Explainable Machine Learning [[arXiv](https://arxiv.org/abs/2009.11698)]
 - Efficient Transformers: A Survey [[arXiv](https://arxiv.org/abs/2009.06732)]
 - Generative Language Modeling for Automated Theorem Proving [[arXiv](https://arxiv.org/abs/2009.03393)]
