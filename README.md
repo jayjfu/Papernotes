@@ -3,12 +3,16 @@
 <!-- 2020-04， Xingyi Zhou + Dequan Wang， https://github.com/xingyizhou/CenterNet Star:4.3K -->
 <!-- 2019-04， 郑哲东， CVPR2019（Oral） -->
 #### 2020-10
+- Human-centric Dialog Training via Offline Reinforcement Learning [[arXiv](https://arxiv.org/abs/2010.05848)]
+- Neural Databases [[arXiv](https://arxiv.org/abs/2010.06973)]
+- Interpreting Graph Neural Networks for NLP With Differentiable Edge Masking [[arXiv](https://arxiv.org/abs/2010.00577)]
 - Self-training Improves Pre-training for Natural Language Understanding [[arXiv](https://arxiv.org/abs/2010.02194)]
 - CausalWorld: A Robotic Manipulation Benchmark for Causal Structure and Transfer Learning [[arXiv](https://arxiv.org/abs/2010.04296)]
 - A Survey of Deep Meta-Learning [[arXiv](https://arxiv.org/abs/2010.03522)] 
 - AdaBelief Optimizer: Adapting Stepsizes by the Belief in Observed Gradients [[arXiv](https://arxiv.org/abs/2010.07468)] [[Code](https://github.com/juntang-zhuang/Adabelief-Optimizer)]
 
 #### 2020-09
+- X-LXMERT: Paint, Caption and Answer Questions with Multi-Modal Transformers [[arXiv](https://arxiv.org/abs/2009.11278)]
 - Tasks, stability, architecture, and compute: Training more effective learned optimizers, and using them to train themselves [[arXiv](https://arxiv.org/abs/2009.11243)]
 - A Unifying Review of Deep and Shallow Anomaly Detection [[arXiv](https://arxiv.org/abs/2009.11732)]
 - Rethinking Attention with Performers [[arXiv](https://arxiv.org/abs/2009.14794)] [[Code](https://github.com/google-research/google-research/tree/master/performer/fast_self_attention)]
