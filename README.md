@@ -104,7 +104,6 @@
 
 #### 2020-03
 - XTREME: A Massively Multilingual Multi-task Benchmark for Evaluating Cross-lingual Generalization [[arXiv](https://arxiv.org/abs/2003.11080)] [[Code](https://github.com/google-research/xtreme)]
-- Validation Set Evaluation can be Wrong: An Evaluator-Generator Approach for Maximizing Online Performance of Ranking in E-commerce [[arXiv](https://arxiv.org/abs/2003.11941)]
 - Agent57: Outperforming the Atari Human Benchmark [[arXiv](https://arxiv.org/abs/2003.13350)]
 - Talking-Heads Attention [[arXiv](https://arxiv.org/abs/2003.02436)]  
 - ReZero is All You Need: Fast Convergence at Large Depth [[arXiv](https://arxiv.org/abs/2003.04887)] [[Code](https://github.com/majumderb/rezero)]
