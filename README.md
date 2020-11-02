@@ -3,6 +3,7 @@
 <!-- 2020-04， Xingyi Zhou + Dequan Wang， https://github.com/xingyizhou/CenterNet Star:4.3K -->
 <!-- 2019-04， 郑哲东， CVPR2019（Oral） -->
 #### 2020-10
+- Representation Learning via Invariant Causal Mechanisms [[arXiv](https://arxiv.org/abs/2010.07922)]
 - Human-centric Dialog Training via Offline Reinforcement Learning [[arXiv](https://arxiv.org/abs/2010.05848)]
 - Neural Databases [[arXiv](https://arxiv.org/abs/2010.06973)]
 - Interpreting Graph Neural Networks for NLP With Differentiable Edge Masking [[arXiv](https://arxiv.org/abs/2010.00577)]
