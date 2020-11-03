@@ -3,6 +3,9 @@
 <!-- 2020-04， Xingyi Zhou + Dequan Wang， https://github.com/xingyizhou/CenterNet Star:4.3K -->
 <!-- 2019-04， 郑哲东， CVPR2019（Oral） -->
 #### 2020-10
+- Human-centric Dialog Training via Offline Reinforcement Learning [[arXiv](https://arxiv.org/abs/2010.05848)] [[Code](https://github.com/natashamjaques/neural_chat)]
+- Vokenization: Improving Language Understanding with Contextualized, Visual-Grounded Supervisio [[arXiv](https://arxiv.org/abs/2010.06775)] [[Code](https://github.com/airsplay/vokenization)]
+- Self-training Improves Pre-training for Natural Language Understanding [[arXiv](https://arxiv.org/abs/2010.02194)]
 - Representation Learning via Invariant Causal Mechanisms [[arXiv](https://arxiv.org/abs/2010.07922)]
 - Human-centric Dialog Training via Offline Reinforcement Learning [[arXiv](https://arxiv.org/abs/2010.05848)]
 - Neural Databases [[arXiv](https://arxiv.org/abs/2010.06973)]
