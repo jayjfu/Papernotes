@@ -96,8 +96,8 @@
 - Longformer: The Long-Document Transformer [[arXiv](https://arxiv.org/abs/2004.05150)] [[Code](https://github.com/allenai/longformer)]
 - Neural Additive Models: Interpretable Machine Learning with Neural Nets [[arXiv](https://arxiv.org/abs/2004.13912)]
 - Adversarial Latent Autoencoders [[arXiv](https://arxiv.org/abs/2004.04467)] [[Code](https://github.com/podgorskiy/ALAE)]
-- Supervised Contrastive Learning [[arXiv](https://arxiv.org/abs/2004.11362)]
-- CURL: Contrastive Unsupervised Representations for Reinforcement Learning [[arXiv](https://arxiv.org/abs/2004.04136)]
+- Supervised Contrastive Learning [[arXiv](https://arxiv.org/abs/2004.11362)] [[Code](https://github.com/HobbitLong/SupContrast)]
+- CURL: Contrastive Unsupervised Representations for Reinforcement Learning [[arXiv](https://arxiv.org/abs/2004.04136)] [[Code](https://github.com/MishaLaskin/curl)]
 
 #### ICML-20
 - Stabilizing Differentiable Architecture Search via Perturbation-based Regularization [[arXiv](https://arxiv.org/abs/2002.05283)] [[Code](https://github.com/xiangning-chen/SmoothDARTS)]
