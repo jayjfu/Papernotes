@@ -91,7 +91,7 @@
 - NBDT: Neural-Backed Decision Trees [[arXiv](https://arxiv.org/abs/2004.00221)] [[Code](https://github.com/alvinwan/neural-backed-decision-trees)]
 - YOLOv4: Optimal Speed and Accuracy of Object Detection [[arXiv](https://arxiv.org/abs/2004.10934)] [[Code](https://github.com/AlexeyAB/darknet)]
 - ResNeSt: Split-Attention Networks [[arXiv](https://arxiv.org/abs/2004.08955)] [[Code](https://github.com/zhanghang1989/ResNeSt)]
-- Evolving Normalization-Activation Layers [[arXiv](https://arxiv.org/abs/2004.02967)]
+- Evolving Normalization-Activation Layers [[arXiv](https://arxiv.org/abs/2004.02967)] [[Code](https://github.com/tensorflow/tpu/tree/master/models/official/resnet)]
 - Longformer: The Long-Document Transformer [[arXiv](https://arxiv.org/abs/2004.05150)] [[Code](https://github.com/allenai/longformer)]
 - Adversarial Latent Autoencoders [[arXiv](https://arxiv.org/abs/2004.04467)] [[Code](https://github.com/podgorskiy/ALAE)]
 - Supervised Contrastive Learning [[arXiv](https://arxiv.org/abs/2004.11362)] [[Code](https://github.com/HobbitLong/SupContrast)]
