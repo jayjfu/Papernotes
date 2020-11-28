@@ -6,7 +6,6 @@
 - Learning Latent Representations to Influence Multi-Agent Interaction [[arXiv](https://arxiv.org/abs/2011.06619)]
 
 #### 2020-10
-- Digital Voicing of Silent Speech [[arXiv](https://arxiv.org/abs/2010.02960)] [[Code](https://github.com/dgaddy/silent_speech)]
 - A Frustratingly Easy Approach for Joint Entity and Relation Extraction [[arXiv](https://arxiv.org/abs/2010.12812)]
 - Human-centric Dialog Training via Offline Reinforcement Learning [[arXiv](https://arxiv.org/abs/2010.05848)] [[Code](https://github.com/natashamjaques/neural_chat)]
 - Vokenization: Improving Language Understanding with Contextualized, Visual-Grounded Supervisio [[arXiv](https://arxiv.org/abs/2010.06775)] [[Code](https://github.com/airsplay/vokenization)]
