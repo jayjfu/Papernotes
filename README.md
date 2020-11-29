@@ -62,11 +62,7 @@
 
 #### 2020-06
 - Embedding-based Retrieval in Facebook Search [[arXiv](https://arxiv.org/abs/2006.11632)]
-- Deep Isometric Learning for Visual Recognition [[arXiv](https://arxiv.org/abs/2006.16992)] [[Code](https://github.com/HaozhiQi/ISONet)]
 - Search-based User Interest Modeling with Lifelong Sequential Behavior Data for Click-Through Rate Prediction [[arXiv](https://arxiv.org/abs/2006.05639)]
-- Soft Gradient Boosting Machine [[arXiv](https://arxiv.org/abs/2006.04059)]
-- Limits to Depth Efficiencies of Self-Attention [[arXiv](https://arxiv.org/abs/2006.12467)]
-- A Tutorial on VAEs: From Bayes' Rule to Lossless Compression [[arXiv](https://arxiv.org/abs/2006.10273)]
 - Fourier Features Let Networks Learn High Frequency Functions in Low Dimensional Domains [[arXiv](https://arxiv.org/abs/2006.10739)]
 - Implicit Neural Representations with Periodic Activation Functions [[arXiv](https://arxiv.org/abs/2006.09661)] [[Code](https://github.com/vsitzmann/siren)]
 - Big Self-Supervised Models are Strong Semi-Supervised Learners [[arXiv](https://arxiv.org/abs/2006.10029)] [[Code](https://github.com/google-research/simclr)]
