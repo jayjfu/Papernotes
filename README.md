@@ -3,7 +3,7 @@
 <!-- 2020-04， Xingyi Zhou + Dequan Wang， https://github.com/xingyizhou/CenterNet Star:4.3K -->
 <!-- 2019-04， 郑哲东， CVPR2019（Oral） -->
 #### 2020-11
-- A Review of Uncertainty Quantification in Deep Learning: Techniques, Applications and Challenges [[arXiv](A Review of Uncertainty Quantification in Deep Learning: Techniques, Applications and Challenges)]
+- A Review of Uncertainty Quantification in Deep Learning: Techniques, Applications and Challenges [[arXiv](https://arxiv.org/abs/2011.06225)]
 - Intriguing Properties of Contrastive Losses [[arXiv](https://arxiv.org/abs/2011.02803)] [[Code](https://github.com/google-research/simclr/tree/master/colabs/intriguing_properties)]
 - Exploring Simple Siamese Representation Learning [[arXiv](https://arxiv.org/abs/2011.10566)]
 - Long Range Arena: A Benchmark for Efficient Transformers [[arXiv](https://arxiv.org/abs/2011.04006)] [[Code](https://github.com/google-research/long-range-arena)]
