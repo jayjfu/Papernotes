@@ -3,6 +3,7 @@
 <!-- 2020-04， Xingyi Zhou + Dequan Wang， https://github.com/xingyizhou/CenterNet Star:4.3K -->
 <!-- 2019-04， 郑哲东， CVPR2019（Oral） -->
 #### 2020-11
+- Long Range Arena: A Benchmark for Efficient Transformers [[arXiv](https://arxiv.org/abs/2011.04006)] [[Code](https://github.com/google-research/long-range-arena)]
 - Learning Latent Representations to Influence Multi-Agent Interaction [[arXiv](https://arxiv.org/abs/2011.06619)]
 
 #### 2020-10
