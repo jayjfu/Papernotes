@@ -3,6 +3,8 @@
 <!-- 2020-04， Xingyi Zhou + Dequan Wang， https://github.com/xingyizhou/CenterNet Star:4.3K -->
 <!-- 2019-04， 郑哲东， CVPR2019（Oral） -->
 #### 2020-11
+- Topology of Word Embeddings: Singularities Reflect Polysemy [[arXiv](https://arxiv.org/abs/2011.09413)]
+- Language Model is All You Need: Natural Language Understanding as Question Answering [[arXiv](https://arxiv.org/abs/2011.03023)]
 - Ridge Rider: Finding Diverse Solutions by Following Eigenvectors of the Hessian [[arXiv](https://arxiv.org/abs/2011.06505)]
 - FROST: Faster and more Robust One-shot Semi-supervised Training [[arXiv](https://arxiv.org/abs/2011.09471)] [[Code](https://github.com/HelenaELiu/FROST)]
 - Teaching with Commentaries [[arXiv](https://arxiv.org/abs/2011.03037)]
