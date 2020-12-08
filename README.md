@@ -3,6 +3,10 @@
 <!-- 2020-04， Xingyi Zhou + Dequan Wang， https://github.com/xingyizhou/CenterNet Star:4.3K -->
 <!-- 2019-04， 郑哲东， CVPR2019（Oral） -->
 #### 2020-11
+- Ridge Rider: Finding Diverse Solutions by Following Eigenvectors of the Hessian [[arXiv](https://arxiv.org/abs/2011.06505)]
+- FROST: Faster and more Robust One-shot Semi-supervised Training [[arXiv](https://arxiv.org/abs/2011.09471)] [[Code](https://github.com/HelenaELiu/FROST)]
+- Teaching with Commentaries [[arXiv](https://arxiv.org/abs/2011.03037)]
+- Propagate Yourself: Exploring Pixel-Level Consistency for Unsupervised Visual Representation Learning [[arXiv](https://arxiv.org/abs/2011.10043)]
 - A Review of Uncertainty Quantification in Deep Learning: Techniques, Applications and Challenges [[arXiv](https://arxiv.org/abs/2011.06225)]
 - Intriguing Properties of Contrastive Losses [[arXiv](https://arxiv.org/abs/2011.02803)] [[Code](https://github.com/google-research/simclr/tree/master/colabs/intriguing_properties)]
 - Exploring Simple Siamese Representation Learning [[arXiv](https://arxiv.org/abs/2011.10566)]
