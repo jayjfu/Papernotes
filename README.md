@@ -2,6 +2,11 @@
 <!-- 2020-ACL, FNLP: Ming Zhong + Danqing Wang + Zhan Shi + Xiaonan Li -->
 <!-- 2020-04， Xingyi Zhou + Dequan Wang， https://github.com/xingyizhou/CenterNet Star:4.3K -->
 <!-- 2019-04， 郑哲东， CVPR2019（Oral） -->
+#### NIPS-20
+- Improved guarantees and a multiple-descent curve for Column Subset Selection and the Nyström method [[arXiv](https://arxiv.org/abs/2002.09073)]
+- No-Regret Learning Dynamics for Extensive-Form Correlated Equilibrium [[arXiv](https://arxiv.org/abs/2004.00603)]
+- Language Models are Few-Shot Learners [[arXiv](https://arxiv.org/abs/2005.14165)]
+
 #### 2020-11
 - Topology of Word Embeddings: Singularities Reflect Polysemy [[arXiv](https://arxiv.org/abs/2011.09413)]
 - Language Model is All You Need: Natural Language Understanding as Question Answering [[arXiv](https://arxiv.org/abs/2011.03023)]
