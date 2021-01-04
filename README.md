@@ -2,6 +2,12 @@
 <!-- 2020-ACL, FNLP: Ming Zhong + Danqing Wang + Zhan Shi + Xiaonan Li -->
 <!-- 2020-04， Xingyi Zhou + Dequan Wang， https://github.com/xingyizhou/CenterNet Star:4.3K -->
 <!-- 2019-04， 郑哲东， CVPR2019（Oral） -->
+#### 2020-12
+- Deep Learning-Based Human Pose Estimation: A Survey [[arXiv](https://arxiv.org/abs/2012.13392)] [[Code](https://github.com/zczcwh/DL-HPE)]
+- Global Context Networks [[arXiv](https://arxiv.org/abs/2012.13375)] [[Code](https://github.com/xvjiarui/GCNet)]
+- RealFormer: Transformer Likes Residual Attention [[arXiv](https://arxiv.org/abs/2012.11747)]
+- Point Transformer [[arXiv](https://arxiv.org/abs/2012.09164)]
+
 #### NIPS-20
 - Improved guarantees and a multiple-descent curve for Column Subset Selection and the Nyström method [[arXiv](https://arxiv.org/abs/2002.09073)]
 - No-Regret Learning Dynamics for Extensive-Form Correlated Equilibrium [[arXiv](https://arxiv.org/abs/2004.00603)]
