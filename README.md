@@ -3,6 +3,7 @@
 <!-- 2020-04， Xingyi Zhou + Dequan Wang， https://github.com/xingyizhou/CenterNet Star:4.3K -->
 <!-- 2019-04， 郑哲东， CVPR2019（Oral） -->
 #### 2020-12
+- Training data-efficient image transformers & distillation through attention [[arXiv](https://arxiv.org/abs/2012.12877)] [[Code](https://github.com/facebookresearch/deit)]
 - Deep Learning-Based Human Pose Estimation: A Survey [[arXiv](https://arxiv.org/abs/2012.13392)] [[Code](https://github.com/zczcwh/DL-HPE)]
 - Global Context Networks [[arXiv](https://arxiv.org/abs/2012.13375)] [[Code](https://github.com/xvjiarui/GCNet)]
 - RealFormer: Transformer Likes Residual Attention [[arXiv](https://arxiv.org/abs/2012.11747)]
