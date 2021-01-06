@@ -441,6 +441,7 @@
 - Learning Longer-term Dependencies in RNNs with Auxiliary Losses [[arXiv](https://arxiv.org/abs/1803.00144)]
 
 #### 2018-02
+- Aspect-Aware Latent Factor Model: Rating Prediction with Ratings and Reviews [[arXiv](https://arxiv.org/abs/1802.07938)] [[Code](https://github.com/guoyang9/A3NCF)]
 - Regularized Evolution for Image Classifier Architecture Search [[arXiv](https://arxiv.org/abs/1802.01548)]
 - Visual Interpretability for Deep Learning: a Survey [[arXiv](https://arxiv.org/abs/1802.00614)]
 - Deep contextualized word representation [[arXiv](https://arxiv.org/abs/1802.05365)]
