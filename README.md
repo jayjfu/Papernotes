@@ -544,6 +544,7 @@
 - Learned in Translation: Contextualized Word Vectors [[arXiv](https://arxiv.org/abs/1708.00107)] [[Code](https://github.com/salesforce/cove)]
 
 #### 2017-08
+- Neural Collaborative Filtering [[arXiv](https://arxiv.org/abs/1708.05031)] [[Code](https://github.com/guoyang9/NCF)]
 - Focal Loss for Dense Object Detection [[arXiv](https://arxiv.org/abs/1708.02002)]
 - Tips and Tricks for Visual Question Answering: Learnings from the 2017 Challenge [[arXiv](https://arxiv.org/abs/1708.02711)] [[Code](https://github.com/hengyuan-hu/bottom-up-attention-vqa)]
 
