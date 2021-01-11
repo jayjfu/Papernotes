@@ -2,6 +2,9 @@
 <!-- 2020-ACL, FNLP: Ming Zhong + Danqing Wang + Zhan Shi + Xiaonan Li -->
 <!-- 2020-04， Xingyi Zhou + Dequan Wang， https://github.com/xingyizhou/CenterNet Star:4.3K -->
 <!-- 2019-04， 郑哲东， CVPR2019（Oral） -->
+#### 2021-01
+- AutoDropout: Learning Dropout Patterns to Regularize Deep Networks [[arXiv](https://arxiv.org/abs/2101.01761)]
+
 #### 2020-12
 - Training data-efficient image transformers & distillation through attention [[arXiv](https://arxiv.org/abs/2012.12877)] [[Code](https://github.com/facebookresearch/deit)]
 - Deep Learning-Based Human Pose Estimation: A Survey [[arXiv](https://arxiv.org/abs/2012.13392)] [[Code](https://github.com/zczcwh/DL-HPE)]
