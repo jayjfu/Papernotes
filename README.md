@@ -3,6 +3,7 @@
 <!-- 2020-04， Xingyi Zhou + Dequan Wang， https://github.com/xingyizhou/CenterNet Star:4.3K -->
 <!-- 2019-04， 郑哲东， CVPR2019（Oral） -->
 #### 2021-01
+- Switch Transformers: Scaling to Trillion Parameter Models with Simple and Efficient Sparsity [[arXiv](https://arxiv.org/abs/2101.03961)] [[Code](https://github.com/tensorflow/mesh/blob/master/mesh_tensorflow/transformer/moe.py)]
 - AutoDropout: Learning Dropout Patterns to Regularize Deep Networks [[arXiv](https://arxiv.org/abs/2101.01761)]
 
 #### 2020-12
