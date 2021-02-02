@@ -3,6 +3,8 @@
 <!-- 2020-04， Xingyi Zhou + Dequan Wang， https://github.com/xingyizhou/CenterNet Star:4.3K -->
 <!-- 2019-04， 郑哲东， CVPR2019（Oral） -->
 #### 2021-01
+- Trankit: A Light-Weight Transformer-based Toolkit for Multilingual Natural Language Processing [[arXiv](https://arxiv.org/abs/2101.03289)] [[Code](https://github.com/nlp-uoregon/trankit)]
+- On the Calibration and Uncertainty of Neural Learning to Rank Models [[arXiv](https://arxiv.org/abs/2101.04356)] [[Code](https://github.com/Guzpenha/transformer_rankers/tree/uncertainty_estimation)]
 - Switch Transformers: Scaling to Trillion Parameter Models with Simple and Efficient Sparsity [[arXiv](https://arxiv.org/abs/2101.03961)] [[Code](https://github.com/tensorflow/mesh/blob/master/mesh_tensorflow/transformer/moe.py)]
 - AutoDropout: Learning Dropout Patterns to Regularize Deep Networks [[arXiv](https://arxiv.org/abs/2101.01761)]
 
