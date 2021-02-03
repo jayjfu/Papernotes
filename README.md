@@ -334,6 +334,7 @@
 - Gradient Descent Provably Optimizes Over-parameterized Neural Networks [[arXiv](https://arxiv.org/abs/1810.02054)]
 
 #### 2018-09
+- Deep Interest Evolution Network for Click-Through Rate Prediction [[arXiv](https://arxiv.org/abs/1809.03672)]
 - Multi-Source Domain Adaptation with Mixture of Experts [[arXiv](https://arxiv.org/abs/1809.02256)][[Code](https://github.com/jiangfeng1124/transfer)]
 - Uncovering divergent linguistic information in word embeddings with lessons for intrinsic and extrinsic evaluation [[arXiv](https://arxiv.org/abs/1809.02094)] [[Code](https://github.com/artetxem/uncovec)]
 - Sparse Attentive Backtracking: Temporal CreditAssignment Through Reminding [[arXiv](https://arxiv.org/abs/1809.03702)]
@@ -559,6 +560,7 @@
 - Bottom-Up and Top-Down Attention for Image Captioning and Visual Question Answering [[arXiv](https://arxiv.org/abs/1707.07998)] [[Code](https://github.com/hengyuan-hu/bottom-up-attention-vqa)]
 
 #### 2017-06
+- Deep Interest Network for Click-Through Rate Prediction [[arXiv](https://arxiv.org/abs/1706.06978)]
 - Self-Normalizing Neural Networks [[arXiv](https://arxiv.org/abs/1706.02515)]
 - One Model To Learn Them All [[arXiv](https://arxiv.org/abs/1706.05137)] [[Code](https://github.com/tensorflow/tensor2tensor)]
 - Attention Is All You Need [[arXiv](https://arxiv.org/abs/1706.03762)] [[Code](https://github.com/tensorflow/tensor2tensor)]
