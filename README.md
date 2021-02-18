@@ -2,6 +2,9 @@
 <!-- 2020-ACL, FNLP: Ming Zhong + Danqing Wang + Zhan Shi + Xiaonan Li -->
 <!-- 2020-04， Xingyi Zhou + Dequan Wang， https://github.com/xingyizhou/CenterNet Star:4.3K -->
 <!-- 2019-04， 郑哲东， CVPR2019（Oral） -->
+#### 2021-02
+- High-Performance Large-Scale Image Recognition Without Normalization [[arXiv](https://arxiv.org/abs/2102.06171)] [[Code](https://github.com/deepmind/deepmind-research/tree/master/nfnets)]
+
 #### 2021-01
 - Trankit: A Light-Weight Transformer-based Toolkit for Multilingual Natural Language Processing [[arXiv](https://arxiv.org/abs/2101.03289)] [[Code](https://github.com/nlp-uoregon/trankit)]
 - On the Calibration and Uncertainty of Neural Learning to Rank Models [[arXiv](https://arxiv.org/abs/2101.04356)] [[Code](https://github.com/Guzpenha/transformer_rankers/tree/uncertainty_estimation)]
