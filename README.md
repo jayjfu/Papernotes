@@ -3,6 +3,10 @@
 <!-- 2020-04， Xingyi Zhou + Dequan Wang， https://github.com/xingyizhou/CenterNet Star:4.3K -->
 <!-- 2019-04， 郑哲东， CVPR2019（Oral） -->
 #### 2021-02
+- Adaptive Semiparametric Language Models [[arXiv](https://arxiv.org/abs/2102.02557)]
+- Transformer is All You Need: Multimodal Multitask Learning with a Unified Transformer [[arXiv](https://arxiv.org/abs/2102.10772)]
+- Towards Causal Representation Learning [[arXiv](https://arxiv.org/abs/2102.11107)]
+- Zero-Shot Text-to-Image Generation [[arXiv](https://arxiv.org/abs/2102.12092)]
 - High-Performance Large-Scale Image Recognition Without Normalization [[arXiv](https://arxiv.org/abs/2102.06171)] [[Code](https://github.com/deepmind/deepmind-research/tree/master/nfnets)]
 
 #### 2021-01
