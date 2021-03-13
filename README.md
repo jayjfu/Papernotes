@@ -3,9 +3,12 @@
 <!-- 2020-04， Xingyi Zhou + Dequan Wang， https://github.com/xingyizhou/CenterNet Star:4.3K -->
 <!-- 2019-04， 郑哲东， CVPR2019（Oral） -->
 #### 2021-03
+- Coordination Among Neural Modules Through a Shared Global Workspace [[arXiv](https://arxiv.org/abs/2103.01197)]
+- Transformers with Competitive Ensembles of Independent Mechanisms [[arXiv](https://arxiv.org/abs/2103.00336)]
 - Self-supervised Pretraining of Visual Features in the Wild [[arXiv](https://arxiv.org/abs/2103.01988)]
 
 #### 2021-02
+- Do Transformer Modifications Transfer Across Implementations and Applications? [[arXiv](https://arxiv.org/abs/2102.11972)]
 - Adaptive Semiparametric Language Models [[arXiv](https://arxiv.org/abs/2102.02557)]
 - Transformer is All You Need: Multimodal Multitask Learning with a Unified Transformer [[arXiv](https://arxiv.org/abs/2102.10772)]
 - Towards Causal Representation Learning [[arXiv](https://arxiv.org/abs/2102.11107)]
