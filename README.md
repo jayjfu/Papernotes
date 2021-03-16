@@ -3,6 +3,8 @@
 <!-- 2020-04， Xingyi Zhou + Dequan Wang， https://github.com/xingyizhou/CenterNet Star:4.3K -->
 <!-- 2019-04， 郑哲东， CVPR2019（Oral） -->
 #### 2021-03
+- Deep Generative Modelling: A Comparative Review of VAEs, GANs, Normalizing Flows, Energy-Based and Autoregressive Models [[arXiv](https://arxiv.org/abs/2103.04922)]
+- Generating Images with Sparse Representations [[arXiv](https://arxiv.org/abs/2103.03841)]
 - Attention is Not All You Need: Pure Attention Loses Rank Doubly Exponentially with Depth [[arXiv](https://arxiv.org/abs/2103.03404)] [[Code](https://github.com/twistedcubic/attention-rank-collapse)]
 - Coordination Among Neural Modules Through a Shared Global Workspace [[arXiv](https://arxiv.org/abs/2103.01197)]
 - Transformers with Competitive Ensembles of Independent Mechanisms [[arXiv](https://arxiv.org/abs/2103.00336)]
