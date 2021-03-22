@@ -3,6 +3,7 @@
 <!-- 2020-04， Xingyi Zhou + Dequan Wang， https://github.com/xingyizhou/CenterNet Star:4.3K -->
 <!-- 2019-04， 郑哲东， CVPR2019（Oral） -->
 #### 2021-03
+- Generative Adversarial Transformers [[arXiv](https://arxiv.org/abs/2103.01209)] [[Code](https://github.com/dorarad/gansformer)]
 - Deep Generative Modelling: A Comparative Review of VAEs, GANs, Normalizing Flows, Energy-Based and Autoregressive Models [[arXiv](https://arxiv.org/abs/2103.04922)]
 - Generating Images with Sparse Representations [[arXiv](https://arxiv.org/abs/2103.03841)]
 - Attention is Not All You Need: Pure Attention Loses Rank Doubly Exponentially with Depth [[arXiv](https://arxiv.org/abs/2103.03404)] [[Code](https://github.com/twistedcubic/attention-rank-collapse)]
@@ -11,6 +12,7 @@
 - Self-supervised Pretraining of Visual Features in the Wild [[arXiv](https://arxiv.org/abs/2103.01988)]
 
 #### 2021-02
+- LambdaNetworks: Modeling Long-Range Interactions Without Attention [[arXiv](https://arxiv.org/abs/2102.08602)]
 - Do Transformer Modifications Transfer Across Implementations and Applications? [[arXiv](https://arxiv.org/abs/2102.11972)]
 - Adaptive Semiparametric Language Models [[arXiv](https://arxiv.org/abs/2102.02557)]
 - Transformer is All You Need: Multimodal Multitask Learning with a Unified Transformer [[arXiv](https://arxiv.org/abs/2102.10772)]
