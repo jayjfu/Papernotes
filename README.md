@@ -4,7 +4,6 @@
 <!-- 2019-04， 郑哲东， CVPR2019（Oral） -->
 #### 2021-03
 - Pretrained Transformers as Universal Computation Engines [[arXiv](https://arxiv.org/abs/2103.05247)] [[Code](https://github.com/kzl/universal-computation)]
-- Deep Generative Modelling: A Comparative Review of VAEs, GANs, Normalizing Flows, Energy-Based and Autoregressive Models [[arXiv](https://arxiv.org/abs/2103.04922)]
 - Generative Adversarial Transformers [[arXiv](https://arxiv.org/abs/2103.01209)] [[Code](https://github.com/dorarad/gansformer)]
 - Deep Generative Modelling: A Comparative Review of VAEs, GANs, Normalizing Flows, Energy-Based and Autoregressive Models [[arXiv](https://arxiv.org/abs/2103.04922)]
 - Generating Images with Sparse Representations [[arXiv](https://arxiv.org/abs/2103.03841)]
@@ -15,7 +14,7 @@
 
 #### 2021-02
 - LambdaNetworks: Modeling Long-Range Interactions Without Attention [[arXiv](https://arxiv.org/abs/2102.08602)]
-- Do Transformer Modifications Transfer Across Implementations and Applications? [[arXiv](https://arxiv.org/abs/2102.11972)]
+- Do Transformer Modifications Transfer Across Implementations and Applications? [[arXiv](https://arxiv.org/abs/2102.11972)] [[Code](https://github.com/google-research/google-research/tree/master/transformer_modifications)]
 - Adaptive Semiparametric Language Models [[arXiv](https://arxiv.org/abs/2102.02557)]
 - Transformer is All You Need: Multimodal Multitask Learning with a Unified Transformer [[arXiv](https://arxiv.org/abs/2102.10772)]
 - Towards Causal Representation Learning [[arXiv](https://arxiv.org/abs/2102.11107)]
