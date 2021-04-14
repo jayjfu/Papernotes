@@ -7,6 +7,8 @@
 - EfficientNetV2: Smaller Models and Faster Training [[arXiv](https://arxiv.org/abs/2104.00298)] [[Code](https://github.com/google/automl/efficientnetv2)]
 
 #### 2021-03
+- Deep learning: a statistical viewpoint [[arXiv](https://arxiv.org/abs/2103.09177)]
+- CvT: Introducing Convolutions to Vision Transformers [[arXiv](https://arxiv.org/abs/2103.15808)] [[Code](https://github.com/leoxiaobin/CvT)]
 - Vision Transformers for Dense Prediction [[arXiv](https://arxiv.org/abs/2103.13413)] [[Code](https://github.com/intel-isl/DPT)]
 - Swin Transformer: Hierarchical Vision Transformer using Shifted Windows [[arXiv](https://arxiv.org/abs/2103.14030)] [[Code](https://github.com/microsoft/Swin-Transformer)]
 - Revisiting ResNets: Improved Training and Scaling Strategies [[arXiv](https://arxiv.org/abs/2103.07579)]
