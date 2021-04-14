@@ -2,7 +2,13 @@
 <!-- 2020-ACL, FNLP: Ming Zhong + Danqing Wang + Zhan Shi + Xiaonan Li -->
 <!-- 2020-04， Xingyi Zhou + Dequan Wang， https://github.com/xingyizhou/CenterNet Star:4.3K -->
 <!-- 2019-04， 郑哲东， CVPR2019（Oral） -->
+#### 2021-04
+- An Empirical Study of Training Self-Supervised Vision Transformers [[arXiv](https://arxiv.org/abs/2104.02057)]
+- EfficientNetV2: Smaller Models and Faster Training [[arXiv](https://arxiv.org/abs/2104.00298)] [[Code](https://github.com/google/automl/efficientnetv2)]
+
 #### 2021-03
+- Vision Transformers for Dense Prediction [[arXiv](https://arxiv.org/abs/2103.13413)] [[Code](https://github.com/intel-isl/DPT)]
+- Swin Transformer: Hierarchical Vision Transformer using Shifted Windows [[arXiv](https://arxiv.org/abs/2103.14030)] [[Code](https://github.com/microsoft/Swin-Transformer)]
 - Revisiting ResNets: Improved Training and Scaling Strategies [[arXiv](https://arxiv.org/abs/2103.07579)]
 - OmniNet: Omnidirectional Representations from Transformers [[arXiv](https://arxiv.org/abs/2103.01075)]
 - Pretrained Transformers as Universal Computation Engines [[arXiv](https://arxiv.org/abs/2103.05247)] [[Code](https://github.com/kzl/universal-computation)]
