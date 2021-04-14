@@ -3,10 +3,12 @@
 <!-- 2020-04， Xingyi Zhou + Dequan Wang， https://github.com/xingyizhou/CenterNet Star:4.3K -->
 <!-- 2019-04， 郑哲东， CVPR2019（Oral） -->
 #### 2021-04
+- Is Label Smoothing Truly Incompatible with Knowledge Distillation: An Empirical Study [[arXiv](https://arxiv.org/abs/2104.00676)]
 - An Empirical Study of Training Self-Supervised Vision Transformers [[arXiv](https://arxiv.org/abs/2104.02057)]
 - EfficientNetV2: Smaller Models and Faster Training [[arXiv](https://arxiv.org/abs/2104.00298)] [[Code](https://github.com/google/automl/efficientnetv2)]
 
 #### 2021-03
+- StyleCLIP: Text-Driven Manipulation of StyleGAN Imagery [[arXiv](https://arxiv.org/abs/2103.17249)] [[Code](https://github.com/orpatashnik/StyleCLIP)]
 - Deep learning: a statistical viewpoint [[arXiv](https://arxiv.org/abs/2103.09177)]
 - CvT: Introducing Convolutions to Vision Transformers [[arXiv](https://arxiv.org/abs/2103.15808)] [[Code](https://github.com/leoxiaobin/CvT)]
 - Vision Transformers for Dense Prediction [[arXiv](https://arxiv.org/abs/2103.13413)] [[Code](https://github.com/intel-isl/DPT)]
