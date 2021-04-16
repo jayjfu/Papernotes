@@ -60,6 +60,7 @@
 - No-Regret Learning Dynamics for Extensive-Form Correlated Equilibrium [[arXiv](https://arxiv.org/abs/2004.00603)]
 
 #### 2020-11
+- FP-NAS: Fast Probabilistic Neural Architecture Search [[arXiv](https://arxiv.org/abs/2011.10949)]
 - Topology of Word Embeddings: Singularities Reflect Polysemy [[arXiv](https://arxiv.org/abs/2011.09413)]
 - Language Model is All You Need: Natural Language Understanding as Question Answering [[arXiv](https://arxiv.org/abs/2011.03023)]
 - Ridge Rider: Finding Diverse Solutions by Following Eigenvectors of the Hessian [[arXiv](https://arxiv.org/abs/2011.06505)]
