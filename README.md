@@ -8,6 +8,7 @@
 - EfficientNetV2: Smaller Models and Faster Training [[arXiv](https://arxiv.org/abs/2104.00298)] [[Code](https://github.com/google/automl/efficientnetv2)]
 
 #### 2021-03
+- GPT Understands, Too [[arXiv](https://arxiv.org/abs/2103.10385)] [[Code](https://github.com/THUDM/P-tuning)]
 - StyleCLIP: Text-Driven Manipulation of StyleGAN Imagery [[arXiv](https://arxiv.org/abs/2103.17249)] [[Code](https://github.com/orpatashnik/StyleCLIP)]
 - Deep learning: a statistical viewpoint [[arXiv](https://arxiv.org/abs/2103.09177)]
 - CvT: Introducing Convolutions to Vision Transformers [[arXiv](https://arxiv.org/abs/2103.15808)] [[Code](https://github.com/leoxiaobin/CvT)]
@@ -23,6 +24,11 @@
 - Coordination Among Neural Modules Through a Shared Global Workspace [[arXiv](https://arxiv.org/abs/2103.01197)]
 - Transformers with Competitive Ensembles of Independent Mechanisms [[arXiv](https://arxiv.org/abs/2103.00336)]
 - Self-supervised Pretraining of Visual Features in the Wild [[arXiv](https://arxiv.org/abs/2103.01988)] [[Code](https://github.com/facebookresearch/vissl)]
+
+#### ICLR-21
+- Score-Based Generative Modeling through Stochastic Differential Equations [[arXiv](https://arxiv.org/abs/2011.13456)]
+- Optimal Rates for Averaged Stochastic Gradient Descent under Neural Tangent Kernel Regime [[arXiv](https://arxiv.org/abs/2006.12297)]
+- Complex Query Answering with Neural Link Predictors [[arXiv](https://arxiv.org/abs/2011.03459)]
 
 #### 2021-02
 - Linear Transformers Are Secretly Fast Weight Memory Systems [[arXiv](https://arxiv.org/abs/2102.11174)] [[Code](https://github.com/ischlag/fast-weight-transformers)]
