@@ -278,6 +278,7 @@
 - MASS: Masked Sequence to Sequence Pre-training for Language Generation [[arXiv](https://arxiv.org/abs/1905.02450)] [[Code]()]
 
 #### 2019-05
+- Deep Session Interest Network for Click-Through Rate Prediction [[arXiv](https://arxiv.org/abs/1905.06482)] [[Code](https://github.com/shenweichen/DSIN)]
 - MixMatch: A Holistic Approach to Semi-Supervised Learning [[arXiv](https://arxiv.org/abs/1905.02249)] [[Code](https://github.com/google-research/mixmatch)]
 - An Explicitly Relational Neural Network Architecture [[arXiv](https://arxiv.org/abs/1905.10307)]
 - A Survey on Neural Architecture Search [[arXiv](https://arxiv.org/abs/1905.01392)]
@@ -287,6 +288,7 @@
 - Adversarial Examples Are Not Bugs, They Are Features [[arXiv](https://arxiv.org/abs/1905.02175)]
 
 #### 2019-04
+- Multi-Interest Network with Dynamic Routing for Recommendation at Tmall [[arXiv](https://arxiv.org/abs/1904.08030)]
 - Unsupervised Data Augmentation [[arXiv](https://arxiv.org/abs/1904.12848)] [[Code](https://github.com/google-research/uda)]
 - A Closer Look at Few-shot Classification [[arXiv](https://arxiv.org/abs/1904.04232)] [[Code](https://github.com/wyharveychen/CloserLookFewShot)]
 - Attention Augmented Convolutional Networks [[arXiv](https://arxiv.org/abs/1904.09925)]
