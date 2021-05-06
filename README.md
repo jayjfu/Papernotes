@@ -4,6 +4,11 @@
 <!-- 2020-04， Xingyi Zhou + Dequan Wang， https://github.com/xingyizhou/CenterNet Star:4.3K -->
 <!-- 2019-04， 郑哲东， CVPR2019（Oral） -->
 #### 2021-04
+- Generating Datasets with Pretrained Language Models [[arXiv](https://arxiv.org/abs/2104.07540)] [[Code](https://github.com/timoschick/dino)]
+- Retrieval Augmentation Reduces Hallucination in Conversation [[arXiv](https://arxiv.org/abs/2104.07567)] 
+- Is Your Language Model Ready for Dense Representation Fine-tuning? [[arXiv](https://arxiv.org/abs/2104.08253)] [[Code](https://github.com/luyug/Condenser)]
+- On the Inductive Bias of Masked Language Modeling: From Statistical to Syntactic Dependencies [[arXiv](https://arxiv.org/abs/2104.05694)]
+- Multiscale Vision Transformers [[arXiv](https://arxiv.org/abs/2104.11227)] [[Code](https://github.com/facebookresearch/SlowFast)]
 - Is Label Smoothing Truly Incompatible with Knowledge Distillation: An Empirical Study [[arXiv](https://arxiv.org/abs/2104.00676)]
 - An Empirical Study of Training Self-Supervised Vision Transformers [[arXiv](https://arxiv.org/abs/2104.02057)]
 - EfficientNetV2: Smaller Models and Faster Training [[arXiv](https://arxiv.org/abs/2104.00298)] [[Code](https://github.com/google/automl/efficientnetv2)]
