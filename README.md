@@ -3,6 +3,9 @@
 <!-- 2020-ACL, FNLP: Ming Zhong + Danqing Wang + Zhan Shi + Xiaonan Li -->
 <!-- 2020-04， Xingyi Zhou + Dequan Wang， https://github.com/xingyizhou/CenterNet Star:4.3K -->
 <!-- 2019-04， 郑哲东， CVPR2019（Oral） -->
+#### 2021-05
+- FNet: Mixing Tokens with Fourier Transforms [[arXiv](https://arxiv.org/abs/2105.03824)]
+
 #### 2021-04
 - Generating Datasets with Pretrained Language Models [[arXiv](https://arxiv.org/abs/2104.07540)] [[Code](https://github.com/timoschick/dino)]
 - Retrieval Augmentation Reduces Hallucination in Conversation [[arXiv](https://arxiv.org/abs/2104.07567)] 
