@@ -4,6 +4,7 @@
 <!-- 2020-04， Xingyi Zhou + Dequan Wang， https://github.com/xingyizhou/CenterNet Star:4.3K -->
 <!-- 2019-04， 郑哲东， CVPR2019（Oral） -->
 #### 2021-05
+- Pay Attention to MLPs [[arXiv](https://arxiv.org/abs/2105.08050)]
 - FNet: Mixing Tokens with Fourier Transforms [[arXiv](https://arxiv.org/abs/2105.03824)]
 
 #### 2021-04
