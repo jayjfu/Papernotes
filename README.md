@@ -5,7 +5,7 @@
 <!-- 2020-04， Xingyi Zhou + Dequan Wang， https://github.com/xingyizhou/CenterNet Star:4.3K -->
 <!-- 2019-04， 郑哲东， CVPR2019（Oral） -->
 #### 2021-05
-- Diffusion Models Beat GANs on Image Synthesis [[arXiv](Diffusion Models Beat GANs on Image Synthesis)] [[Code](https://arxiv.org/abs/2105.05233)]
+- Diffusion Models Beat GANs on Image Synthesis [[arXiv](https://arxiv.org/abs/2105.05233)] [[Code](https://arxiv.org/abs/2105.05233)]
 - The Modern Mathematics of Deep Learning [[arXiv](https://arxiv.org/abs/2105.04026)]
 - Pay Attention to MLPs [[arXiv](https://arxiv.org/abs/2105.08050)]
 - FNet: Mixing Tokens with Fourier Transforms [[arXiv](https://arxiv.org/abs/2105.03824)]
