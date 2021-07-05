@@ -4,6 +4,8 @@
 <!-- 2020-ACL, FNLP: Ming Zhong + Danqing Wang + Zhan Shi + Xiaonan Li -->
 <!-- 2020-04， Xingyi Zhou + Dequan Wang， https://github.com/xingyizhou/CenterNet Star:4.3K -->
 <!-- 2019-04， 郑哲东， CVPR2019（Oral） -->
+#### 2021-06
+- Scaling Vision Transformers [[arXiv](https://arxiv.org/abs/2106.04560)]
 #### 2021-05
 - Are Larger Pretrained Language Models Uniformly Better? Comparing Performance at the Instance Level [[arXiv](https://arxiv.org/abs/2105.06020)] [[Code](https://github.com/ruiqi-zhong/acl2021-instance-level)]
 - Aggregating Nested Transformers [[arXiv](https://arxiv.org/abs/2105.12723)]
