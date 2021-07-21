@@ -5,7 +5,12 @@
 <!-- 2020-04， Xingyi Zhou + Dequan Wang， https://github.com/xingyizhou/CenterNet Star:4.3K -->
 <!-- 2019-04， 郑哲东， CVPR2019（Oral） -->
 #### 2021-06
+- How to train your ViT? Data, Augmentation, and Regularization in Vision Transformers [[arXiv](https://arxiv.org/abs/2106.10270)]
+- SCARF: Self-Supervised Contrastive Learning using Random Feature Corruption [[arXiv](https://arxiv.org/abs/2106.15147)]
+- Early Convolutions Help Transformers See Better [[arXiv](https://arxiv.org/abs/2106.14881)]
+- Regularization is all you Need: Simple Neural Nets can Excel on Tabular Data [[arXiv](https://arxiv.org/abs/2106.11189)]
 - Scaling Vision Transformers [[arXiv](https://arxiv.org/abs/2106.04560)]
+
 #### 2021-05
 - Are Larger Pretrained Language Models Uniformly Better? Comparing Performance at the Instance Level [[arXiv](https://arxiv.org/abs/2105.06020)] [[Code](https://github.com/ruiqi-zhong/acl2021-instance-level)]
 - Aggregating Nested Transformers [[arXiv](https://arxiv.org/abs/2105.12723)]
