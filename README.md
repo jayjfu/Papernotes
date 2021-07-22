@@ -5,6 +5,8 @@
 <!-- 2020-04， Xingyi Zhou + Dequan Wang， https://github.com/xingyizhou/CenterNet Star:4.3K -->
 <!-- 2019-04， 郑哲东， CVPR2019（Oral） -->
 #### 2021-06
+- A Survey of Transformers [[arXiv](https://arxiv.org/abs/2106.04554)]
+- The Principles of Deep Learning Theory [[arXiv](https://arxiv.org/abs/2106.10165)]
 - How to train your ViT? Data, Augmentation, and Regularization in Vision Transformers [[arXiv](https://arxiv.org/abs/2106.10270)]
 - SCARF: Self-Supervised Contrastive Learning using Random Feature Corruption [[arXiv](https://arxiv.org/abs/2106.15147)]
 - Early Convolutions Help Transformers See Better [[arXiv](https://arxiv.org/abs/2106.14881)]
