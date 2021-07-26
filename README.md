@@ -5,6 +5,11 @@
 <!-- 2020-04， Xingyi Zhou + Dequan Wang， https://github.com/xingyizhou/CenterNet Star:4.3K -->
 <!-- 2019-04， 郑哲东， CVPR2019（Oral） -->
 #### 2021-06
+- Towards Understanding and Mitigating Social Biases in Language Models [[arXiv](https://arxiv.org/abs/2106.13219)] [[Code](https://github.com/pliang279/LM_bias)]
+- Revisiting the Primacy of English in Zero-shot Cross-lingual Transfer [[arXiv](https://arxiv.org/abs/2106.16171)]
+- Parameter-efficient Multi-task Fine-tuning for Transformers via Shared Hypernetworks [[arXiv](https://arxiv.org/abs/2106.04489)] [[Code](https://github.com/rabeehk/hyperformer)]
+- Compacter: Efficient Low-Rank Hypercomplex Adapter Layers [[arXiv](https://arxiv.org/abs/2106.04647)] [[Code](https://github.com/rabeehk/compacter/)]
+- Charformer: Fast Character Transformers via Gradient-based Subword Tokenization [[arXiv](https://arxiv.org/abs/2106.12672)] [[Code](https://github.com/google-research/google-research/tree/master/charformer)]
 - A Survey of Transformers [[arXiv](https://arxiv.org/abs/2106.04554)]
 - The Principles of Deep Learning Theory [[arXiv](https://arxiv.org/abs/2106.10165)]
 - How to train your ViT? Data, Augmentation, and Regularization in Vision Transformers [[arXiv](https://arxiv.org/abs/2106.10270)]
