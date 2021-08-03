@@ -1,9 +1,15 @@
 # Papernotes
+<!-- 2021-07, Tianyang Lin, twitter -->
 <!-- 2021-04， Wentao Zhang, https://machinelearning.apple.com/updates/apple-scholars-aiml-2021 -->
 <!-- 2021-04， Xingyi Zhou, Facebook 2021 PhD Fellowship -->
 <!-- 2020-ACL, FNLP: Ming Zhong + Danqing Wang + Zhan Shi + Xiaonan Li -->
 <!-- 2020-04， Xingyi Zhou + Dequan Wang， https://github.com/xingyizhou/CenterNet Star:4.3K -->
 <!-- 2019-04， 郑哲东， CVPR2019（Oral） -->
+#### 2021-07
+- Combiner: Full Attention Transformer with Sparse Computation Cost [[arXiv](https://arxiv.org/abs/2107.05768)]
+- Long-Short Transformer: Efficient Transformers for Language and Vision [[arXiv](https://arxiv.org/abs/2107.02192)] [[Code](https://github.com/NVIDIA/transformer-ls)]
+- Per-Pixel Classification is Not All You Need for Semantic Segmentation [[arXiv](https://arxiv.org/abs/2107.06278)] [[Code](https://github.com/facebookresearch/MaskFormer)]
+
 #### 2021-06
 - Towards Understanding and Mitigating Social Biases in Language Models [[arXiv](https://arxiv.org/abs/2106.13219)] [[Code](https://github.com/pliang279/LM_bias)]
 - Revisiting the Primacy of English in Zero-shot Cross-lingual Transfer [[arXiv](https://arxiv.org/abs/2106.16171)]
