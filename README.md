@@ -11,6 +11,8 @@
 - Per-Pixel Classification is Not All You Need for Semantic Segmentation [[arXiv](https://arxiv.org/abs/2107.06278)] [[Code](https://github.com/facebookresearch/MaskFormer)]
 
 #### ICML-21
+- Understanding self-supervised Learning Dynamics without Contrastive Pairs [[arXiv](https://arxiv.org/abs/2102.06810)] [[Code](https://github.com/facebookresearch/luckmatters/tree/master/ssl)]
+- Oops I Took A Gradient: Scalable Sampling for Discrete Distributions [[arXiv](https://arxiv.org/abs/2102.04509)]
 - ConViT: Improving Vision Transformers with Soft Convolutional Inductive Biases [[arXiv](https://arxiv.org/abs/2103.10697)] [[Code](https://github.com/facebookresearch/convit)]
 
 #### 2021-06
