@@ -33,6 +33,7 @@
 - Scaling Vision Transformers [[arXiv](https://arxiv.org/abs/2106.04560)]
 
 #### 2021-05
+- ByT5: Towards a token-free future with pre-trained byte-to-byte models [[arXiv](https://arxiv.org/abs/2105.13626)] [[Code](https://github.com/google-research/byt5)]
 - Are Larger Pretrained Language Models Uniformly Better? Comparing Performance at the Instance Level [[arXiv](https://arxiv.org/abs/2105.06020)] [[Code](https://github.com/ruiqi-zhong/acl2021-instance-level)]
 - Aggregating Nested Transformers [[arXiv](https://arxiv.org/abs/2105.12723)]
 - Diffusion Models Beat GANs on Image Synthesis [[arXiv](https://arxiv.org/abs/2105.05233)] [[Code](https://arxiv.org/abs/2105.05233)]
