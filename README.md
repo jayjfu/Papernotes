@@ -5,6 +5,9 @@
 <!-- 2020-ACL, FNLP: Ming Zhong + Danqing Wang + Zhan Shi + Xiaonan Li -->
 <!-- 2020-04， Xingyi Zhou + Dequan Wang， https://github.com/xingyizhou/CenterNet Star:4.3K -->
 <!-- 2019-04， 郑哲东， CVPR2019（Oral） -->
+#### 2021-08
+- On the Opportunities and Risks of Foundation Models [[arXiv](https://arxiv.org/abs/2108.07258)]
+
 #### 2021-07
 - Combiner: Full Attention Transformer with Sparse Computation Cost [[arXiv](https://arxiv.org/abs/2107.05768)]
 - Long-Short Transformer: Efficient Transformers for Language and Vision [[arXiv](https://arxiv.org/abs/2107.02192)] [[Code](https://github.com/NVIDIA/transformer-ls)]
