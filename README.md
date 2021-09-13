@@ -6,6 +6,7 @@
 <!-- 2020-04， Xingyi Zhou + Dequan Wang， https://github.com/xingyizhou/CenterNet Star:4.3K -->
 <!-- 2019-04， 郑哲东， CVPR2019（Oral） -->
 #### 2021-08
+- Fastformer: Additive Attention Can Be All You Need [[arXiv](https://arxiv.org/abs/2108.09084)] [[Code](https://github.com/wuch15/Fastformer)]
 - On the Opportunities and Risks of Foundation Models [[arXiv](https://arxiv.org/abs/2108.07258)]
 
 #### 2021-07
