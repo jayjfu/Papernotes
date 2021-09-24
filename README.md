@@ -6,9 +6,11 @@
 <!-- 2020-04， Xingyi Zhou + Dequan Wang， https://github.com/xingyizhou/CenterNet Star:4.3K -->
 <!-- 2019-04， 郑哲东， CVPR2019（Oral） -->
 #### 2021-09
+- Finetuned Language Models Are Zero-Shot Learners [[arXiv](https://arxiv.org/abs/2109.01652)]
 - ∞-former: Infinite Memory Transformer [[arXiv](https://arxiv.org/abs/2109.00301)]
 
 #### 2021-08
+- Multi-Task Self-Training for Learning General Representations [[arXiv](https://arxiv.org/abs/2108.11353)]
 - Fastformer: Additive Attention Can Be All You Need [[arXiv](https://arxiv.org/abs/2108.09084)] [[Code](https://github.com/wuch15/Fastformer)]
 - On the Opportunities and Risks of Foundation Models [[arXiv](https://arxiv.org/abs/2108.07258)]
 
