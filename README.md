@@ -5,6 +5,11 @@
 <!-- 2020-ACL, FNLP: Ming Zhong + Danqing Wang + Zhan Shi + Xiaonan Li -->
 <!-- 2020-04， Xingyi Zhou + Dequan Wang， https://github.com/xingyizhou/CenterNet Star:4.3K -->
 <!-- 2019-04， 郑哲东， CVPR2019（Oral） -->
+#### 2021-10
+- Understanding How Encoder-Decoder Architectures Attend [[arXiv](https://arxiv.org/abs/2110.15253)]
+- ADOP: Approximate Differentiable One-Pixel Point Rendering [[arXiv](https://arxiv.org/abs/2110.06635)] [[Code](https://github.com/darglein/ADOP)]
+- Learning in High Dimension Always Amounts to Extrapolation [[arXiv](https://arxiv.org/abs/2110.09485)]
+
 #### 2021-09
 - Primer: Searching for Efficient Transformers for Language Modeling [[arXiv](https://arxiv.org/abs/2109.08668)] [[Code](https://github.com/google-research/google-research/tree/master/primer)]
 - Datasets: A Community Library for Natural Language Processing [[arXiv](https://arxiv.org/abs/2109.02846)] [[Code](https://github.com/huggingface/datasets)]
