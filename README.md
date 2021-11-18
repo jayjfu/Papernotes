@@ -9,6 +9,7 @@
 - Projected GANs Converge Faster [[arXiv](https://arxiv.org/abs/2111.01007)]
 
 #### 2021-10
+- NormFormer: Improved Transformer Pretraining with Extra Normalization [[arXiv](https://arxiv.org/abs/2110.09456)] [[Code](https://github.com/pytorch/fairseq/tree/main/examples/normformer)]
 - VQ-GNN: A Universal Framework to Scale up Graph Neural Networks using Vector Quantization [[arXiv](https://arxiv.org/abs/2110.14363)]
 - Similarity and Matching of Neural Network Representations [[arXiv](https://arxiv.org/abs/2110.14633)]
 - Fast Model Editing at Scale [[arXiv](https://arxiv.org/abs/2110.11309)] [[Code](https://github.com/eric-mitchell/mend)]
