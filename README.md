@@ -5,7 +5,13 @@
 <!-- 2020-ACL, FNLP: Ming Zhong + Danqing Wang + Zhan Shi + Xiaonan Li -->
 <!-- 2020-04， Xingyi Zhou + Dequan Wang， https://github.com/xingyizhou/CenterNet Star:4.3K -->
 <!-- 2019-04， 郑哲东， CVPR2019（Oral） -->
+#### 2021-11
+- Projected GANs Converge Faster [[arXiv](https://arxiv.org/abs/2111.01007)]
+
 #### 2021-10
+- VQ-GNN: A Universal Framework to Scale up Graph Neural Networks using Vector Quantization [[arXiv](https://arxiv.org/abs/2110.14363)]
+- Similarity and Matching of Neural Network Representations [[arXiv](https://arxiv.org/abs/2110.14633)]
+- Fast Model Editing at Scale [[arXiv](https://arxiv.org/abs/2110.11309)] [[Code](https://github.com/eric-mitchell/mend)]
 - Understanding How Encoder-Decoder Architectures Attend [[arXiv](https://arxiv.org/abs/2110.15253)]
 - ADOP: Approximate Differentiable One-Pixel Point Rendering [[arXiv](https://arxiv.org/abs/2110.06635)] [[Code](https://github.com/darglein/ADOP)]
 - Learning in High Dimension Always Amounts to Extrapolation [[arXiv](https://arxiv.org/abs/2110.09485)]
