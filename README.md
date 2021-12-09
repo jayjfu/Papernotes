@@ -6,6 +6,7 @@
 <!-- 2020-04， Xingyi Zhou + Dequan Wang， https://github.com/xingyizhou/CenterNet Star:4.3K -->
 <!-- 2019-04， 郑哲东， CVPR2019（Oral） -->
 #### 2021-11
+- Are Transformers More Robust Than CNNs? [[arXiv](https://arxiv.org/abs/2111.05464)] [[Code](https://github.com/ytongbai/ViTs-vs-CNNs)]
 - Florence: A New Foundation Model for Computer Vision [[arXiv](https://arxiv.org/abs/2111.11432)]
 - Masked Autoencoders Are Scalable Vision Learners [[arXiv](https://arxiv.org/abs/2111.06377)]
 - Projected GANs Converge Faster [[arXiv](https://arxiv.org/abs/2111.01007)]
