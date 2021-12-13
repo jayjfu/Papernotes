@@ -6,6 +6,8 @@
 <!-- 2020-04， Xingyi Zhou + Dequan Wang， https://github.com/xingyizhou/CenterNet Star:4.3K -->
 <!-- 2019-04， 郑哲东， CVPR2019（Oral） -->
 #### 2021-11
+- Sparse is Enough in Scaling Transformers [[arXiv](https://arxiv.org/abs/2111.12763)]
+- ExT5: Towards Extreme Multi-Task Scaling for Transfer Learning [[arXiv](https://arxiv.org/abs/2111.10952)]
 - A Survey of Generalisation in Deep Reinforcement Learning [[arXiv](https://arxiv.org/abs/2111.09794)]
 - Data Augmentation Can Improve Robustness [[arXiv](https://arxiv.org/abs/2111.05328)]
 - Gradients are Not All You Need [[arXiv](https://arxiv.org/abs/2111.05803)]
