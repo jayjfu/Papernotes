@@ -5,6 +5,18 @@
 <!-- 2020-ACL, FNLP: Ming Zhong + Danqing Wang + Zhan Shi + Xiaonan Li -->
 <!-- 2020-04， Xingyi Zhou + Dequan Wang， https://github.com/xingyizhou/CenterNet Star:4.3K -->
 <!-- 2019-04， 郑哲东， CVPR2019（Oral） -->
+#### 2021-12
+
+#### NIPS-22
+- ATOM3D: Tasks On Molecules in Three Dimensions [[arXiv](https://arxiv.org/abs/2012.04035)]
+- Reduced, Reused and Recycled: The Life of a Dataset in Machine Learning Research [[arXiv](https://arxiv.org/abs/2112.01716)]
+- Moser Flow: Divergence-based Generative Modeling on Manifolds [[arXiv](https://arxiv.org/abs/2108.08052)]
+- A Continuized View on Nesterov Acceleration for Stochastic Gradient Descent and Randomized Gossip [[arXiv](https://arxiv.org/abs/2106.07644)]
+- MAUVE: Measuring the Gap Between Neural Text and Human Text using Divergence Frontiers [[arXiv](https://arxiv.org/abs/2102.01454)]
+- Deep Reinforcement Learning at the Edge of the Statistical Precipice [[arXiv](https://arxiv.org/abs/2108.13264)]
+- On the Expressivity of Markov Reward [[arXiv](https://arxiv.org/abs/2111.00876)]
+- A Universal Law of Robustness via Isoperimetry [[arXiv](https://arxiv.org/abs/2105.12806)]
+
 #### 2021-11
 - Sparse is Enough in Scaling Transformers [[arXiv](https://arxiv.org/abs/2111.12763)]
 - ExT5: Towards Extreme Multi-Task Scaling for Transfer Learning [[arXiv](https://arxiv.org/abs/2111.10952)]
