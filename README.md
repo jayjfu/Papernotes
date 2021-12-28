@@ -1,4 +1,5 @@
 # Papernotes
+<!-- 2021-07, Wentao Zhang, NIPS2021, RIM: Reliable Influence-based Active Learning on Graphs -->
 <!-- 2021-07, Tianyang Lin, twitter -->
 <!-- 2021-04， Wentao Zhang, https://machinelearning.apple.com/updates/apple-scholars-aiml-2021 -->
 <!-- 2021-04， Xingyi Zhou, Facebook 2021 PhD Fellowship -->
