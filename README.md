@@ -7,6 +7,9 @@
 <!-- 2020-04， Xingyi Zhou + Dequan Wang， https://github.com/xingyizhou/CenterNet Star:4.3K -->
 <!-- 2019-04， 郑哲东， CVPR2019（Oral） -->
 #### 2021-12
+- Masked Feature Prediction for Self-Supervised Visual Pre-Training [[arXiv](https://arxiv.org/abs/2112.09133)]
+- Are Large-scale Datasets Necessary for Self-Supervised Pre-training? [[arXiv](https://arxiv.org/abs/2112.10740)]
+- Improving language models by retrieving from trillions of tokens [[arXiv](https://arxiv.org/abs/2112.04426)]
 
 #### NIPS-22
 - ATOM3D: Tasks On Molecules in Three Dimensions [[arXiv](https://arxiv.org/abs/2012.04035)]
