@@ -6,6 +6,10 @@
 <!-- 2020-ACL, FNLP: Ming Zhong + Danqing Wang + Zhan Shi + Xiaonan Li -->
 <!-- 2020-04， Xingyi Zhou + Dequan Wang， https://github.com/xingyizhou/CenterNet Star:4.3K -->
 <!-- 2019-04， 郑哲东， CVPR2019（Oral） -->
+#### 2022-01
+- https://github.com/facebookresearch/ConvNeXt [[arXiv](https://arxiv.org/abs/2201.08239)]
+- A ConvNet for the 2020s [[arXiv](https://arxiv.org/abs/2201.03545)] [[Code](https://github.com/facebookresearch/ConvNeXt)]
+
 #### 2021-12
 - Masked Feature Prediction for Self-Supervised Visual Pre-Training [[arXiv](https://arxiv.org/abs/2112.09133)]
 - Are Large-scale Datasets Necessary for Self-Supervised Pre-training? [[arXiv](https://arxiv.org/abs/2112.10740)]
