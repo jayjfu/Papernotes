@@ -6,8 +6,11 @@
 <!-- 2020-ACL, FNLP: Ming Zhong + Danqing Wang + Zhan Shi + Xiaonan Li -->
 <!-- 2020-04， Xingyi Zhou + Dequan Wang， https://github.com/xingyizhou/CenterNet Star:4.3K -->
 <!-- 2019-04， 郑哲东， CVPR2019（Oral） -->
+#### 2022-02
+- Visual Attention Network [[arXiv](https://arxiv.org/abs/2202.09741)] [[Code](https://github.com/Visual-Attention-Network/VAN-Classification)]
+
 #### 2022-01
-- https://github.com/facebookresearch/ConvNeXt [[arXiv](https://arxiv.org/abs/2201.08239)]
+- LaMDA: Language Models for Dialog Applications [[arXiv](https://arxiv.org/abs/2201.08239)]
 - A ConvNet for the 2020s [[arXiv](https://arxiv.org/abs/2201.03545)] [[Code](https://github.com/facebookresearch/ConvNeXt)]
 
 #### 2021-12
