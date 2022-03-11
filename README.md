@@ -10,6 +10,10 @@
 - DeepNet: Scaling Transformers to 1,000 Layers [[arXiv](https://arxiv.org/abs/2203.00555)] [[Code](https://github.com/microsoft/unilm)]
 
 #### 2022-02
+- MaskGIT: Masked Generative Image Transformer [[arXiv](https://arxiv.org/abs/2202.04200)]
+- Diversify and Disambiguate: Learning From Underspecified Data [[arXiv](https://arxiv.org/abs/2202.03418)] 
+- How to Understand Masked Autoencoders [[arXiv](https://arxiv.org/abs/2202.03670)]
+- Understanding Contrastive Learning Requires Incorporating Inductive Biases [[arXiv](https://arxiv.org/abs/2202.14037)] 
 - How Do Vision Transformers Work? [[arXiv](https://arxiv.org/abs/2202.06709)] [[Code](https://github.com/xxxnell/how-do-vits-work)]
 - Gradients without Backpropagation [[arXiv](https://arxiv.org/abs/2202.08587)]
 - Visual Attention Network [[arXiv](https://arxiv.org/abs/2202.09741)] [[Code](https://github.com/Visual-Attention-Network/VAN-Classification)]
