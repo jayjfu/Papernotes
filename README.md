@@ -10,6 +10,10 @@
 - DeepNet: Scaling Transformers to 1,000 Layers [[arXiv](https://arxiv.org/abs/2203.00555)] [[Code](https://github.com/microsoft/unilm)]
 
 #### 2022-02
+- Transformer Memory as a Differentiable Search Index [[arXiv](https://arxiv.org/abs/2202.06991)]
+- DALL-Eval: Probing the Reasoning Skills and Social Biases of Text-to-Image Generative Transformers [[arXiv](https://arxiv.org/abs/2202.04053)] [[Code](https://github.com/j-min/DallEval)]
+- Locating and Editing Factual Knowledge in GPT [[arXiv](https://arxiv.org/abs/2202.05262)] [[Code](https://github.com/kmeng01/rome)]
+- SGPT: GPT Sentence Embeddings for Semantic Search [[arXiv](https://arxiv.org/abs/2202.08904)] [[Code](https://github.com/Muennighoff/sgpt)]
 - MaskGIT: Masked Generative Image Transformer [[arXiv](https://arxiv.org/abs/2202.04200)]
 - Diversify and Disambiguate: Learning From Underspecified Data [[arXiv](https://arxiv.org/abs/2202.03418)] 
 - How to Understand Masked Autoencoders [[arXiv](https://arxiv.org/abs/2202.03670)]
