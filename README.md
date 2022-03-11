@@ -6,7 +6,12 @@
 <!-- 2020-ACL, FNLP: Ming Zhong + Danqing Wang + Zhan Shi + Xiaonan Li -->
 <!-- 2020-04， Xingyi Zhou + Dequan Wang， https://github.com/xingyizhou/CenterNet Star:4.3K -->
 <!-- 2019-04， 郑哲东， CVPR2019（Oral） -->
+#### 2022-03
+- DeepNet: Scaling Transformers to 1,000 Layers [[arXiv](https://arxiv.org/abs/2203.00555)] [[Code](https://github.com/microsoft/unilm)]
+
 #### 2022-02
+- How Do Vision Transformers Work? [[arXiv](https://arxiv.org/abs/2202.06709)] [[Code](https://github.com/xxxnell/how-do-vits-work)]
+- Gradients without Backpropagation [[arXiv](https://arxiv.org/abs/2202.08587)]
 - Visual Attention Network [[arXiv](https://arxiv.org/abs/2202.09741)] [[Code](https://github.com/Visual-Attention-Network/VAN-Classification)]
 
 #### 2022-01
