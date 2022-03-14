@@ -10,6 +10,7 @@
 - DeepNet: Scaling Transformers to 1,000 Layers [[arXiv](https://arxiv.org/abs/2203.00555)] [[Code](https://github.com/microsoft/unilm)]
 
 #### 2022-02
+- Transformer Quality in Linear Time [[arXiv](https://arxiv.org/abs/2202.10447)]
 - Transformer Memory as a Differentiable Search Index [[arXiv](https://arxiv.org/abs/2202.06991)]
 - DALL-Eval: Probing the Reasoning Skills and Social Biases of Text-to-Image Generative Transformers [[arXiv](https://arxiv.org/abs/2202.04053)] [[Code](https://github.com/j-min/DallEval)]
 - Locating and Editing Factual Knowledge in GPT [[arXiv](https://arxiv.org/abs/2202.05262)] [[Code](https://github.com/kmeng01/rome)]
@@ -151,6 +152,7 @@
 - High-Performance Large-Scale Image Recognition Without Normalization [[arXiv](https://arxiv.org/abs/2102.06171)] [[Code](https://github.com/deepmind/deepmind-research/tree/master/nfnets)]
 
 #### 2021-01
+- Do We Really Need Deep Learning Models for Time Series Forecasting? [[arXiv](https://arxiv.org/abs/2101.02118)]
 - Trankit: A Light-Weight Transformer-based Toolkit for Multilingual Natural Language Processing [[arXiv](https://arxiv.org/abs/2101.03289)] [[Code](https://github.com/nlp-uoregon/trankit)]
 - On the Calibration and Uncertainty of Neural Learning to Rank Models [[arXiv](https://arxiv.org/abs/2101.04356)] [[Code](https://github.com/Guzpenha/transformer_rankers/tree/uncertainty_estimation)]
 - Switch Transformers: Scaling to Trillion Parameter Models with Simple and Efficient Sparsity [[arXiv](https://arxiv.org/abs/2101.03961)] [[Code](https://github.com/tensorflow/mesh/blob/master/mesh_tensorflow/transformer/moe.py)]
