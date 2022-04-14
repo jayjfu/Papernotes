@@ -7,6 +7,8 @@
 <!-- 2020-04， Xingyi Zhou + Dequan Wang， https://github.com/xingyizhou/CenterNet Star:4.3K -->
 <!-- 2019-04， 郑哲东， CVPR2019（Oral） -->
 #### 2022-03
+- Exploring Plain Vision Transformer Backbones for Object Detection [[arXiv](https://arxiv.org/abs/2203.16527)]
+- Pathways: Asynchronous Distributed Dataflow for ML [[arXiv](https://arxiv.org/abs/2203.12533)]
 - DeepNet: Scaling Transformers to 1,000 Layers [[arXiv](https://arxiv.org/abs/2203.00555)] [[Code](https://github.com/microsoft/unilm)]
 
 #### 2022-02
