@@ -7,11 +7,14 @@
 <!-- 2020-04， Xingyi Zhou + Dequan Wang， https://github.com/xingyizhou/CenterNet Star:4.3K -->
 <!-- 2019-04， 郑哲东， CVPR2019（Oral） -->
 #### 2022-03
+- Self-Consistency Improves Chain of Thought Reasoning in Language Models [[arXiv](https://arxiv.org/abs/2203.11171)]
 - Exploring Plain Vision Transformer Backbones for Object Detection [[arXiv](https://arxiv.org/abs/2203.16527)]
 - Pathways: Asynchronous Distributed Dataflow for ML [[arXiv](https://arxiv.org/abs/2203.12533)]
 - DeepNet: Scaling Transformers to 1,000 Layers [[arXiv](https://arxiv.org/abs/2203.00555)] [[Code](https://github.com/microsoft/unilm)]
 
 #### 2022-02
+- Overcoming a Theoretical Limitation of Self-Attention [[arXiv](https://arxiv.org/abs/2202.12172)]
+- Rethinking Network Design and Local Geometry in Point Cloud: A Simple Residual MLP Framework [[arXiv](https://arxiv.org/abs/2202.07123)] [[Code](https://github.com/ma-xu/pointMLP-pytorch)]
 - Transformer Quality in Linear Time [[arXiv](https://arxiv.org/abs/2202.10447)]
 - Transformer Memory as a Differentiable Search Index [[arXiv](https://arxiv.org/abs/2202.06991)]
 - DALL-Eval: Probing the Reasoning Skills and Social Biases of Text-to-Image Generative Transformers [[arXiv](https://arxiv.org/abs/2202.04053)] [[Code](https://github.com/j-min/DallEval)]
