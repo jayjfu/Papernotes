@@ -12,6 +12,13 @@
 - Pathways: Asynchronous Distributed Dataflow for ML [[arXiv](https://arxiv.org/abs/2203.12533)]
 - DeepNet: Scaling Transformers to 1,000 Layers [[arXiv](https://arxiv.org/abs/2203.00555)] [[Code](https://github.com/microsoft/unilm)]
 
+#### ICLR-22
+- Bootstrapped Meta-Learning [[arXiv](https://arxiv.org/abs/2109.04504)]
+- Neural Collapse Under MSE Loss: Proximity to and Dynamics on the Central Path [[arXiv](https://arxiv.org/abs/2106.02073)]
+- Expressiveness and Approximation Properties of Graph Neural Networks [[arXiv](https://arxiv.org/abs/2204.04661)]
+- Learning strides in convolutional neural networks [[arXiv](https://arxiv.org/abs/2202.01653)]
+- Hyperparameter Tuning with Renyi Differential Privacy [[arXiv](https://arxiv.org/abs/2110.03620)]
+
 #### 2022-02
 - Overcoming a Theoretical Limitation of Self-Attention [[arXiv](https://arxiv.org/abs/2202.12172)]
 - Rethinking Network Design and Local Geometry in Point Cloud: A Simple Residual MLP Framework [[arXiv](https://arxiv.org/abs/2202.07123)] [[Code](https://github.com/ma-xu/pointMLP-pytorch)]
