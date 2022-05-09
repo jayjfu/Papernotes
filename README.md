@@ -6,6 +6,9 @@
 <!-- 2020-ACL, FNLP: Ming Zhong + Danqing Wang + Zhan Shi + Xiaonan Li -->
 <!-- 2020-04， Xingyi Zhou + Dequan Wang， https://github.com/xingyizhou/CenterNet Star:4.3K -->
 <!-- 2019-04， 郑哲东， CVPR2019（Oral） -->
+#### 2022-04
+- Do As I Can, Not As I Say: Grounding Language in Robotic Affordances [[arXiv](https://arxiv.org/abs/2204.01691)]
+
 #### 2022-03
 - Self-Consistency Improves Chain of Thought Reasoning in Language Models [[arXiv](https://arxiv.org/abs/2203.11171)]
 - Exploring Plain Vision Transformer Backbones for Object Detection [[arXiv](https://arxiv.org/abs/2203.16527)]
