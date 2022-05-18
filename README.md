@@ -7,6 +7,7 @@
 <!-- 2020-04， Xingyi Zhou + Dequan Wang， https://github.com/xingyizhou/CenterNet Star:4.3K -->
 <!-- 2019-04， 郑哲东， CVPR2019（Oral） -->
 #### 2022-04
+- Standing on the Shoulders of Giant Frozen Language Models [[arXiv](https://arxiv.org/abs/2204.10019)]
 - Do As I Can, Not As I Say: Grounding Language in Robotic Affordances [[arXiv](https://arxiv.org/abs/2204.01691)]
 
 #### 2022-03
