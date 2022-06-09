@@ -6,6 +6,11 @@
 <!-- 2020-ACL, FNLP: Ming Zhong + Danqing Wang + Zhan Shi + Xiaonan Li -->
 <!-- 2020-04， Xingyi Zhou + Dequan Wang， https://github.com/xingyizhou/CenterNet Star:4.3K -->
 <!-- 2019-04， 郑哲东， CVPR2019（Oral） -->
+#### ACL-2022
+- Ditch the Gold Standard: Re-evaluating Conversational Question Answering [[arXiv](https://arxiv.org/abs/2112.08812)]
+- Fantastically Ordered Prompts and Where to Find Them: Overcoming Few-Shot Prompt Order Sensitivity [[arXiv](https://arxiv.org/abs/2104.08786)]
+- Evaluating Factuality in Text Simplification [[arXiv](https://arxiv.org/abs/2204.07562)]
+
 #### 2022-04
 - Standing on the Shoulders of Giant Frozen Language Models [[arXiv](https://arxiv.org/abs/2204.10019)]
 - Do As I Can, Not As I Say: Grounding Language in Robotic Affordances [[arXiv](https://arxiv.org/abs/2204.01691)]
