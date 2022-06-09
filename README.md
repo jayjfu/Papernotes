@@ -11,6 +11,9 @@
 - Fantastically Ordered Prompts and Where to Find Them: Overcoming Few-Shot Prompt Order Sensitivity [[arXiv](https://arxiv.org/abs/2104.08786)]
 - Evaluating Factuality in Text Simplification [[arXiv](https://arxiv.org/abs/2204.07562)]
 
+#### 2022-05
+- An Evolutionary Approach to Dynamic Introduction of Tasks in Large-scale Multitask Learning Systems [[arXiv](https://arxiv.org/abs/2205.12755)] [[Code](https://github.com/google-research/google-research/tree/master/muNet)]
+
 #### 2022-04
 - Standing on the Shoulders of Giant Frozen Language Models [[arXiv](https://arxiv.org/abs/2204.10019)]
 - Do As I Can, Not As I Say: Grounding Language in Robotic Affordances [[arXiv](https://arxiv.org/abs/2204.01691)]
