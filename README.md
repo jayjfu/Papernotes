@@ -12,6 +12,7 @@
 - Evaluating Factuality in Text Simplification [[arXiv](https://arxiv.org/abs/2204.07562)]
 
 #### 2022-05
+- FlashAttention: Fast and Memory-Efficient Exact Attention with IO-Awareness [[arXiv](https://arxiv.org/abs/2205.14135)] [[Code](https://github.com/HazyResearch/flash-attention)]
 - Rethinking Graph Neural Networks for Anomaly Detection [[arXiv](https://arxiv.org/abs/2205.15508)] [[Code](https://github.com/squareRoot3/Rethinking-Anomaly-Detection)]
 - An Evolutionary Approach to Dynamic Introduction of Tasks in Large-scale Multitask Learning Systems [[arXiv](https://arxiv.org/abs/2205.12755)] [[Code](https://github.com/google-research/google-research/tree/master/muNet)]
 
