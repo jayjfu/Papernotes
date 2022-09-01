@@ -7,6 +7,7 @@
 <!-- 2020-04， Xingyi Zhou + Dequan Wang， https://github.com/xingyizhou/CenterNet Star:4.3K -->
 <!-- 2019-04， 郑哲东， CVPR2019（Oral） -->
 #### 2022-07
+- Why do tree-based models still outperform deep learning on tabular data? [[arXiv](https://arxiv.org/abs/2207.08815)]
 - Formal Algorithms for Transformers [[arXiv](https://arxiv.org/abs/2207.09238)]
 
 #### 2022-06
