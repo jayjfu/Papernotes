@@ -6,6 +6,13 @@
 <!-- 2020-ACL, FNLP: Ming Zhong + Danqing Wang + Zhan Shi + Xiaonan Li -->
 <!-- 2020-04， Xingyi Zhou + Dequan Wang， https://github.com/xingyizhou/CenterNet Star:4.3K -->
 <!-- 2019-04， 郑哲东， CVPR2019（Oral） -->
+#### 2022-07
+- Formal Algorithms for Transformers [[arXiv](https://arxiv.org/abs/2207.09238)]
+
+#### 2022-06
+- Beyond neural scaling laws: beating power law scaling via data pruning [[arXiv](https://arxiv.org/abs/2206.14486)]
+- Towards a General Purpose CNN for Long Range Dependencies in ND [[arXiv](https://arxiv.org/abs/2206.03398)] [[Code](https://github.com/david-knigge/ccnn)]
+
 #### ACL-2022
 - Ditch the Gold Standard: Re-evaluating Conversational Question Answering [[arXiv](https://arxiv.org/abs/2112.08812)]
 - Fantastically Ordered Prompts and Where to Find Them: Overcoming Few-Shot Prompt Order Sensitivity [[arXiv](https://arxiv.org/abs/2104.08786)]
