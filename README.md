@@ -1,11 +1,4 @@
-# Papernotes
-<!-- 2021-07, Wentao Zhang, NIPS2021, RIM: Reliable Influence-based Active Learning on Graphs -->
-<!-- 2021-07, Tianyang Lin, twitter -->
-<!-- 2021-04， Wentao Zhang, https://machinelearning.apple.com/updates/apple-scholars-aiml-2021 -->
-<!-- 2021-04， Xingyi Zhou, Facebook 2021 PhD Fellowship -->
-<!-- 2020-ACL, FNLP: Ming Zhong + Danqing Wang + Zhan Shi + Xiaonan Li -->
-<!-- 2020-04， Xingyi Zhou + Dequan Wang， https://github.com/xingyizhou/CenterNet Star:4.3K -->
-<!-- 2019-04， 郑哲东， CVPR2019（Oral） -->
+# Papernotes (deprecated)
 #### 2022-07
 - Why do tree-based models still outperform deep learning on tabular data? [[arXiv](https://arxiv.org/abs/2207.08815)]
 - Formal Algorithms for Transformers [[arXiv](https://arxiv.org/abs/2207.09238)]
